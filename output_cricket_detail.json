@@ -1,0 +1,172 @@
+[
+  {
+    "head": "1x2",
+    "values": [
+      {
+        "type": "Agra Royals (Women)",
+        "rate": 1.04
+      },
+      {
+        "type": "Draw",
+        "rate": 25
+      },
+      {
+        "type": "The Aryans Cricket Academy (Women)",
+        "rate": 10.1
+      }
+    ]
+  },
+  {
+    "head": "Team Wins",
+    "values": [
+      {
+        "type": "Agra Royals (Women) Wins",
+        "rate": 1.032
+      },
+      {
+        "type": "The Aryans Cricket Academy (Women) Wins",
+        "rate": 9.3
+      }
+    ]
+  },
+  {
+    "head": "Individual Total Runs",
+    "values": [
+      {
+        "type": "The Aryans Cricket Academy (Women) Total Runs In First 12 Overs Over 86.5",
+        "rate": 1.88
+      },
+      {
+        "type": "The Aryans Cricket Academy (Women) Total Runs In First 12 Overs Under 86.5",
+        "rate": 1.88
+      },
+      {
+        "type": "The Aryans Cricket Academy (Women) Total Runs In First 12 Overs Over 87",
+        "rate": 1.92
+      },
+      {
+        "type": "The Aryans Cricket Academy (Women) Total Runs In First 12 Overs Under 87",
+        "rate": 1.845
+      },
+      {
+        "type": "The Aryans Cricket Academy (Women) Total Runs In First 12 Overs Over 87.5",
+        "rate": 1.96
+      },
+      {
+        "type": "The Aryans Cricket Academy (Women) Total Runs In First 12 Overs Under 87.5",
+        "rate": 1.81
+      }
+    ]
+  },
+  {
+    "head": "Team 2 Total Runs In Over",
+    "values": [
+      {
+        "type": "4 - Over, Total Runs The Aryans Cricket Academy (Women) Over 6.5",
+        "rate": 1.7
+      },
+      {
+        "type": "4 - Over, Total Runs The Aryans Cricket Academy (Women) Under 6.5",
+        "rate": 2.104
+      },
+      {
+        "type": "4 - Over, Total Runs The Aryans Cricket Academy (Women) Over 7",
+        "rate": 1.925
+      },
+      {
+        "type": "4 - Over, Total Runs The Aryans Cricket Academy (Women) Under 7",
+        "rate": 1.835
+      },
+      {
+        "type": "4 - Over, Total Runs The Aryans Cricket Academy (Women) Over 7.5",
+        "rate": 2.225
+      },
+      {
+        "type": "4 - Over, Total Runs The Aryans Cricket Academy (Women) Under 7.5",
+        "rate": 1.63
+      },
+      {
+        "type": "4 - Over, Total Runs The Aryans Cricket Academy (Women) Over 8",
+        "rate": 2.625
+      },
+      {
+        "type": "4 - Over, Total Runs The Aryans Cricket Academy (Women) Under 8",
+        "rate": 1.464
+      },
+      {
+        "type": "4 - Over, Total Runs The Aryans Cricket Academy (Women) Over 8.5",
+        "rate": 3.21
+      },
+      {
+        "type": "4 - Over, Total Runs The Aryans Cricket Academy (Women) Under 8.5",
+        "rate": 1.33
+      }
+    ]
+  },
+  {
+    "head": "Total Runs Per Delivery",
+    "values": [
+      {
+        "type": "4 - Over, 2 - Delivery, Total Runs The Aryans Cricket Academy (Women) Over 0.5",
+        "rate": 1.36
+      },
+      {
+        "type": "4 - Over, 2 - Delivery, Total Runs The Aryans Cricket Academy (Women) Under 0.5",
+        "rate": 2.655
+      },
+      {
+        "type": "4 - Over, 2 - Delivery, Total Runs The Aryans Cricket Academy (Women) Over 1.5",
+        "rate": 3.7
+      },
+      {
+        "type": "4 - Over, 2 - Delivery, Total Runs The Aryans Cricket Academy (Women) Under 1.5",
+        "rate": 1.19
+      },
+      {
+        "type": "4 - Over, 2 - Delivery, Total Runs The Aryans Cricket Academy (Women) Over 3.5",
+        "rate": 5.35
+      },
+      {
+        "type": "4 - Over, 2 - Delivery, Total Runs The Aryans Cricket Academy (Women) Under 3.5",
+        "rate": 1.08
+      },
+      {
+        "type": "4 - Over, 3 - Delivery, Total Runs The Aryans Cricket Academy (Women) Over 0.5",
+        "rate": 1.36
+      },
+      {
+        "type": "4 - Over, 3 - Delivery, Total Runs The Aryans Cricket Academy (Women) Under 0.5",
+        "rate": 2.655
+      },
+      {
+        "type": "4 - Over, 3 - Delivery, Total Runs The Aryans Cricket Academy (Women) Over 1.5",
+        "rate": 3.7
+      },
+      {
+        "type": "4 - Over, 3 - Delivery, Total Runs The Aryans Cricket Academy (Women) Under 1.5",
+        "rate": 1.19
+      },
+      {
+        "type": "4 - Over, 3 - Delivery, Total Runs The Aryans Cricket Academy (Women) Over 3.5",
+        "rate": 5.35
+      },
+      {
+        "type": "4 - Over, 3 - Delivery, Total Runs The Aryans Cricket Academy (Women) Under 3.5",
+        "rate": 1.08
+      }
+    ]
+  },
+  {
+    "head": "Team 2 Total Runs In Over Even/Odd",
+    "values": [
+      {
+        "type": "",
+        "rate": 0
+      },
+      {
+        "type": "",
+        "rate": 0
+      }
+    ]
+  }
+]
