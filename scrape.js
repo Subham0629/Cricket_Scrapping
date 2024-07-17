@@ -31,27 +31,31 @@ const path = require("path");
         let teamNames = await elementss[i].findElements(
           By.css(".c-events__teams .c-events-scoreboard__team-wrap")
         );
-        let teams = {};
+        let matches=[]
+        let teams = [];
         for (let j = 0; j < teamNames.length; j++) {
           let teamName = await teamNames[j].getText();
-          teams[`Team${j + 1}`] = teamName;
+          teams.push(teamName)
+          // teams[`Team${j + 1}`] = teamName;
         }
+
 
         let teamScores = await elementss[i].findElements(
           By.css(
             ".c-events-scoreboard__lines .c-events-scoreboard__line .c-events-scoreboard__cell"
           )
         );
-        let scores = {};
+        let scores = [];
         for (let k = 0; k < teamScores.length; k++) {
           try {
             let teamScore = await teamScores[k].getText();
-            scores[`Score${k + 1}`] = teamScore;
+            scores.push(teamScore)
+            // scores[`Score${k + 1}`] = teamScore;
           } catch (error) {
             console.error("Error scraping score data:", error);
           }
         }
-
+    
         let head = await elementss[i].findElements(
           By.css(
             ".dashboard-champ-content .fixed-heading .c-events__item .c-bets .c-bets__bet"
@@ -65,10 +69,10 @@ const path = require("path");
           maxValues.push(max);
         }
 
-        let rowData = { Event: event, ...teams, ...scores };
-        for (let m = 0; m < maxValues.length; m++) {
-          rowData[`head${m + 1}`] = maxValues[m];
-        }
+       
+        // for (let m = 0; m < maxValues.length; m++) {
+        //   rowData[`head${m + 1}`] = maxValues[m];
+        // }
 
         let body = await elementss[i].findElements(
           By.css(
@@ -82,9 +86,32 @@ const path = require("path");
             .getText();
           rate.push(rateText);
         }
-        for (let o = 0; o < rate.length; o++) {
-          rowData[`Rate${o + 1}`] = rate[o];
+        let distributedRate=[]
+        for(let i=0;i<rate.length;i+=9){
+          let gameRate=[]
+          for(let j=i;j<i+9;j++){
+            gameRate.push(rate[j])
+          }
+          distributedRate.push(gameRate)
         }
+        // for (let o = 0; o < rate.length; o++) {
+        //   rowData[`Rate${o + 1}`] = rate[o];
+        // }
+        let count=1
+        let index=0
+        for (let k = 0; k < teams.length; k+=2) {
+          let final = {
+            [`game${count++}`]: [
+                { name: teams[k], score: scores[k] },
+                { name: teams[k + 1], score: scores[k + 1] }
+                
+            ],
+        };
+        final.rates=distributedRate[index++]
+
+          matches.push(final)
+        }
+        let rowData = { Event: event,matches:matches,head:maxValues};
 
         data.push(rowData);
       } catch (error) {

@@ -1,334 +1,220 @@
 [
   {
-    "Event": "Andhra Premier League",
-    "Team1": "Vizag Warriors",
-    "Team2": "Coastal Riders",
-    "Score1": "32/1",
-    "Score2": "153/7",
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "",
-    "head8": "",
-    "head9": "",
-    "Rate1": "1.195",
-    "Rate2": "-",
-    "Rate3": "4.62",
-    "Rate4": "1.2",
-    "Rate5": "25",
-    "Rate6": "4.63",
-    "Rate7": "",
-    "Rate8": "",
-    "Rate9": ""
-  },
-  {
-    "Event": "India. Odisha League",
-    "Team1": "Odisha Cheetahs",
-    "Team2": "Odisha Jaguars",
-    "Score1": "158",
-    "Score2": "22/1",
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "",
-    "head8": "",
-    "head9": "",
-    "Rate1": "1.305",
-    "Rate2": "-",
-    "Rate3": "3.05",
-    "Rate4": "1.315",
-    "Rate5": "25",
-    "Rate6": "3.1",
-    "Rate7": "",
-    "Rate8": "",
-    "Rate9": ""
-  },
-  {
-    "Event": "Bandhavgarh Trophy Т10. Women",
-    "Team1": "Thunder Hitters (Women)",
-    "Team2": "Brave Ladies (Women)",
-    "Score1": "37/1",
-    "Score2": "87",
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "",
-    "head8": "",
-    "head9": "",
-    "Rate1": "1.79",
-    "Rate2": "-",
-    "Rate3": "1.936",
-    "Rate4": "1.816",
-    "Rate5": "25",
-    "Rate6": "1.97",
-    "Rate7": "",
-    "Rate8": "",
-    "Rate9": ""
-  },
-  {
-    "Event": "Bhalessa Chenab Premier League 2",
-    "Team1": "Sajan Bathri",
-    "Team2": "Juloo Qalanders",
-    "Score1": "16/1",
-    "Score2": "0",
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "",
-    "head8": "",
-    "head9": "",
-    "Rate1": "2.29",
-    "Rate2": "-",
-    "Rate3": "1.525",
-    "Rate4": "2.315",
-    "Rate5": "25",
-    "Rate6": "1.54",
-    "Rate7": "",
-    "Rate8": "",
-    "Rate9": ""
-  },
-  {
     "Event": "India. Women's Indoor league T-10",
-    "Team1": "Charming Squad (Women)",
-    "Team2": "Femforce (Women)",
-    "Score1": "120",
-    "Score2": "4/1",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "",
-    "head8": "",
-    "head9": "",
-    "Rate1": "1.088",
-    "Rate2": "25",
-    "Rate3": "7.24",
-    "Rate4": "1.87",
-    "Rate5": "227.5",
-    "Rate6": "1.89",
-    "Rate7": "",
-    "Rate8": "",
-    "Rate9": ""
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "The Incredible (Women)",
+            "score": "112"
+          },
+          {
+            "name": "Soul Sisters (Women)",
+            "score": "0/0"
+          }
+        ],
+        "rates": [
+          "2.245",
+          "25",
+          "1.63",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "O",
+      "(OVER) T1",
+      "U"
+    ]
+  },
+  {
+    "Event": "Maruti Summer Cup",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Ecco Stars",
+            "score": "135"
+          },
+          {
+            "name": "The Phoenix Claws",
+            "score": "13/0"
+          }
+        ],
+        "rates": [
+          "3.39",
+          "-",
+          "1.255",
+          "3.455",
+          "25",
+          "1.26",
+          "-",
+          "-",
+          "-"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "-",
+      "2",
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "Sky Hawks Premier League",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Mavericks Incredibles",
+            "score": "79/2"
+          },
+          {
+            "name": "Ganga Sons Supergiants",
+            "score": "0"
+          }
+        ],
+        "rates": [
+          "1.725",
+          "-",
+          "1.945",
+          "1.744",
+          "25",
+          "1.97",
+          "-",
+          "-",
+          "-"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "-",
+      "2",
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
     "Event": "Cyber Indian League 22",
-    "Team1": "Chennai Carvers (cyber)",
-    "Team2": "Bangalore Crowns (cyber)",
-    "Team3": "Delhi Demons (cyber)",
-    "Team4": "Ahmedabad Shahs (cyber)",
-    "Score1": "0/0",
-    "Score2": "52/1",
-    "Score3": "215/5",
-    "Score4": "35/0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "",
-    "head8": "",
-    "head9": "",
-    "Rate1": "2.27",
-    "Rate2": "-",
-    "Rate3": "1.575",
-    "Rate4": "1.904",
-    "Rate5": "308.5",
-    "Rate6": "1.896",
-    "Rate7": "",
-    "Rate8": "",
-    "Rate9": "",
-    "Rate10": "-",
-    "Rate11": "-",
-    "Rate12": "15",
-    "Rate13": "-",
-    "Rate14": "-",
-    "Rate15": "-",
-    "Rate16": "",
-    "Rate17": "",
-    "Rate18": ""
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Delhi Demons (cyber)",
+            "score": "20/1"
+          },
+          {
+            "name": "Bangalore Crowns (cyber)",
+            "score": "0/0"
+          }
+        ],
+        "rates": [
+          "2.69",
+          "-",
+          "1.4",
+          "1.896",
+          "274.5",
+          "1.904",
+          "1.944",
+          "(5) 7.5",
+          "1.86"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Kolkata Kits (cyber)",
+            "score": "21/0"
+          },
+          {
+            "name": "Chennai Carvers (cyber)",
+            "score": "176/4"
+          }
+        ],
+        "rates": [
+          "2.5",
+          "-",
+          "1.456",
+          "-",
+          "-",
+          "-",
+          "2.02",
+          "(3) 8.5",
+          "1.725"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "O",
+      "(OVER) T1",
+      "U"
+    ]
   },
   {
     "Event": "IPL. Cyber Cricket League",
-    "Team1": "Kolkata Knight Riders (Axil_9095)",
-    "Team2": "Sunrisers Hyderabad (Vani_2699)",
-    "Team3": "Mumbai Indias (Bond_0080)",
-    "Team4": "Punjab Kings (Leng_0905)",
-    "Score1": "139",
-    "Score2": "0/0",
-    "Score3": "160",
-    "Score4": "0/0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "",
-    "head8": "",
-    "head9": "",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "",
-    "Rate8": "",
-    "Rate9": "",
-    "Rate10": "1.57",
-    "Rate11": "25",
-    "Rate12": "2.37",
-    "Rate13": "1.87",
-    "Rate14": "315.5",
-    "Rate15": "1.89",
-    "Rate16": "",
-    "Rate17": "",
-    "Rate18": ""
-  },
-  {
-    "Event": "India. Calcutta Premier Division",
-    "Team1": "Peerless",
-    "Team2": "Rainbow AC",
-    "Team3": "Railway",
-    "Team4": "George Telegraph",
-    "Score1": "1",
-    "Score2": "0",
-    "Score3": "1",
-    "Score4": "1",
-    "Score5": "1",
-    "Score6": "0",
-    "Score7": "3",
-    "Score8": "2",
-    "Score9": "1",
-    "Score10": "1",
-    "Score11": "1",
-    "Score12": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "",
-    "head8": "",
-    "head9": "",
-    "Rate1": "2.192",
-    "Rate2": "2.288",
-    "Rate3": "5.32",
-    "Rate4": "1.125",
-    "Rate5": "1.565",
-    "Rate6": "1.61",
-    "Rate7": "",
-    "Rate8": "",
-    "Rate9": "",
-    "Rate10": "1.11",
-    "Rate11": "8.51",
-    "Rate12": "15.5",
-    "Rate13": "-",
-    "Rate14": "1.045",
-    "Rate15": "5.59",
-    "Rate16": "",
-    "Rate17": "",
-    "Rate18": ""
-  },
-  {
-    "Event": "India. JSA League. Premier Division",
-    "Team1": "Narwa Pahar",
-    "Team2": "Tata Steel Jamshedpur",
-    "Score1": "0",
-    "Score2": "0",
-    "Score3": "0",
-    "Score4": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "",
-    "head8": "",
-    "head9": "",
-    "Rate1": "5.04",
-    "Rate2": "3.336",
-    "Rate3": "1.695",
-    "Rate4": "2.008",
-    "Rate5": "1.265",
-    "Rate6": "1.125",
-    "Rate7": "",
-    "Rate8": "",
-    "Rate9": ""
-  },
-  {
-    "Event": "Setka Cup. India",
-    "Team1": "Karan Karan",
-    "Team2": "Chand Chand",
-    "Score1": "1",
-    "Score2": "11",
-    "Score3": "12",
-    "Score4": "5",
-    "Score5": "1",
-    "Score6": "9",
-    "Score7": "14",
-    "Score8": "7",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "",
-    "head8": "",
-    "head9": "",
-    "Rate1": "3.456",
-    "Rate2": "-",
-    "Rate3": "1.245",
-    "Rate4": "1.86",
-    "Rate5": "89.5",
-    "Rate6": "1.8",
-    "Rate7": "",
-    "Rate8": "",
-    "Rate9": ""
-  },
-  {
-    "Event": "International Cup",
-    "Team1": "India",
-    "Team2": "Japan",
-    "Score1": "0",
-    "Score2": "0",
-    "Score3": "0",
-    "Score4": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "",
-    "head8": "",
-    "head9": "",
-    "Rate1": "2.688",
-    "Rate2": "30",
-    "Rate3": "1.42",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "",
-    "Rate8": "",
-    "Rate9": ""
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Sunrisers Hyderabad (Bond_0080)",
+            "score": "149"
+          },
+          {
+            "name": "Rajasthan Royals (Leng_0905)",
+            "score": "120/1"
+          }
+        ],
+        "rates": [
+          "1.29",
+          "-",
+          "3.32",
+          "1.304",
+          "25",
+          "3.415",
+          "1.87",
+          "293.5",
+          "1.89"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "-",
+      "2",
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   }
 ]

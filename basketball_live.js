@@ -6,7 +6,7 @@ const path = require("path");
   let driver = await new Builder().forBrowser("chrome").build();
 
   try {
-    await driver.get("https://india.1xbet.com/line/cricket");
+    await driver.get("https://india.1xbet.com/live/basketball");
     await driver.wait(
       until.elementLocated(By.css(".dashboard-content")),
       10000
@@ -27,32 +27,49 @@ const path = require("path");
             )
           )
           .getText();
-let match=[]
+
         let teamNames = await elementss[i].findElements(
-          By.css(".c-events__teams .c-events__team")
+          By.css(".c-events__teams .c-events-scoreboard__team-wrap")
         );
         let teams = {};
         for (let j = 0; j < teamNames.length; j++) {
           let teamName = await teamNames[j].getText();
           teams[`Team${j + 1}`] = teamName;
-          
         }
-        match.push(teams)
-        let teamScores = await elementss[i].findElements(
+        let teamSc = await elementss[i].findElements(
           By.css(
-            ".c-events__time-info .c-events__time .c-events-time__val"
+            ".c-events-scoreboard__layout"
           )
         );
         let scores = {};
-        for (let k = 0; k < teamScores.length; k++) {
-          try {
-            let teamScore = await teamScores[k].getText();
-            scores[`Time${k + 1}`] = teamScore;
-          } catch (error) {
-            console.error("Error scraping score data:", error);
+        let teamserial=1
+        for(let j=0;j<teamSc.length;j++){
+          let teamScores = await teamSc[j].findElements(
+            By.css(
+              ".c-events-scoreboard__lines .c-events-scoreboard__line .c-events-scoreboard__cell"
+            )
+          );
+          let team1Counter = 1;
+          let team2Counter = 1;
+          for (let k = 0; k < teamScores.length; k++) { 
+            try {
+              let teamScore = await teamScores[k].getText();
+              if(k<teamScores.length/2){
+                scores[`team${teamserial}_score__${team1Counter++}`] = teamScore;
+              }else{
+                scores[`team${teamserial}_score__${team2Counter++}`] = teamScore;
+              }
+              if( k ==(teamScores.length /2)-1){   
+                teamserial++                   
+              }
+            } catch (error) {
+              console.error("Error scraping score data:", error);
+            }
           }
+          
+          teamserial++ 
         }
-        match.push(scores)
+
         let head = await elementss[i].findElements(
           By.css(
             ".dashboard-champ-content .fixed-heading .c-events__item .c-bets .c-bets__bet"
@@ -66,7 +83,7 @@ let match=[]
           maxValues.push(max);
         }
 
-        let rowData = { Event: event, match };
+        let rowData = { Event: event, ...teams, ...scores };
         for (let m = 0; m < maxValues.length; m++) {
           rowData[`head${m + 1}`] = maxValues[m];
         }
@@ -94,7 +111,7 @@ let match=[]
     }
 
     const jsonData = JSON.stringify(data, null, 2);
-    const filePath = path.join(__dirname, "upcoming_cricket.json");
+    const filePath = path.join(__dirname, "basketball_live.json");
     fs.writeFileSync(filePath, jsonData, "utf8");
     console.log("Data written to JSON file");
   } catch (error) {
