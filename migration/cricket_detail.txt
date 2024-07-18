@@ -1,0 +1,5 @@
+CREATE TABLE cricket_detail (
+    id SERIAL PRIMARY KEY,
+    head VARCHAR(50),
+    values JSONB
+);
