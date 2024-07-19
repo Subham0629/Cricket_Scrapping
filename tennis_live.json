@@ -1,1184 +1,2200 @@
 [
   {
     "Event": "ATP. Bastad",
-    "Team1": "Thiago Monteiro",
-    "Team2": "Casper Ruud (2)",
-    "team1_score__1": "1",
-    "team1_score__2": "6",
-    "team1_score__3": "3",
-    "team1_score__4": "(40)",
-    "team2_score__1": "0",
-    "team2_score__2": "3",
-    "team2_score__3": "2",
-    "team2_score__4": "(30)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.36",
-    "Rate2": "-",
-    "Rate3": "3.2",
-    "Rate4": "1.89",
-    "Rate5": "22",
-    "Rate6": "1.91",
-    "Rate7": "1.96",
-    "Rate8": "-4.5+",
-    "Rate9": "1.848"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Duje Ajdukovic (Q)",
+            "score": [
+              "1",
+              "6",
+              "4",
+              "5",
+              "(40)"
+            ]
+          },
+          {
+            "name": "Thiago Monteiro",
+            "score": [
+              "1",
+              "2",
+              "6",
+              "4",
+              "(0)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.004",
+          "-",
+          "41",
+          "16",
+          "28.5",
+          "1.01",
+          "-",
+          "-",
+          "-"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "ATP. Gstaad",
-    "Team1": "Juan Pablo Patino-Samudio (Q)",
-    "Team2": "Fabio Fognini (7)",
-    "team1_score__1": "1",
-    "team1_score__2": "6",
-    "team1_score__3": "6",
-    "team1_score__4": "(4)",
-    "team2_score__1": "0",
-    "team2_score__2": "3",
-    "team2_score__3": "6",
-    "team2_score__4": "(4)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Jan-Lennard Struff (5)",
+            "score": [
+              "0",
+              "5",
+              "(30)"
+            ]
+          },
+          {
+            "name": "Tomas Martin Etcheverry (4)",
+            "score": [
+              "0",
+              "5",
+              "(15)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.608",
+          "-",
+          "2.355",
+          "1.96",
+          "26.5",
+          "1.848",
+          "1.9",
+          "-1.5+",
+          "1.9"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "ATP. Hamburg",
-    "Team1": "Luciano Darderi (7)",
-    "Team2": "Alexander Shevchenko",
-    "team1_score__1": "0",
-    "team1_score__2": "2",
-    "team1_score__3": "(0)",
-    "team2_score__1": "0",
-    "team2_score__2": "2",
-    "team2_score__3": "(0)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.456",
-    "Rate2": "-",
-    "Rate3": "2.775",
-    "Rate4": "1.848",
-    "Rate5": "22.5",
-    "Rate6": "1.96",
-    "Rate7": "1.85",
-    "Rate8": "-3+",
-    "Rate9": "1.95"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Luciano Darderi (7)",
+            "score": [
+              "1",
+              "6",
+              "3",
+              "(15)"
+            ]
+          },
+          {
+            "name": "Sebastian Baez (3)",
+            "score": [
+              "0",
+              "2",
+              "4",
+              "(30)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.83",
+          "-",
+          "1.995",
+          "1.94",
+          "27",
+          "1.86",
+          "1.77",
+          "-2.5+",
+          "2.05"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "WTA. Budapest",
-    "Team1": "Suzan Lamens",
-    "Team2": "Carole Monnet (Q)",
-    "team1_score__1": "0",
-    "team1_score__2": "2",
-    "team1_score__3": "(15)",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "team2_score__3": "(0)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.18",
-    "Rate2": "-",
-    "Rate3": "5.05",
-    "Rate4": "1.9",
-    "Rate5": "18.5",
-    "Rate6": "1.9",
-    "Rate7": "1.96",
-    "Rate8": "-6.5+",
-    "Rate9": "1.848"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Elina Avanesyan",
+            "score": [
+              "0",
+              "2",
+              "(30)"
+            ]
+          },
+          {
+            "name": "Anna Karolína Schmiedlova",
+            "score": [
+              "0",
+              "1",
+              "(40)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.456",
+          "-",
+          "2.775",
+          "1.848",
+          "21.5",
+          "1.96",
+          "1.9",
+          "-3.5+",
+          "1.9"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "ATP. Gstaad. Doubles",
-    "Team1": "Martin/Humbert",
-    "Team2": "Arneodo/Weissborn (6)",
-    "team1_score__1": "1",
-    "team1_score__2": "6",
-    "team1_score__3": "1",
-    "team1_score__4": "(0)",
-    "team2_score__1": "0",
-    "team2_score__2": "1",
-    "team2_score__3": "2",
-    "team2_score__4": "(0)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.432",
-    "Rate2": "-",
-    "Rate3": "2.816",
-    "Rate4": "1.925",
-    "Rate5": "17.5",
-    "Rate6": "1.816",
-    "Rate7": "1.87",
-    "Rate8": "-4.5+",
-    "Rate9": "1.87"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Bhambri/Olivetti (3)",
+            "score": [
+              "0",
+              "2",
+              "(0)"
+            ]
+          },
+          {
+            "name": "Arends/Haase (5)",
+            "score": [
+              "0",
+              "1",
+              "(0)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.625",
+          "-",
+          "2.285",
+          "1.816",
+          "21.5",
+          "1.925",
+          "1.87",
+          "-1.5+",
+          "1.87"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "ATP. Hamburg. Doubles",
-    "Team1": "Jebens/Frantzen",
-    "Team2": "Peers/Ebden (4)",
-    "team1_score__1": "0",
-    "team1_score__2": "1",
-    "team1_score__3": "(15)",
-    "team2_score__1": "0",
-    "team2_score__2": "2",
-    "team2_score__3": "(40)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "2.675",
-    "Rate2": "-",
-    "Rate3": "1.475",
-    "Rate4": "2.112",
-    "Rate5": "20.5",
-    "Rate6": "1.675",
-    "Rate7": "1.87",
-    "Rate8": "+2.5-",
-    "Rate9": "1.87"
-  },
-  {
-    "Event": "WTA. Budapest. Doubles",
-    "Team1": "Papadakis/Aney",
-    "Team2": "Danilina/Khromacheva (2)",
-    "team1_score__1": "0",
-    "team1_score__2": "2",
-    "team1_score__3": "2",
-    "team1_score__4": "(0)",
-    "team2_score__1": "1",
-    "team2_score__2": "6",
-    "team2_score__3": "1",
-    "team2_score__4": "(0)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "4.83",
-    "Rate2": "-",
-    "Rate3": "1.184",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "1.87",
-    "Rate8": "+5.5-",
-    "Rate9": "1.87"
-  },
-  {
-    "Event": "Challenger. Amersfoort",
-    "Team1": "Jelle Sels (Q)",
-    "Team2": "Alexey Zakharov (Q)",
-    "Team3": "Joris De Loore (7)",
-    "Team4": "Bernabe Zapata Miralles",
-    "Team5": "Mathys Erhard (Q)",
-    "Team6": "Adrian Andreev",
-    "team1_score__1": "1",
-    "team1_score__2": "5",
-    "team1_score__3": "6",
-    "team1_score__4": "3",
-    "team1_score__5": "(0)",
-    "team2_score__1": "1",
-    "team2_score__2": "7",
-    "team2_score__3": "2",
-    "team2_score__4": "2",
-    "team2_score__5": "(30)",
-    "team3_score__1": "0",
-    "team3_score__2": "3",
-    "team3_score__3": "6",
-    "team3_score__4": "(4)",
-    "team4_score__1": "1",
-    "team4_score__2": "6",
-    "team4_score__3": "6",
-    "team4_score__4": "(5)",
-    "team5_score__1": "0",
-    "team5_score__2": "2",
-    "team5_score__3": "(40)",
-    "team6_score__1": "0",
-    "team6_score__2": "4",
-    "team6_score__3": "(A)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.9",
-    "Rate2": "-",
-    "Rate3": "1.9",
-    "Rate4": "2.31",
-    "Rate5": "30.5",
-    "Rate6": "1.615",
-    "Rate7": "1.9",
-    "Rate8": "-1.5+",
-    "Rate9": "1.9",
-    "Rate10": "6.73",
-    "Rate11": "-",
-    "Rate12": "1.104",
-    "Rate13": "3.54",
-    "Rate14": "22.5",
-    "Rate15": "1.3",
-    "Rate16": "1.58",
-    "Rate17": "+4-",
-    "Rate18": "2.384",
-    "Rate19": "3.8",
-    "Rate20": "-",
-    "Rate21": "1.265",
-    "Rate22": "1.9",
-    "Rate23": "20.5",
-    "Rate24": "1.9",
-    "Rate25": "1.664",
-    "Rate26": "+5-",
-    "Rate27": "2.21"
+    "Event": "Challenger. Astana. Doubles",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Agafonov/Simakin",
+            "score": [
+              "0",
+              "5",
+              "(15)"
+            ]
+          },
+          {
+            "name": "Watanabe/Yuzuki (2)",
+            "score": [
+              "0",
+              "3",
+              "(15)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.52",
+          "-",
+          "2.535",
+          "-",
+          "-",
+          "-",
+          "1.845",
+          "-1.5+",
+          "1.896"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Davis Cup",
-    "Team1": "Mark Nawa",
-    "Team2": "Ahmed Mouhan",
-    "team1_score__1": "0",
-    "team1_score__2": "6",
-    "team1_score__3": "2",
-    "team1_score__4": "(15)",
-    "team2_score__1": "1",
-    "team2_score__2": "7",
-    "team2_score__3": "1",
-    "team2_score__4": "(30)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "3.48",
-    "Rate2": "-",
-    "Rate3": "1.28",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-"
-  },
-  {
-    "Event": "Davis Cup. Doubles",
-    "Team1": "Lock/Lock",
-    "Team2": "Adeleye/Oparaoji",
-    "team1_score__1": "1",
-    "team1_score__2": "7",
-    "team1_score__3": "0",
-    "team1_score__4": "(40)",
-    "team2_score__1": "0",
-    "team2_score__2": "5",
-    "team2_score__3": "0",
-    "team2_score__4": "(40)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-"
-  },
-  {
-    "Event": "ITF. Bastia-Lucciana. Doubles",
-    "Team1": "Bilardo/Fortuna",
-    "Team2": "Kolluru/Parker",
-    "Team3": "Dussin/Colne",
-    "Team4": "Salazar Martinez/Sonne",
-    "team1_score__1": "1",
-    "team1_score__2": "6",
-    "team1_score__3": "6",
-    "team1_score__4": "(0)",
-    "team2_score__1": "0",
-    "team2_score__2": "1",
-    "team2_score__3": "5",
-    "team2_score__4": "(15)",
-    "team3_score__1": "1",
-    "team3_score__2": "6",
-    "team3_score__3": "0",
-    "team3_score__4": "(0)",
-    "team4_score__1": "0",
-    "team4_score__2": "3",
-    "team4_score__3": "0",
-    "team4_score__4": "(0)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.06",
-    "Rate2": "-",
-    "Rate3": "7.29",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "3.17",
-    "Rate8": "-6.5+",
-    "Rate9": "1.304",
-    "Rate10": "1.04",
-    "Rate11": "-",
-    "Rate12": "8.48",
-    "Rate13": "-",
-    "Rate14": "-",
-    "Rate15": "-",
-    "Rate16": "-",
-    "Rate17": "-",
-    "Rate18": "-"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Denzel Seetso",
+            "score": [
+              "1",
+              "6",
+              "5",
+              "(40)"
+            ]
+          },
+          {
+            "name": "Dylan Andrianaly Narinavalona",
+            "score": [
+              "0",
+              "0",
+              "4",
+              "(30)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.004",
+          "-",
+          "41",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "ITF. Bucharest",
-    "Team1": "Bogdan Pavel (8)",
-    "Team2": "Radu David Turcanu (Q)",
-    "Team3": "Dragos Nicolae Cazacu",
-    "Team4": "Sean Hess",
-    "Team5": "Seydina Andre",
-    "Team6": "Ivan Kazakov (Q)",
-    "team1_score__1": "0",
-    "team1_score__2": "0",
-    "team1_score__3": "(15)",
-    "team2_score__1": "0",
-    "team2_score__2": "1",
-    "team2_score__3": "(15)",
-    "team3_score__1": "1",
-    "team3_score__2": "1",
-    "team3_score__3": "6",
-    "team3_score__4": "4",
-    "team3_score__5": "(30)",
-    "team4_score__1": "1",
-    "team4_score__2": "6",
-    "team4_score__3": "4",
-    "team4_score__4": "2",
-    "team4_score__5": "(40)",
-    "team5_score__1": "0",
-    "team5_score__2": "1",
-    "team5_score__3": "(0)",
-    "team6_score__1": "0",
-    "team6_score__2": "1",
-    "team6_score__3": "(0)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.11",
-    "Rate2": "-",
-    "Rate3": "5.98",
-    "Rate4": "1.875",
-    "Rate5": "18.5",
-    "Rate6": "1.864",
-    "Rate7": "1.89",
-    "Rate8": "-6.5+",
-    "Rate9": "1.85",
-    "Rate10": "1.14",
-    "Rate11": "-",
-    "Rate12": "5.15",
-    "Rate13": "2.256",
-    "Rate14": "27",
-    "Rate15": "1.595",
-    "Rate16": "1.536",
-    "Rate17": "+1-",
-    "Rate18": "2.39",
-    "Rate19": "1.15",
-    "Rate20": "-",
-    "Rate21": "5.02",
-    "Rate22": "1.89",
-    "Rate23": "20",
-    "Rate24": "1.85",
-    "Rate25": "1.89",
-    "Rate26": "-5.5+",
-    "Rate27": "1.85"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Dan Tomescu",
+            "score": [
+              "1",
+              "6",
+              "0",
+              "(40)"
+            ]
+          },
+          {
+            "name": "Nicholas David Ionel",
+            "score": [
+              "0",
+              "1",
+              "1",
+              "(A)"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "1.935",
+          "23",
+          "1.81",
+          "1.83",
+          "-5+",
+          "1.91"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "ITF. Casablanca. Women",
-    "Team1": "Malak El Allami",
-    "Team2": "Maria Andrienko",
-    "Team3": "Margaux Maquet (Q)",
-    "Team4": "Claudia Ferrer Perez (Q)",
-    "Team5": "Patricija Paukstyte",
-    "Team6": "Aya El Aouni (6)",
-    "Team7": "Sara Akid",
-    "Team8": "Celine Simunyu",
-    "Team9": "Zineb El Mouttaki",
-    "Team10": "Vaishnavi Adkar",
-    "team1_score__1": "0",
-    "team1_score__2": "1",
-    "team1_score__3": "(0)",
-    "team2_score__1": "0",
-    "team2_score__2": "1",
-    "team2_score__3": "(30)",
-    "team3_score__1": "0",
-    "team3_score__2": "2",
-    "team3_score__3": "(15)",
-    "team4_score__1": "0",
-    "team4_score__2": "1",
-    "team4_score__3": "(15)",
-    "team5_score__1": "0",
-    "team5_score__2": "1",
-    "team5_score__3": "(15)",
-    "team6_score__1": "0",
-    "team6_score__2": "1",
-    "team6_score__3": "(30)",
-    "team7_score__1": "0",
-    "team7_score__2": "3",
-    "team7_score__3": "(30)",
-    "team8_score__1": "0",
-    "team8_score__2": "0",
-    "team8_score__3": "(30)",
-    "team9_score__1": "0",
-    "team9_score__2": "0",
-    "team9_score__3": "(0)",
-    "team10_score__1": "0",
-    "team10_score__2": "3",
-    "team10_score__3": "(15)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "2.384",
-    "Rate2": "-",
-    "Rate3": "1.54",
-    "Rate4": "1.915",
-    "Rate5": "21.5",
-    "Rate6": "1.825",
-    "Rate7": "1.87",
-    "Rate8": "+3.5-",
-    "Rate9": "1.87",
-    "Rate10": "1.32",
-    "Rate11": "-",
-    "Rate12": "3.216",
-    "Rate13": "1.885",
-    "Rate14": "20.5",
-    "Rate15": "1.856",
-    "Rate16": "2.04",
-    "Rate17": "-5+",
-    "Rate18": "1.725",
-    "Rate19": "2.77",
-    "Rate20": "-",
-    "Rate21": "1.41",
-    "Rate22": "1.95",
-    "Rate23": "21",
-    "Rate24": "1.795",
-    "Rate25": "1.91",
-    "Rate26": "+4-",
-    "Rate27": "1.83",
-    "Rate28": "1.496",
-    "Rate29": "-",
-    "Rate30": "2.495",
-    "Rate31": "1.9",
-    "Rate32": "21",
-    "Rate33": "1.84",
-    "Rate34": "1.79",
-    "Rate35": "-4+",
-    "Rate36": "1.96",
-    "Rate37": "41",
-    "Rate38": "-",
-    "Rate39": "1.001",
-    "Rate40": "-",
-    "Rate41": "-",
-    "Rate42": "-",
-    "Rate43": "-",
-    "Rate44": "-",
-    "Rate45": "-"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Joelle Lilly Sophie Steur (7)",
+            "score": [
+              "0",
+              "3",
+              "3",
+              "(15)"
+            ]
+          },
+          {
+            "name": "Emma Lene (2)",
+            "score": [
+              "1",
+              "6",
+              "1",
+              "(0)"
+            ]
+          }
+        ],
+        "rates": [
+          "2.21",
+          "-",
+          "1.62",
+          "1.87",
+          "25.5",
+          "1.87",
+          "1.975",
+          "+2.5-",
+          "1.775"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Paula Arias Manjon",
+            "score": [
+              "0",
+              "6",
+              "(40)"
+            ]
+          },
+          {
+            "name": "Angella Okutoyi (3)",
+            "score": [
+              "0",
+              "5",
+              "(40)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.95",
+          "-",
+          "1.8",
+          "1.87",
+          "25",
+          "1.87",
+          "1.89",
+          "+1.5-",
+          "1.85"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "ITF. Castelo Branco",
-    "Team1": "Pedro Araujo",
-    "Team2": "Tiago Torres (WC)",
-    "Team3": "Tiago Silva",
-    "Team4": "Ian Luca Cervantes Tomas (Q)",
-    "Team5": "William Jucha (Q)",
-    "Team6": "Aleksandr Braynin",
-    "team1_score__1": "0",
-    "team1_score__2": "0",
-    "team1_score__3": "(40)",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "team2_score__3": "(0)",
-    "team3_score__1": "1",
-    "team3_score__2": "6",
-    "team3_score__3": "3",
-    "team3_score__4": "(40)",
-    "team4_score__1": "0",
-    "team4_score__2": "4",
-    "team4_score__3": "1",
-    "team4_score__4": "(40)",
-    "team5_score__1": "1",
-    "team5_score__2": "7",
-    "team5_score__3": "1",
-    "team5_score__4": "(15)",
-    "team6_score__1": "0",
-    "team6_score__2": "5",
-    "team6_score__3": "0",
-    "team6_score__4": "(0)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.15",
-    "Rate2": "-",
-    "Rate3": "5.02",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-",
-    "Rate10": "1.045",
-    "Rate11": "-",
-    "Rate12": "9.03",
-    "Rate13": "1.736",
-    "Rate14": "18.5",
-    "Rate15": "2.03",
-    "Rate16": "2.005",
-    "Rate17": "-5.5+",
-    "Rate18": "1.752",
-    "Rate19": "1.22",
-    "Rate20": "-",
-    "Rate21": "4",
-    "Rate22": "-",
-    "Rate23": "-",
-    "Rate24": "-",
-    "Rate25": "1.72",
-    "Rate26": "-3.5+",
-    "Rate27": "2.05"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Rafael Izquierdo Luque",
+            "score": [
+              "0",
+              "4",
+              "(0)"
+            ]
+          },
+          {
+            "name": "Frederico Ferreira Silva (5)",
+            "score": [
+              "0",
+              "5",
+              "(0)"
+            ]
+          }
+        ],
+        "rates": [
+          "4.31",
+          "-",
+          "1.192",
+          "1.816",
+          "21.5",
+          "1.925",
+          "1.83",
+          "+4-",
+          "1.91"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "ITF. Castelo Branco. Doubles",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Rocha/Silva (3)",
+            "score": [
+              "0",
+              "2",
+              "(0)"
+            ]
+          },
+          {
+            "name": "Seemann/Thayne",
+            "score": [
+              "0",
+              "1",
+              "(30)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.395",
+          "-",
+          "2.74",
+          "-",
+          "-",
+          "-",
+          "1.825",
+          "-2.5+",
+          "1.875"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "ITF. Darmstadt. Women",
-    "Team1": "Berfu Cengiz (4)",
-    "Team2": "Ekaterine Gorgodze (Q)",
-    "Team3": "Mara Guth (Q)",
-    "Team4": "Victoria Mboko",
-    "Team5": "Raluca Georgiana Serban (1)",
-    "Team6": "Petra Hule",
-    "Team7": "Tiphanie Lemaitre (LL)",
-    "Team8": "Rasheeda Mcadoo (Q)",
-    "team1_score__1": "0",
-    "team1_score__2": "2",
-    "team1_score__3": "(40)",
-    "team2_score__1": "0",
-    "team2_score__2": "1",
-    "team2_score__3": "(40)",
-    "team3_score__1": "0",
-    "team3_score__2": "2",
-    "team3_score__3": "(30)",
-    "team4_score__1": "0",
-    "team4_score__2": "1",
-    "team4_score__3": "(0)",
-    "team5_score__1": "0",
-    "team5_score__2": "1",
-    "team5_score__3": "(40)",
-    "team6_score__1": "0",
-    "team6_score__2": "0",
-    "team6_score__3": "(A)",
-    "team7_score__1": "0",
-    "team7_score__2": "1",
-    "team7_score__3": "(0)",
-    "team8_score__1": "0",
-    "team8_score__2": "2",
-    "team8_score__3": "(30)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.175",
-    "Rate2": "-",
-    "Rate3": "4.54",
-    "Rate4": "1.92",
-    "Rate5": "19.5",
-    "Rate6": "1.82",
-    "Rate7": "1.784",
-    "Rate8": "-5.5+",
-    "Rate9": "1.968",
-    "Rate10": "2.06",
-    "Rate11": "-",
-    "Rate12": "1.71",
-    "Rate13": "1.87",
-    "Rate14": "21.5",
-    "Rate15": "1.87",
-    "Rate16": "1.87",
-    "Rate17": "+1.5-",
-    "Rate18": "1.87",
-    "Rate19": "1.36",
-    "Rate20": "-",
-    "Rate21": "2.99",
-    "Rate22": "1.85",
-    "Rate23": "20.5",
-    "Rate24": "1.89",
-    "Rate25": "1.81",
-    "Rate26": "-4+",
-    "Rate27": "1.935",
-    "Rate28": "3.216",
-    "Rate29": "-",
-    "Rate30": "1.32",
-    "Rate31": "1.89",
-    "Rate32": "21.5",
-    "Rate33": "1.85",
-    "Rate34": "1.79",
-    "Rate35": "+4.5-",
-    "Rate36": "1.955"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Angela Fita Boluda",
+            "score": [
+              "0",
+              "0",
+              "(0)"
+            ]
+          },
+          {
+            "name": "Rasheeda Mcadoo (Q)",
+            "score": [
+              "0",
+              "1",
+              "(0)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.36",
+          "-",
+          "2.99",
+          "1.82",
+          "19.5",
+          "1.92",
+          "1.82",
+          "-4.5+",
+          "1.92"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Victoria Mboko",
+            "score": [
+              "0",
+              "0",
+              "(0)"
+            ]
+          },
+          {
+            "name": "Jaimee Fourlis (Q)",
+            "score": [
+              "0",
+              "1",
+              "(0)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.675",
+          "-",
+          "2.112",
+          "1.82",
+          "20.5",
+          "1.92",
+          "1.89",
+          "-0.5+",
+          "1.85"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "ITF. Gandia",
-    "Team1": "Carles Hernandez (Q)",
-    "Team2": "Sergi Perez Contri",
-    "Team3": "Oliver Crawford",
-    "Team4": "Diego Augusto Barreto Sanchez",
-    "team1_score__1": "0",
-    "team1_score__2": "0",
-    "team1_score__3": "(0)",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "team2_score__3": "(0)",
-    "team3_score__1": "0",
-    "team3_score__2": "5",
-    "team3_score__3": "(0)",
-    "team4_score__1": "0",
-    "team4_score__2": "4",
-    "team4_score__3": "(0)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-",
-    "Rate10": "1.42",
-    "Rate11": "-",
-    "Rate12": "2.74",
-    "Rate13": "1.91",
-    "Rate14": "23",
-    "Rate15": "1.83",
-    "Rate16": "1.725",
-    "Rate17": "-3+",
-    "Rate18": "2.04"
-  },
-  {
-    "Event": "ITF. Gubbio",
-    "Team1": "Alexandr Binda",
-    "Team2": "Alessandro Bellifemine (Q)",
-    "Team3": "Andrea Bacaloni",
-    "Team4": "Mariano Tammaro (6)",
-    "Team5": "Gabriele Pennaforti (3)",
-    "Team6": "Nicola Rispoli (Q)",
-    "team1_score__1": "0",
-    "team1_score__2": "1",
-    "team1_score__3": "3",
-    "team1_score__4": "(15)",
-    "team2_score__1": "1",
-    "team2_score__2": "6",
-    "team2_score__3": "3",
-    "team2_score__4": "(15)",
-    "team3_score__1": "1",
-    "team3_score__2": "6",
-    "team3_score__3": "2",
-    "team3_score__4": "(30)",
-    "team4_score__1": "0",
-    "team4_score__2": "4",
-    "team4_score__3": "0",
-    "team4_score__4": "(30)",
-    "team5_score__1": "0",
-    "team5_score__2": "0",
-    "team5_score__3": "(0)",
-    "team6_score__1": "0",
-    "team6_score__2": "1",
-    "team6_score__3": "(0)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "2.635",
-    "Rate2": "-",
-    "Rate3": "1.45",
-    "Rate4": "1.92",
-    "Rate5": "20",
-    "Rate6": "1.82",
-    "Rate7": "2.075",
-    "Rate8": "+6.5-",
-    "Rate9": "1.7",
-    "Rate10": "1.22",
-    "Rate11": "-",
-    "Rate12": "4",
-    "Rate13": "2.55",
-    "Rate14": "20.5",
-    "Rate15": "1.475",
-    "Rate16": "1.384",
-    "Rate17": "-3.5+",
-    "Rate18": "2.88",
-    "Rate19": "1.175",
-    "Rate20": "-",
-    "Rate21": "4.54",
-    "Rate22": "-",
-    "Rate23": "-",
-    "Rate24": "-",
-    "Rate25": "-",
-    "Rate26": "-",
-    "Rate27": "-"
+    "Event": "ITF. Esch-sur-Alzette",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Pol Martin Tiffon (8)",
+            "score": [
+              "1",
+              "6",
+              "1",
+              "(30)"
+            ]
+          },
+          {
+            "name": "Buvaysar Gadamauri",
+            "score": [
+              "0",
+              "4",
+              "0",
+              "(0)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.025",
+          "-",
+          "10.5",
+          "2.112",
+          "18.5",
+          "1.675",
+          "1.675",
+          "-5.5+",
+          "2.112"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Alejo Lorenzo Lingua Lavallen",
+            "score": [
+              "1",
+              "6",
+              "1",
+              "(30)"
+            ]
+          },
+          {
+            "name": "Marlon Vankan",
+            "score": [
+              "0",
+              "4",
+              "1",
+              "(15)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.075",
+          "-",
+          "7.09",
+          "1.78",
+          "20",
+          "1.97",
+          "1.69",
+          "-4+",
+          "2.096"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "ITF. Krsko. Women",
-    "Team1": "Kristina Novak (Q)",
-    "Team2": "Katherine Barnes",
-    "Team3": "Lara Smejkal (Q)",
-    "Team4": "Eszter Meri (5)",
-    "Team5": "Linda Sevcikova",
-    "Team6": "Oana Gavrila (2)",
-    "team1_score__1": "0",
-    "team1_score__2": "5",
-    "team1_score__3": "1",
-    "team1_score__4": "(40)",
-    "team2_score__1": "1",
-    "team2_score__2": "7",
-    "team2_score__3": "4",
-    "team2_score__4": "(40)",
-    "team3_score__1": "0",
-    "team3_score__2": "1",
-    "team3_score__3": "(15)",
-    "team4_score__1": "0",
-    "team4_score__2": "2",
-    "team4_score__3": "(0)",
-    "team5_score__1": "1",
-    "team5_score__2": "6",
-    "team5_score__3": "6",
-    "team5_score__4": "1",
-    "team5_score__5": "(15)",
-    "team6_score__1": "1",
-    "team6_score__2": "7",
-    "team6_score__3": "4",
-    "team6_score__4": "2",
-    "team6_score__5": "(30)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "16",
-    "Rate2": "-",
-    "Rate3": "1.01",
-    "Rate4": "1.82",
-    "Rate5": "20",
-    "Rate6": "1.92",
-    "Rate7": "1.83",
-    "Rate8": "+6-",
-    "Rate9": "1.91",
-    "Rate10": "8.95",
-    "Rate11": "-",
-    "Rate12": "1.045",
-    "Rate13": "1.955",
-    "Rate14": "17.5",
-    "Rate15": "1.79",
-    "Rate16": "1.79",
-    "Rate17": "+7-",
-    "Rate18": "1.96",
-    "Rate19": "3.216",
-    "Rate20": "-",
-    "Rate21": "1.32",
-    "Rate22": "1.656",
-    "Rate23": "32",
-    "Rate24": "2.144",
-    "Rate25": "1.87",
-    "Rate26": "+1.5-",
-    "Rate27": "1.87"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Emily Seibold",
+            "score": [
+              "0",
+              "5",
+              "(30)"
+            ]
+          },
+          {
+            "name": "Oana Gavrila (2)",
+            "score": [
+              "0",
+              "4",
+              "(15)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.095",
+          "-",
+          "6.46",
+          "1.835",
+          "19.5",
+          "1.904",
+          "1.82",
+          "-4.5+",
+          "1.92"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "ITF. Kursumlijska Banja",
-    "Team1": "Benjamin Pietri (Q)",
-    "Team2": "Oliver Jevtovic (WC)",
-    "Team3": "Federico Bondioli",
-    "Team4": "Sasa Markovic",
-    "Team5": "Franco Ribero",
-    "Team6": "Branko Djuric (7)",
-    "Team7": "Luka Pavlovic (1)",
-    "Team8": "Artur Kukasian",
-    "Team9": "Plamen Milushev",
-    "Team10": "Oleg Prihodko",
-    "team1_score__1": "0",
-    "team1_score__2": "5",
-    "team1_score__3": "(0)",
-    "team2_score__1": "0",
-    "team2_score__2": "1",
-    "team2_score__3": "(0)",
-    "team3_score__1": "0",
-    "team3_score__2": "3",
-    "team3_score__3": "2",
-    "team3_score__4": "(15)",
-    "team4_score__1": "1",
-    "team4_score__2": "6",
-    "team4_score__3": "3",
-    "team4_score__4": "(15)",
-    "team5_score__1": "0",
-    "team5_score__2": "2",
-    "team5_score__3": "5",
-    "team5_score__4": "(15)",
-    "team6_score__1": "1",
-    "team6_score__2": "6",
-    "team6_score__3": "6",
-    "team6_score__4": "(40)",
-    "team7_score__1": "0",
-    "team7_score__2": "4",
-    "team7_score__3": "(30)",
-    "team8_score__1": "0",
-    "team8_score__2": "4",
-    "team8_score__3": "(40)",
-    "team9_score__1": "0",
-    "team9_score__2": "2",
-    "team9_score__3": "(0)",
-    "team10_score__1": "0",
-    "team10_score__2": "3",
-    "team10_score__3": "(15)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.001",
-    "Rate2": "-",
-    "Rate3": "41",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-",
-    "Rate10": "3.48",
-    "Rate11": "-",
-    "Rate12": "1.28",
-    "Rate13": "2.096",
-    "Rate14": "19.5",
-    "Rate15": "1.69",
-    "Rate16": "2.38",
-    "Rate17": "+4.5-",
-    "Rate18": "1.54",
-    "Rate19": "21",
-    "Rate20": "-",
-    "Rate21": "1.007",
-    "Rate22": "-",
-    "Rate23": "-",
-    "Rate24": "-",
-    "Rate25": "-",
-    "Rate26": "-",
-    "Rate27": "-",
-    "Rate28": "1.248",
-    "Rate29": "-",
-    "Rate30": "3.74",
-    "Rate31": "1.95",
-    "Rate32": "23",
-    "Rate33": "1.795",
-    "Rate34": "1.85",
-    "Rate35": "-4+",
-    "Rate36": "1.89",
-    "Rate37": "8.57",
-    "Rate38": "-",
-    "Rate39": "1.05",
-    "Rate40": "-",
-    "Rate41": "-",
-    "Rate42": "-",
-    "Rate43": "-",
-    "Rate44": "-",
-    "Rate45": "-"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Andrej Nedic (8)",
+            "score": [
+              "1",
+              "6",
+              "4",
+              "(A)"
+            ]
+          },
+          {
+            "name": "Kane Bonsach Ganley",
+            "score": [
+              "0",
+              "3",
+              "1",
+              "(40)"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "2.39",
+          "17",
+          "1.536",
+          "1.536",
+          "-7+",
+          "2.39"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Luka Pavlovic (1)",
+            "score": [
+              "0",
+              "3",
+              "(0)"
+            ]
+          },
+          {
+            "name": "Branko Djuric (7)",
+            "score": [
+              "0",
+              "3",
+              "(0)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.752",
+          "-",
+          "2.005",
+          "1.82",
+          "21.5",
+          "1.92",
+          "1.87",
+          "-1.5+",
+          "1.87"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "ITF. Kursumlijska Banja. Women",
-    "Team1": "Jana Bojovic",
-    "Team2": "Vlada Zvereva (Q)",
-    "team1_score__1": "0",
-    "team1_score__2": "4",
-    "team1_score__3": "(15)",
-    "team2_score__1": "0",
-    "team2_score__2": "2",
-    "team2_score__3": "(30)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.03",
-    "Rate2": "-",
-    "Rate3": "9.92",
-    "Rate4": "1.88",
-    "Rate5": "18",
-    "Rate6": "1.86",
-    "Rate7": "1.775",
-    "Rate8": "-6.5+",
-    "Rate9": "1.975"
-  },
-  {
-    "Event": "ITF. Monastir",
-    "Team1": "Axel Garcian",
-    "Team2": "Mert Alkaya",
-    "Team3": "Guillaume Dalmasso",
-    "Team4": "Liova Ajavon (Q)",
-    "Team5": "Ioannis Xilas",
-    "Team6": "Anas Bennour Dit Sahli (Q)",
-    "team1_score__1": "0",
-    "team1_score__2": "2",
-    "team1_score__3": "(0)",
-    "team2_score__1": "0",
-    "team2_score__2": "4",
-    "team2_score__3": "(15)",
-    "team3_score__1": "1",
-    "team3_score__2": "7",
-    "team3_score__3": "5",
-    "team3_score__4": "(0)",
-    "team4_score__1": "0",
-    "team4_score__2": "6",
-    "team4_score__3": "4",
-    "team4_score__4": "(0)",
-    "team5_score__1": "0",
-    "team5_score__2": "1",
-    "team5_score__3": "(0)",
-    "team6_score__1": "0",
-    "team6_score__2": "3",
-    "team6_score__3": "(0)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "2.43",
-    "Rate2": "-",
-    "Rate3": "1.52",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-",
-    "Rate10": "1.06",
-    "Rate11": "-",
-    "Rate12": "7.98",
-    "Rate13": "1.88",
-    "Rate14": "25",
-    "Rate15": "1.86",
-    "Rate16": "1.54",
-    "Rate17": "-2.5+",
-    "Rate18": "2.38",
-    "Rate19": "1.08",
-    "Rate20": "-",
-    "Rate21": "6.98",
-    "Rate22": "1.845",
-    "Rate23": "21.5",
-    "Rate24": "1.896",
-    "Rate25": "1.825",
-    "Rate26": "-4.5+",
-    "Rate27": "1.915"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Dimitra Pavlou (3)",
+            "score": [
+              "1",
+              "7",
+              "4",
+              "(30)"
+            ]
+          },
+          {
+            "name": "Arina Bulatova (Q)",
+            "score": [
+              "0",
+              "6",
+              "5",
+              "(0)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.15",
+          "-",
+          "5.02",
+          "1.904",
+          "27.5",
+          "1.835",
+          "2.125",
+          "-2.5+",
+          "1.67"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Kristiana Sidorova",
+            "score": [
+              "0",
+              "4",
+              "1",
+              "(0)"
+            ]
+          },
+          {
+            "name": "Nikola Daubnerova",
+            "score": [
+              "1",
+              "6",
+              "3",
+              "(15)"
+            ]
+          }
+        ],
+        "rates": [
+          "6.46",
+          "-",
+          "1.095",
+          "1.92",
+          "19",
+          "1.82",
+          "1.96",
+          "+5-",
+          "1.79"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "ITF. Monastir. Women",
-    "Team1": "Alyssa Reguer (7)",
-    "Team2": "Sofia Camila Rojas (Q)",
-    "team1_score__1": "0",
-    "team1_score__2": "3",
-    "team1_score__3": "0",
-    "team1_score__4": "(0)",
-    "team2_score__1": "1",
-    "team2_score__2": "6",
-    "team2_score__3": "0",
-    "team2_score__4": "(0)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Sofia Camila Rojas (Q)",
+            "score": [
+              "1",
+              "6",
+              "0",
+              "(15)"
+            ]
+          },
+          {
+            "name": "Tian Jialin",
+            "score": [
+              "0",
+              "3",
+              "2",
+              "(15)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.22",
+          "-",
+          "4",
+          "1.92",
+          "25",
+          "1.82",
+          "1.91",
+          "-4+",
+          "1.83"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Victoria Gomez",
+            "score": [
+              "0",
+              "1",
+              "(0)"
+            ]
+          },
+          {
+            "name": "Marie Villet (2)",
+            "score": [
+              "0",
+              "0",
+              "(0)"
+            ]
+          }
+        ],
+        "rates": [
+          "2.005",
+          "-",
+          "1.752",
+          "1.904",
+          "21.5",
+          "1.835",
+          "1.83",
+          "+1-",
+          "1.91"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "ITF. Nottingham",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Blake Mott (3)",
+            "score": [
+              "0",
+              "0",
+              "(0)"
+            ]
+          },
+          {
+            "name": "Max Basing",
+            "score": [
+              "0",
+              "1",
+              "(0)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.74",
+          "-",
+          "2.02",
+          "1.82",
+          "22",
+          "1.92",
+          "1.87",
+          "-0.5+",
+          "1.87"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "George Loffhagen",
+            "score": [
+              "0",
+              "2",
+              "(15)"
+            ]
+          },
+          {
+            "name": "Hugo Coquelin (WC)",
+            "score": [
+              "0",
+              "0",
+              "(15)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.11",
+          "-",
+          "5.98",
+          "1.87",
+          "18.5",
+          "1.87",
+          "1.795",
+          "-6+",
+          "1.95"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Jack Pinnington Jones (7)",
+            "score": [
+              "0",
+              "0",
+              "(0)"
+            ]
+          },
+          {
+            "name": "Lucas Poullain (2)",
+            "score": [
+              "0",
+              "0",
+              "(0)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.41",
+          "-",
+          "2.77",
+          "1.87",
+          "21.5",
+          "1.87",
+          "1.816",
+          "-3.5+",
+          "1.925"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "ITF. Nottingham. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Manon Leonard (3)",
+            "score": [
+              "1",
+              "7",
+              "5",
+              "(0)"
+            ]
+          },
+          {
+            "name": "Clara Vlasselaer",
+            "score": [
+              "0",
+              "6",
+              "2",
+              "(0)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.005",
+          "-",
+          "26",
+          "1.72",
+          "21.5",
+          "2.05",
+          "2.02",
+          "-4.5+",
+          "1.74"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "ITF. Porto. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Anastasia Zakharova (3)",
+            "score": [
+              "0",
+              "1",
+              "(15)"
+            ]
+          },
+          {
+            "name": "Tessah Andrianjafitrimo (Q)",
+            "score": [
+              "0",
+              "1",
+              "(15)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.41",
+          "-",
+          "2.77",
+          "1.91",
+          "21",
+          "1.83",
+          "1.87",
+          "-4+",
+          "1.87"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Maja Chwalinska",
+            "score": [
+              "0",
+              "3",
+              "(0)"
+            ]
+          },
+          {
+            "name": "Arianne Hartono (2)",
+            "score": [
+              "0",
+              "0",
+              "(0)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.08",
+          "-",
+          "6.98",
+          "1.975",
+          "16.5",
+          "1.775",
+          "2.13",
+          "-8+",
+          "1.664"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "ITF. Slovenska Bistrica",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Andrej Martin (Q)",
+            "score": [
+              "0",
+              "0",
+              "(15)"
+            ]
+          },
+          {
+            "name": "Sebastian Dominko (Q)",
+            "score": [
+              "0",
+              "2",
+              "(15)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.41",
+          "-",
+          "2.77",
+          "1.87",
+          "21.5",
+          "1.87",
+          "1.88",
+          "-3+",
+          "1.86"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Eero Vasa",
+            "score": [
+              "0",
+              "6",
+              "(5)"
+            ]
+          },
+          {
+            "name": "Matic Kriznik",
+            "score": [
+              "0",
+              "6",
+              "(4)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.192",
+          "-",
+          "4.31",
+          "1.816",
+          "24.5",
+          "1.925",
+          "1.82",
+          "-3+",
+          "1.92"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "ITF. Telfs",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Mateus Alves",
+            "score": [
+              "1",
+              "6",
+              "1",
+              "1",
+              "(A)"
+            ]
+          },
+          {
+            "name": "Facundo Mena (2)",
+            "score": [
+              "1",
+              "3",
+              "6",
+              "2",
+              "(40)"
+            ]
+          }
+        ],
+        "rates": [
+          "3.48",
+          "-",
+          "1.28",
+          "1.675",
+          "25.5",
+          "2.112",
+          "1.95",
+          "+4-",
+          "1.795"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Toby Alex Kodat (4)",
+            "score": [
+              "0",
+              "5",
+              "5",
+              "(40)"
+            ]
+          },
+          {
+            "name": "Daniel Dutra da Silva (6)",
+            "score": [
+              "1",
+              "7",
+              "3",
+              "(30)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.62",
+          "-",
+          "2.21",
+          "1.87",
+          "30.5",
+          "1.87",
+          "1.78",
+          "-2+",
+          "1.97"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "ITF. Tianjin",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Yu Hsiou Hsu (1)",
+            "score": [
+              "0",
+              "5",
+              "(40)"
+            ]
+          },
+          {
+            "name": "Nam Hoang Ly (5)",
+            "score": [
+              "0",
+              "3",
+              "(15)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.11",
+          "-",
+          "5.98",
+          "1.925",
+          "19.5",
+          "1.816",
+          "-",
+          "-",
+          "-"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "ITF. Tianjin. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Kira Pavlova (7)",
+            "score": [
+              "0",
+              "1",
+              "0",
+              "(40)"
+            ]
+          },
+          {
+            "name": "Jia-Jing Lu (2)",
+            "score": [
+              "1",
+              "6",
+              "0",
+              "(40)"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "1.808",
+          "16",
+          "1.94",
+          "1.83",
+          "+8-",
+          "1.91"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "ITF. Torino. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Aneta Kucmova",
+            "score": [
+              "1",
+              "3",
+              "6",
+              "2",
+              "(0)"
+            ]
+          },
+          {
+            "name": "Guiomar Maristany Zuleta De Reales (3)",
+            "score": [
+              "1",
+              "6",
+              "4",
+              "3",
+              "(15)"
+            ]
+          }
+        ],
+        "rates": [
+          "3.38",
+          "-",
+          "1.295",
+          "1.616",
+          "28.5",
+          "2.22",
+          "1.95",
+          "+3-",
+          "1.795"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "ITF. Uslar",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Lautaro Agustin Falabella",
+            "score": [
+              "0",
+              "1",
+              "(30)"
+            ]
+          },
+          {
+            "name": "Nicolas Zanellato (2)",
+            "score": [
+              "0",
+              "2",
+              "(0)"
+            ]
+          }
+        ],
+        "rates": [
+          "2.99",
+          "-",
+          "1.36",
+          "1.91",
+          "22",
+          "1.83",
+          "1.925",
+          "+3.5-",
+          "1.816"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Taym Al-Azmeh",
+            "score": [
+              "0",
+              "1",
+              "3",
+              "(40)"
+            ]
+          },
+          {
+            "name": "Elmar Ejupovic (5)",
+            "score": [
+              "1",
+              "6",
+              "4",
+              "(40)"
+            ]
+          }
+        ],
+        "rates": [
+          "17",
+          "-",
+          "1.005",
+          "2.39",
+          "17",
+          "1.536",
+          "1.41",
+          "+7.5-",
+          "2.77"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "ITF. Vitoria-Gasteiz. Women",
-    "Team1": "Elena Jamshidi (Q)",
-    "Team2": "Magali Kempen",
-    "Team3": "Laura Mair (Q)",
-    "Team4": "Jessika Ponchet (2)",
-    "Team5": "Valeriya Strakhova",
-    "Team6": "Carmen Lopez Martinez",
-    "team1_score__1": "0",
-    "team1_score__2": "1",
-    "team1_score__3": "0",
-    "team1_score__4": "(40)",
-    "team2_score__1": "1",
-    "team2_score__2": "6",
-    "team2_score__3": "1",
-    "team2_score__4": "(40)",
-    "team3_score__1": "0",
-    "team3_score__2": "5",
-    "team3_score__3": "0",
-    "team3_score__4": "(15)",
-    "team4_score__1": "1",
-    "team4_score__2": "7",
-    "team4_score__3": "1",
-    "team4_score__4": "(15)",
-    "team5_score__1": "1",
-    "team5_score__2": "6",
-    "team5_score__3": "4",
-    "team5_score__4": "4",
-    "team5_score__5": "(0)",
-    "team6_score__1": "1",
-    "team6_score__2": "2",
-    "team6_score__3": "6",
-    "team6_score__4": "3",
-    "team6_score__5": "(0)",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "34",
-    "Rate2": "-",
-    "Rate3": "1.002",
-    "Rate4": "2.096",
-    "Rate5": "14.5",
-    "Rate6": "1.69",
-    "Rate7": "2.096",
-    "Rate8": "+9.5-",
-    "Rate9": "1.69",
-    "Rate10": "29",
-    "Rate11": "-",
-    "Rate12": "1.004",
-    "Rate13": "1.65",
-    "Rate14": "19.5",
-    "Rate15": "2.155",
-    "Rate16": "1.67",
-    "Rate17": "+6.5-",
-    "Rate18": "2.125",
-    "Rate19": "-",
-    "Rate20": "-",
-    "Rate21": "-",
-    "Rate22": "-",
-    "Rate23": "-",
-    "Rate24": "-",
-    "Rate25": "-",
-    "Rate26": "-",
-    "Rate27": "-"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Yulia Starodubtsewa (4)",
+            "score": [
+              "0",
+              "6",
+              "4",
+              "(15)"
+            ]
+          },
+          {
+            "name": "Alexandra Eala (5)",
+            "score": [
+              "1",
+              "7",
+              "4",
+              "(15)"
+            ]
+          }
+        ],
+        "rates": [
+          "2.616",
+          "-",
+          "1.456",
+          "1.87",
+          "30.5",
+          "1.87",
+          "1.91",
+          "+2-",
+          "1.83"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "ITF. Krsko. Women. Doubles",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Sebestova/Sevcikova (3)",
+            "score": [
+              "0",
+              "4",
+              "(30)"
+            ]
+          },
+          {
+            "name": "Zhenikhova/Taraba Wallberg",
+            "score": [
+              "0",
+              "4",
+              "(15)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.66",
+          "-",
+          "2.09",
+          "-",
+          "-",
+          "-",
+          "1.955",
+          "-0.5+",
+          "1.755"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "ITF. Monastir. Women. Doubles",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Katsumi/Ogata (1)",
+            "score": [
+              "1",
+              "7",
+              "0",
+              "(0)"
+            ]
+          },
+          {
+            "name": "Golubkova/Kuznetsova (WC)",
+            "score": [
+              "0",
+              "5",
+              "1",
+              "(15)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.136",
+          "-",
+          "4.97",
+          "-",
+          "-",
+          "-",
+          "1.825",
+          "-3.5+",
+          "1.875"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "ITF. Tianjin. Women. Doubles",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Lee/Liu",
+            "score": [
+              "1",
+              "6",
+              "6",
+              "0",
+              "(4)"
+            ]
+          },
+          {
+            "name": "Huang/Zheng (2)",
+            "score": [
+              "1",
+              "3",
+              "7",
+              "0",
+              "(3)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.605",
+          "-",
+          "2.184",
+          "-",
+          "-",
+          "-",
+          "1.57",
+          "-2.5+",
+          "2.256"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Wang/Kawaguchi (1)",
+            "score": [
+              "0",
+              "2",
+              "0",
+              "(0)"
+            ]
+          },
+          {
+            "name": "Ayukawa/Kawamura",
+            "score": [
+              "1",
+              "6",
+              "3",
+              "(0)"
+            ]
+          }
+        ],
+        "rates": [
+          "8.15",
+          "-",
+          "1.045",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "ITF. Torino. Women. Doubles",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "De Stefano/Chiesa",
+            "score": [
+              "0",
+              "2",
+              "(30)"
+            ]
+          },
+          {
+            "name": "Labrana/Estable (3)",
+            "score": [
+              "0",
+              "4",
+              "(15)"
+            ]
+          }
+        ],
+        "rates": [
+          "2.465",
+          "-",
+          "1.48",
+          "-",
+          "-",
+          "-",
+          "1.816",
+          "+2.5-",
+          "1.888"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "ITF. Vitoria-Gasteiz. Women. Doubles",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Silva/Strakhova (1)",
+            "score": [
+              "0",
+              "1",
+              "(40)"
+            ]
+          },
+          {
+            "name": "Karatantcheva/Marcinkevica",
+            "score": [
+              "0",
+              "1",
+              "(40)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.344",
+          "-",
+          "2.96",
+          "-",
+          "-",
+          "-",
+          "1.775",
+          "-3.5+",
+          "1.935"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "ATT. Marbella",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Egor Druzenko",
+            "score": [
+              "0",
+              "3",
+              "(40)"
+            ]
+          },
+          {
+            "name": "Romans Rjabinskis",
+            "score": [
+              "0",
+              "3",
+              "(40)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.605",
+          "-",
+          "2.216",
+          "1.92",
+          "25.5",
+          "1.805",
+          "1.755",
+          "-1.5+",
+          "1.975"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "Daily Aqua Tour",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Andrey Pekutiko",
+            "score": [
+              "0",
+              "2",
+              "(30)"
+            ]
+          },
+          {
+            "name": "Vladislav Kosolapov",
+            "score": [
+              "0",
+              "1",
+              "(30)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.325",
+          "-",
+          "3.075",
+          "1.845",
+          "22",
+          "1.896",
+          "1.965",
+          "-4+",
+          "1.784"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "Daily Aqua Tour. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Julia Rusakovich",
+            "score": [
+              "1",
+              "7",
+              "2",
+              "0",
+              "(0)"
+            ]
+          },
+          {
+            "name": "Yana Klimchuk",
+            "score": [
+              "1",
+              "5",
+              "6",
+              "0",
+              "(0)"
+            ]
+          }
+        ],
+        "rates": [
+          "2.04",
+          "-",
+          "1.725",
+          "1.864",
+          "29.5",
+          "1.88",
+          "1.875",
+          "+3-",
+          "1.864"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "Daily Premier Tour. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Ekaterina Pavlenko",
+            "score": [
+              "0",
+              "2",
+              "(40)"
+            ]
+          },
+          {
+            "name": "Ima Bogush",
+            "score": [
+              "0",
+              "2",
+              "(40)"
+            ]
+          }
+        ],
+        "rates": [
+          "1.24",
+          "-",
+          "3.68",
+          "1.87",
+          "22.5",
+          "1.83",
+          "1.965",
+          "-4+",
+          "1.784"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "VS OPEN",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Anton Kamensky",
+            "score": [
+              "1",
+              "7",
+              "0",
+              "(0)"
+            ]
+          },
+          {
+            "name": "Sergey Potanin",
+            "score": [
+              "0",
+              "6",
+              "5",
+              "(0)"
+            ]
+          }
+        ],
+        "rates": [
+          "2.575",
+          "-",
+          "1.445",
+          "1.656",
+          "29",
+          "2.096",
+          "1.995",
+          "+5.5-",
+          "1.76"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   }
 ]

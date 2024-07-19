@@ -1,491 +1,611 @@
 [
   {
-    "Event": "International Tournament. National Teams",
-    "Team1": "Brazil",
-    "Team2": "Japan B",
-    "team1_score__1": "0",
-    "team1_score__2": "17",
-    "team2_score__1": "0",
-    "team2_score__2": "12",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.232",
-    "Rate2": "-",
-    "Rate3": "3.86",
-    "Rate4": "1.864",
-    "Rate5": "179.5",
-    "Rate6": "1.875",
-    "Rate7": "1.845",
-    "Rate8": "-10.5+",
-    "Rate9": "1.896"
-  },
-  {
-    "Event": "Thailand Championship. Women",
-    "Team1": "Sisaket (Women)",
-    "Team2": "Bangkok University (Women)",
-    "team1_score__1": "1",
-    "team1_score__2": "25",
-    "team1_score__3": "14",
-    "team2_score__1": "0",
-    "team2_score__2": "3",
-    "team2_score__3": "9",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "1.87",
-    "Rate5": "105.5",
-    "Rate6": "1.83",
-    "Rate7": "1.83",
-    "Rate8": "-44.5+",
-    "Rate9": "1.87"
-  },
-  {
-    "Event": "Vietnam. Army Cup",
-    "Team1": "Bien Phong",
-    "Team2": "Sanest Khanh Hoa",
-    "team1_score__1": "2",
-    "team1_score__2": "20",
-    "team1_score__3": "25",
-    "team1_score__4": "25",
-    "team1_score__5": "8",
-    "team2_score__1": "1",
-    "team2_score__2": "25",
-    "team2_score__3": "17",
-    "team2_score__4": "22",
-    "team2_score__5": "6",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.07",
-    "Rate2": "-",
-    "Rate3": "6.8",
-    "Rate4": "1.944",
-    "Rate5": "180.5",
-    "Rate6": "1.765",
-    "Rate7": "2.03",
-    "Rate8": "-10.5+",
-    "Rate9": "1.7"
-  },
-  {
-    "Event": "Orange Cup",
-    "Team1": "Dinamo (4х4)",
-    "Team2": "Impuls (4х4)",
-    "team1_score__1": "0",
-    "team1_score__2": "17",
-    "team2_score__1": "0",
-    "team2_score__2": "17",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "2.1",
-    "Rate2": "-",
-    "Rate3": "1.736",
-    "Rate4": "1.93",
-    "Rate5": "186.5",
-    "Rate6": "1.875",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-"
+    "Event": "Central Asian Championship U20. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Maldives U20 (Women)",
+            "score": [
+              "0",
+              "9",
+              "5"
+            ]
+          },
+          {
+            "name": "Sri Lanka U20 (Women)",
+            "score": [
+              "1",
+              "25",
+              "10"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "1.975",
+          "111.5",
+          "1.775",
+          "1.975",
+          "+38.5-",
+          "1.775"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Ural Super League",
-    "Team1": "Mountain Devils",
-    "Team2": "Iron Bullets",
-    "team1_score__1": "0",
-    "team1_score__2": "0",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.9",
-    "Rate2": "-",
-    "Rate3": "1.9",
-    "Rate4": "1.896",
-    "Rate5": "182.5",
-    "Rate6": "1.864",
-    "Rate7": "1.85",
-    "Rate8": "+0.5-",
-    "Rate9": "1.91"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Iron Bullets",
+            "score": [
+              "2",
+              "25",
+              "25",
+              "7"
+            ]
+          },
+          {
+            "name": "Ural Rockets",
+            "score": [
+              "0",
+              "23",
+              "18",
+              "9"
+            ]
+          }
+        ],
+        "rates": [
+          "1.11",
+          "-",
+          "6.57",
+          "1.888",
+          "175.5",
+          "1.875",
+          "2.25",
+          "-11.5+",
+          "1.61"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Ural League. Women",
-    "Team1": "Ural City (Women)",
-    "Team2": "Skyline (Women)",
-    "team1_score__1": "0",
-    "team1_score__2": "0",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.695",
-    "Rate2": "-",
-    "Rate3": "2.165",
-    "Rate4": "1.904",
-    "Rate5": "180.5",
-    "Rate6": "1.856",
-    "Rate7": "1.88",
-    "Rate8": "-4.5+",
-    "Rate9": "1.88"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Eurasia (Women)",
+            "score": [
+              "1",
+              "17",
+              "25",
+              "23",
+              "0"
+            ]
+          },
+          {
+            "name": "Energy (Women)",
+            "score": [
+              "2",
+              "25",
+              "23",
+              "25",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "4.55",
+          "-",
+          "1.2",
+          "1.96",
+          "187.5",
+          "1.808",
+          "1.77",
+          "+11.5-",
+          "2.005"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Amber Cup. Mixed",
-    "Team1": "Infiniti",
-    "Team2": "Freedom",
-    "team1_score__1": "0",
-    "team1_score__2": "0",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "2.09",
-    "Rate2": "-",
-    "Rate3": "1.74",
-    "Rate4": "1.885",
-    "Rate5": "181.5",
-    "Rate6": "1.915",
-    "Rate7": "1.888",
-    "Rate8": "+2.5-",
-    "Rate9": "1.912"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Destiny",
+            "score": [
+              "1",
+              "21",
+              "25",
+              "0"
+            ]
+          },
+          {
+            "name": "Freedom",
+            "score": [
+              "1",
+              "25",
+              "23",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "1.88",
+          "-",
+          "1.92",
+          "1.856",
+          "192.5",
+          "1.95",
+          "1.925",
+          "+1.5-",
+          "1.875"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Diamond Cup. Women",
-    "Team1": "Zhemchuzhina (Women)",
-    "Team2": "Biriuza (Women)",
-    "team1_score__1": "0",
-    "team1_score__2": "0",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.74",
-    "Rate2": "-",
-    "Rate3": "2.09",
-    "Rate4": "1.885",
-    "Rate5": "181.5",
-    "Rate6": "1.915",
-    "Rate7": "1.912",
-    "Rate8": "-2.5+",
-    "Rate9": "1.888"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Zhemchuzhina (Women)",
+            "score": [
+              "0",
+              "20",
+              "21",
+              "0"
+            ]
+          },
+          {
+            "name": "Malahit (Women)",
+            "score": [
+              "2",
+              "25",
+              "25",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "7.01",
+          "-",
+          "1.1",
+          "1.825",
+          "139.5",
+          "1.98",
+          "1.71",
+          "+11.5-",
+          "2.136"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "World Amateur League",
-    "Team1": "German Beerman",
-    "Team2": "Polish Bison",
-    "team1_score__1": "0",
-    "team1_score__2": "8",
-    "team2_score__1": "0",
-    "team2_score__2": "3",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.52",
-    "Rate2": "-",
-    "Rate3": "2.525",
-    "Rate4": "1.875",
-    "Rate5": "184.5",
-    "Rate6": "1.885",
-    "Rate7": "1.925",
-    "Rate8": "-6.5+",
-    "Rate9": "1.835"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "American Tigers",
+            "score": [
+              "1",
+              "18",
+              "25",
+              "16"
+            ]
+          },
+          {
+            "name": "Iranian Lions",
+            "score": [
+              "1",
+              "25",
+              "23",
+              "23"
+            ]
+          }
+        ],
+        "rates": [
+          "3.96",
+          "-",
+          "1.25",
+          "1.875",
+          "193.5",
+          "1.885",
+          "1.755",
+          "+14.5-",
+          "2.025"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "World Amateur League. Women",
-    "Team1": "Chinese Pandas (Women)",
-    "Team2": "Brazilian Amazons (Women)",
-    "team1_score__1": "0",
-    "team1_score__2": "0",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.9",
-    "Rate2": "-",
-    "Rate3": "1.9",
-    "Rate4": "1.896",
-    "Rate5": "185.5",
-    "Rate6": "1.864",
-    "Rate7": "1.835",
-    "Rate8": "+0.5-",
-    "Rate9": "1.925"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Chinese Pandas (Women)",
+            "score": [
+              "1",
+              "25",
+              "15"
+            ]
+          },
+          {
+            "name": "Italian Spirit (Women)",
+            "score": [
+              "0",
+              "19",
+              "17"
+            ]
+          }
+        ],
+        "rates": [
+          "1.552",
+          "-",
+          "2.445",
+          "1.896",
+          "186.5",
+          "1.864",
+          "1.915",
+          "-6.5+",
+          "1.845"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Capital Challenge Cup",
-    "Team1": "Demons",
-    "Team2": "Devils",
-    "team1_score__1": "0",
-    "team1_score__2": "17",
-    "team1_score__3": "11",
-    "team2_score__1": "1",
-    "team2_score__2": "25",
-    "team2_score__3": "13",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "3.83",
-    "Rate2": "-",
-    "Rate3": "1.264",
-    "Rate4": "1.904",
-    "Rate5": "180.5",
-    "Rate6": "1.856",
-    "Rate7": "1.995",
-    "Rate8": "+11.5-",
-    "Rate9": "1.775"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Demons",
+            "score": [
+              "2",
+              "25",
+              "19",
+              "25",
+              "16"
+            ]
+          },
+          {
+            "name": "Devils",
+            "score": [
+              "1",
+              "20",
+              "25",
+              "23",
+              "21"
+            ]
+          }
+        ],
+        "rates": [
+          "1.896",
+          "-",
+          "1.904",
+          "1.815",
+          "206.5",
+          "1.95",
+          "1.85",
+          "+4.5-",
+          "1.91"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "CBV 23. Duo Masters",
-    "Team1": "Australia",
-    "Team2": "Japan",
-    "Team3": "Ukraine",
-    "Team4": "Cuba",
-    "team1_score__1": "2",
-    "team1_score__2": "25",
-    "team1_score__3": "25",
-    "team1_score__4": "21",
-    "team1_score__5": "19",
-    "team1_score__6": "12",
-    "team2_score__1": "2",
-    "team2_score__2": "22",
-    "team2_score__3": "18",
-    "team2_score__4": "25",
-    "team2_score__5": "25",
-    "team2_score__6": "12",
-    "team3_score__1": "2",
-    "team3_score__2": "25",
-    "team3_score__3": "13",
-    "team3_score__4": "25",
-    "team3_score__5": "16",
-    "team4_score__1": "1",
-    "team4_score__2": "13",
-    "team4_score__3": "25",
-    "team4_score__4": "17",
-    "team4_score__5": "12",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.864",
-    "Rate2": "-",
-    "Rate3": "1.936",
-    "Rate4": "2.27",
-    "Rate5": "209.5",
-    "Rate6": "1.575",
-    "Rate7": "1.864",
-    "Rate8": "+1.5-",
-    "Rate9": "1.936",
-    "Rate10": "-",
-    "Rate11": "-",
-    "Rate12": "12",
-    "Rate13": "1.94",
-    "Rate14": "163.5",
-    "Rate15": "1.864",
-    "Rate16": "1.83",
-    "Rate17": "-12.5+",
-    "Rate18": "1.98"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Latvia",
+            "score": [
+              "2",
+              "25",
+              "25",
+              "11"
+            ]
+          },
+          {
+            "name": "USA",
+            "score": [
+              "0",
+              "20",
+              "16",
+              "15"
+            ]
+          }
+        ],
+        "rates": [
+          "1.08",
+          "-",
+          "5.35",
+          "1.864",
+          "177.5",
+          "1.94",
+          "1.87",
+          "-12.5+",
+          "1.93"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Spain",
+            "score": [
+              "1",
+              "13",
+              "25",
+              "9"
+            ]
+          },
+          {
+            "name": "Slovakia",
+            "score": [
+              "1",
+              "25",
+              "17",
+              "8"
+            ]
+          }
+        ],
+        "rates": [
+          "1.62",
+          "-",
+          "2.18",
+          "1.896",
+          "183.5",
+          "1.904",
+          "1.856",
+          "+1.5-",
+          "1.944"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "SpikeVolleyball. International Cup",
-    "Team1": "Italy",
-    "Team2": "Japan",
-    "team1_score__1": "0",
-    "team1_score__2": "21",
-    "team1_score__3": "23",
-    "team1_score__4": "4",
-    "team2_score__1": "2",
-    "team2_score__2": "25",
-    "team2_score__3": "25",
-    "team2_score__4": "12",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "1.504",
-    "Rate5": "135.5",
-    "Rate6": "1.825",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Cuba",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Iran",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "2.144",
+          "-",
+          "1.63",
+          "1.885",
+          "183.5",
+          "1.915",
+          "1.885",
+          "+2.5-",
+          "1.915"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "SpikeVolleyball. International Cup. Women",
-    "Team1": "Canada (Women)",
-    "Team2": "Cameroon (Women)",
-    "team1_score__1": "1",
-    "team1_score__2": "25",
-    "team1_score__3": "16",
-    "team2_score__1": "0",
-    "team2_score__2": "19",
-    "team2_score__3": "14",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "2.07",
-    "Rate2": "-",
-    "Rate3": "1.67",
-    "Rate4": "1.89",
-    "Rate5": "184.5",
-    "Rate6": "1.91",
-    "Rate7": "1.91",
-    "Rate8": "-2.5+",
-    "Rate9": "1.89"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "China (Women)",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "USA (Women)",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "3.296",
+          "-",
+          "1.265",
+          "1.88",
+          "178.5",
+          "1.92",
+          "1.86",
+          "+9.5-",
+          "1.944"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Belarus. Liga Pro",
-    "Team1": "Payp-Pro",
-    "Team2": "Tornado-Pro",
-    "team1_score__1": "1",
-    "team1_score__2": "25",
-    "team1_score__3": "21",
-    "team1_score__4": "0",
-    "team2_score__1": "1",
-    "team2_score__2": "22",
-    "team2_score__3": "25",
-    "team2_score__4": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "2.155",
-    "Rate2": "-",
-    "Rate3": "1.65",
-    "Rate4": "1.89",
-    "Rate5": "189.5",
-    "Rate6": "1.85",
-    "Rate7": "1.89",
-    "Rate8": "+3.5-",
-    "Rate9": "1.85"
-  },
-  {
-    "Event": "Russia. League Pro. Women",
-    "Team1": "Malahit-Pro (Women)",
-    "Team2": "Saphire-Pro (Women)",
-    "team1_score__1": "2",
-    "team1_score__2": "25",
-    "team1_score__3": "23",
-    "team1_score__4": "13",
-    "team1_score__5": "25",
-    "team1_score__6": "6",
-    "team2_score__1": "2",
-    "team2_score__2": "21",
-    "team2_score__3": "25",
-    "team2_score__4": "25",
-    "team2_score__5": "20",
-    "team2_score__6": "5",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.565",
-    "Rate2": "-",
-    "Rate3": "2.32",
-    "Rate4": "1.69",
-    "Rate5": "203.5",
-    "Rate6": "2.096",
-    "Rate7": "1.616",
-    "Rate8": "+3.5-",
-    "Rate9": "2.22"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Lions-Pro",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Enerdzhi-Pro",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "2.32",
+          "-",
+          "1.565",
+          "1.89",
+          "179.5",
+          "1.85",
+          "1.87",
+          "+5.5-",
+          "1.87"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   }
 ]

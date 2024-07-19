@@ -1,815 +1,1793 @@
 [
   {
-    "Event": "China Championship. Women",
-    "Team1": "Xiamen Egrets (Women)",
-    "Team2": "Xinjiang (Women)",
-    "team1_score__1": "38",
-    "team1_score__2": "19",
-    "team1_score__3": "6",
-    "team1_score__4": "13",
-    "team2_score__1": "64",
-    "team2_score__2": "18",
-    "team2_score__3": "32",
-    "team2_score__4": "14",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "1.92",
-    "Rate5": "145.5",
-    "Rate6": "1.82",
-    "Rate7": "1.936",
-    "Rate8": "+32.5-",
-    "Rate9": "1.775"
-  },
-  {
-    "Event": "Australian Championship. Capital Territory. Premier League",
-    "Team1": "Ginninderra Rats",
-    "Team2": "Canberra City Stallions",
-    "team1_score__1": "36",
-    "team1_score__2": "20",
-    "team1_score__3": "16",
-    "team2_score__1": "48",
-    "team2_score__2": "21",
-    "team2_score__3": "27",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "4.57",
-    "Rate2": "17.4",
-    "Rate3": "1.24",
-    "Rate4": "1.856",
-    "Rate5": "163.5",
-    "Rate6": "1.848",
-    "Rate7": "1.87",
-    "Rate8": "+9.5-",
-    "Rate9": "1.87"
-  },
-  {
-    "Event": "Australian Championship. Capital Territory. Premier League. Women",
-    "Team1": "Wests (Women)",
-    "Team2": "ANU Owls (Women)",
-    "team1_score__1": "46",
-    "team1_score__2": "24",
-    "team1_score__3": "22",
-    "team2_score__1": "16",
-    "team2_score__2": "6",
-    "team2_score__3": "10",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "1.864",
-    "Rate5": "132.5",
-    "Rate6": "1.875",
-    "Rate7": "1.87",
-    "Rate8": "-49.5+",
-    "Rate9": "1.87"
+    "Event": "Australia. NBL1. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Cockburn Cougars (Women)",
+            "score": [
+              "52",
+              "23",
+              "19",
+              "10"
+            ]
+          },
+          {
+            "name": "Perry Lakes Hawks (Women)",
+            "score": [
+              "49",
+              "20",
+              "16",
+              "13"
+            ]
+          }
+        ],
+        "rates": [
+          "1.15",
+          "17",
+          "5.62",
+          "1.82",
+          "156.5",
+          "1.92",
+          "1.936",
+          "-9.5+",
+          "1.775"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Joondalup Wolves (Women)",
+            "score": [
+              "60",
+              "31",
+              "17",
+              "12"
+            ]
+          },
+          {
+            "name": "Kalamunda Eastern Suns (Women)",
+            "score": [
+              "52",
+              "20",
+              "19",
+              "13"
+            ]
+          }
+        ],
+        "rates": [
+          "1.01",
+          "17",
+          "14.8",
+          "1.89",
+          "175.5",
+          "1.85",
+          "1.89",
+          "-15.5+",
+          "1.85"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Mandurah Magic (Women)",
+            "score": [
+              "48",
+              "20",
+              "19",
+              "9"
+            ]
+          },
+          {
+            "name": "Willetton Tigers (Women)",
+            "score": [
+              "64",
+              "24",
+              "21",
+              "19"
+            ]
+          }
+        ],
+        "rates": [
+          "14.2",
+          "17",
+          "1.01",
+          "1.92",
+          "163.5",
+          "1.82",
+          "1.87",
+          "+12.5-",
+          "1.87"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "South West Slammers (Women)",
+            "score": [
+              "25",
+              "7",
+              "13",
+              "5"
+            ]
+          },
+          {
+            "name": "Rockingham Flames (Women)",
+            "score": [
+              "76",
+              "34",
+              "33",
+              "9"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "1.816",
+          "168.5",
+          "1.93",
+          "1.89",
+          "+74.5-",
+          "1.85"
+        ]
+      },
+      {
+        "game5": [
+          {
+            "name": "Warwick Senators (Women)",
+            "score": [
+              "66",
+              "27",
+              "21",
+              "18"
+            ]
+          },
+          {
+            "name": "Lakeside Lightning (Women)",
+            "score": [
+              "29",
+              "15",
+              "7",
+              "7"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "1.87",
+          "154.5",
+          "1.87",
+          "1.87",
+          "-37.5+",
+          "1.87"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "FIBA Europe U20 Championship",
-    "Team1": "Azerbaijan U20",
-    "Team2": "Netherlands U20",
-    "team1_score__1": "6",
-    "team1_score__2": "6",
-    "team2_score__1": "8",
-    "team2_score__2": "8",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "1.825",
-    "Rate5": "119.5",
-    "Rate6": "1.835",
-    "Rate7": "1.864",
-    "Rate8": "+33.5-",
-    "Rate9": "1.875"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Croatia U20",
+            "score": [
+              "67",
+              "20",
+              "18",
+              "25",
+              "4"
+            ]
+          },
+          {
+            "name": "Republic of Ireland U20",
+            "score": [
+              "41",
+              "7",
+              "13",
+              "19",
+              "2"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "1.975",
+          "133.5",
+          "1.775",
+          "1.89",
+          "-30.5+",
+          "1.85"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Netherlands U20",
+            "score": [
+              "70",
+              "19",
+              "22",
+              "16",
+              "13"
+            ]
+          },
+          {
+            "name": "Slovakia U20",
+            "score": [
+              "60",
+              "19",
+              "12",
+              "18",
+              "11"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "1.88",
+          "147.5",
+          "1.82",
+          "1.768",
+          "-11.5+",
+          "1.984"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Cup William Jones",
-    "Team1": "Strong Group",
-    "Team2": "Harimau Malaya",
-    "team1_score__1": "46",
-    "team1_score__2": "21",
-    "team1_score__3": "19",
-    "team1_score__4": "6",
-    "team2_score__1": "45",
-    "team2_score__2": "11",
-    "team2_score__3": "25",
-    "team2_score__4": "9",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.49",
-    "Rate2": "15.9",
-    "Rate3": "2.704",
-    "Rate4": "1.91",
-    "Rate5": "156.5",
-    "Rate6": "1.83",
-    "Rate7": "1.82",
-    "Rate8": "-3.5+",
-    "Rate9": "1.92"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Taiwan Blue",
+            "score": [
+              "10",
+              "10"
+            ]
+          },
+          {
+            "name": "United Arab Emirates",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "1.85",
+          "160.5",
+          "1.89",
+          "1.85",
+          "-24.5+",
+          "1.89"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "SLA. World Showcase U19",
-    "Team1": "APALIT Pampanga U19",
-    "Team2": "Lakas California U19",
-    "team1_score__1": "39",
-    "team1_score__2": "19",
-    "team1_score__3": "20",
-    "team2_score__1": "38",
-    "team2_score__2": "22",
-    "team2_score__3": "16",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "1.87",
-    "Rate5": "155.5",
-    "Rate6": "1.87",
-    "Rate7": "1.955",
-    "Rate8": "-1.5+",
-    "Rate9": "1.79"
+    "Event": "Club Friendlies",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "East China Normal University",
+            "score": [
+              "36",
+              "23",
+              "13"
+            ]
+          },
+          {
+            "name": "Civil Aviation University of China",
+            "score": [
+              "37",
+              "22",
+              "15"
+            ]
+          }
+        ],
+        "rates": [
+          "2.195",
+          "17",
+          "1.72",
+          "1.85",
+          "174.5",
+          "1.89",
+          "1.87",
+          "+2.5-",
+          "1.87"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "Thailand. Thai League",
-    "Team1": "Warriors Thailand",
-    "Team2": "Banvas Blackbulls",
-    "team1_score__1": "22",
-    "team1_score__2": "22",
-    "team2_score__1": "27",
-    "team2_score__2": "27",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "1.75",
-    "Rate5": "175.5",
-    "Rate6": "1.96",
-    "Rate7": "1.9",
-    "Rate8": "+24.5-",
-    "Rate9": "1.8"
+    "Event": "European Universities Games. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Polytechnic University of Bucharest (Women)",
+            "score": [
+              "20",
+              "9",
+              "11"
+            ]
+          },
+          {
+            "name": "Zagreb Universiade (Women)",
+            "score": [
+              "26",
+              "21",
+              "5"
+            ]
+          }
+        ],
+        "rates": [
+          "4",
+          "17",
+          "1.26",
+          "1.785",
+          "125.5",
+          "1.875",
+          "1.82",
+          "+9.5-",
+          "1.92"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "European Universities Games",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Sevilla University",
+            "score": [
+              "30",
+              "26",
+              "4"
+            ]
+          },
+          {
+            "name": "Gdansk University of Technology",
+            "score": [
+              "12",
+              "8",
+              "4"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "1.87",
+          "130.5",
+          "1.87",
+          "1.92",
+          "-33.5+",
+          "1.82"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Vytautas Magnus University",
+            "score": [
+              "35",
+              "22",
+              "13"
+            ]
+          },
+          {
+            "name": "University of Ljubljana",
+            "score": [
+              "26",
+              "19",
+              "7"
+            ]
+          }
+        ],
+        "rates": [
+          "1.02",
+          "17",
+          "13",
+          "1.87",
+          "159.5",
+          "1.87",
+          "1.85",
+          "-18.5+",
+          "1.89"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "FIBA 3x3 U21 Nations League",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Slovenia 3x3 U21",
+            "score": [
+              "11"
+            ]
+          },
+          {
+            "name": "Poland 3x3 U21",
+            "score": [
+              "7"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "1.85",
+          "34.5",
+          "1.85",
+          "1.775",
+          "-5.5+",
+          "1.936"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "Philippines. MPBL",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "South Cotabato Warriors",
+            "score": [
+              "39",
+              "25",
+              "14",
+              "0"
+            ]
+          },
+          {
+            "name": "Abra Weavers",
+            "score": [
+              "44",
+              "10",
+              "27",
+              "7"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "1.92",
+          "161.5",
+          "1.82",
+          "1.85",
+          "+9.5-",
+          "1.89"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Premier League",
-    "Team1": "Tsunami",
-    "Team2": "Master",
-    "team1_score__1": "110",
-    "team1_score__2": "38",
-    "team1_score__3": "36",
-    "team1_score__4": "30",
-    "team1_score__5": "6",
-    "team2_score__1": "115",
-    "team2_score__2": "29",
-    "team2_score__3": "38",
-    "team2_score__4": "38",
-    "team2_score__5": "10",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "3.48",
-    "Rate2": "10",
-    "Rate3": "1.375",
-    "Rate4": "1.93",
-    "Rate5": "275.5",
-    "Rate6": "1.816",
-    "Rate7": "1.79",
-    "Rate8": "+4.5-",
-    "Rate9": "1.875"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Master",
+            "score": [
+              "103",
+              "25",
+              "29",
+              "33",
+              "16"
+            ]
+          },
+          {
+            "name": "Bosses",
+            "score": [
+              "102",
+              "25",
+              "27",
+              "29",
+              "21"
+            ]
+          }
+        ],
+        "rates": [
+          "1.76",
+          "10",
+          "2.37",
+          "1.91",
+          "229.5",
+          "1.83",
+          "1.835",
+          "-1.5+",
+          "1.825"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "IPBL. Pro Division",
-    "Team1": "Moscow",
-    "Team2": "St. Petersburg",
-    "Team3": "Nalchik",
-    "Team4": "Saratov",
-    "team1_score__1": "42",
-    "team1_score__2": "30",
-    "team1_score__3": "12",
-    "team2_score__1": "29",
-    "team2_score__2": "20",
-    "team2_score__3": "9",
-    "team3_score__1": "20",
-    "team3_score__2": "20",
-    "team4_score__1": "13",
-    "team4_score__2": "13",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.18",
-    "Rate2": "13",
-    "Rate3": "4.99",
-    "Rate4": "1.885",
-    "Rate5": "199.5",
-    "Rate6": "1.86",
-    "Rate7": "1.775",
-    "Rate8": "-9.5+",
-    "Rate9": "1.885",
-    "Rate10": "1.38",
-    "Rate11": "13",
-    "Rate12": "3.144",
-    "Rate13": "1.835",
-    "Rate14": "233.5",
-    "Rate15": "1.904",
-    "Rate16": "1.832",
-    "Rate17": "-7.5+",
-    "Rate18": "1.825"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Maykop",
+            "score": [
+              "36",
+              "27",
+              "9"
+            ]
+          },
+          {
+            "name": "Saratov",
+            "score": [
+              "52",
+              "34",
+              "18"
+            ]
+          }
+        ],
+        "rates": [
+          "6.41",
+          "13",
+          "1.115",
+          "1.856",
+          "242.5",
+          "1.885",
+          "1.784",
+          "+14.5-",
+          "1.875"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Moscow",
+            "score": [
+              "72",
+              "34",
+              "29",
+              "9"
+            ]
+          },
+          {
+            "name": "Kazan",
+            "score": [
+              "54",
+              "34",
+              "13",
+              "7"
+            ]
+          }
+        ],
+        "rates": [
+          "1.015",
+          "13",
+          "13",
+          "1.875",
+          "215.5",
+          "1.864",
+          "1.87",
+          "-17.5+",
+          "1.792"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "IPBL. Pro Division. Women",
-    "Team1": "Samara (Women)",
-    "Team2": "Moscow (Women)",
-    "team1_score__1": "28",
-    "team1_score__2": "28",
-    "team1_score__3": "0",
-    "team2_score__1": "27",
-    "team2_score__2": "27",
-    "team2_score__3": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.835",
-    "Rate2": "13",
-    "Rate3": "2.03",
-    "Rate4": "1.83",
-    "Rate5": "206.5",
-    "Rate6": "1.91",
-    "Rate7": "1.85",
-    "Rate8": "-1.5+",
-    "Rate9": "1.81"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Samara (Women)",
+            "score": [
+              "60",
+              "29",
+              "22",
+              "9"
+            ]
+          },
+          {
+            "name": "Krasnodar (Women)",
+            "score": [
+              "52",
+              "23",
+              "20",
+              "9"
+            ]
+          }
+        ],
+        "rates": [
+          "1.13",
+          "13",
+          "6.36",
+          "1.87",
+          "184.5",
+          "1.87",
+          "1.775",
+          "-9.5+",
+          "1.888"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "IPBL. Space Division",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Nuggets",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Memphis",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "1.944",
+          "13",
+          "1.944",
+          "1.89",
+          "82.5",
+          "1.85",
+          "1.825",
+          "+0.5-",
+          "1.885"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "IPBL. Space Division. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Storm (Women)",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Sky (Women)",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "1.95",
+          "13",
+          "1.945",
+          "1.895",
+          "76.5",
+          "1.85",
+          "1.885",
+          "-0.5+",
+          "1.825"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Table Basketball League",
-    "Team1": "Finland (TBL)",
-    "Team2": "Russia (TBL)",
-    "Team3": "Spain (TBL)",
-    "Team4": "Egypt (TBL)",
-    "team1_score__1": "5",
-    "team1_score__2": "5",
-    "team2_score__1": "1",
-    "team2_score__2": "1",
-    "team3_score__1": "3",
-    "team3_score__2": "3",
-    "team4_score__1": "3",
-    "team4_score__2": "3",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.536",
-    "Rate2": "17.3",
-    "Rate3": "2.425",
-    "Rate4": "1.864",
-    "Rate5": "151.5",
-    "Rate6": "1.795",
-    "Rate7": "1.915",
-    "Rate8": "-3.5+",
-    "Rate9": "1.75",
-    "Rate10": "3.58",
-    "Rate11": "17.3",
-    "Rate12": "1.25",
-    "Rate13": "1.82",
-    "Rate14": "208.5",
-    "Rate15": "1.84",
-    "Rate16": "1.896",
-    "Rate17": "+6.5-",
-    "Rate18": "1.77"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "France (TBL)",
+            "score": [
+              "49",
+              "18",
+              "16",
+              "15"
+            ]
+          },
+          {
+            "name": "Russia (TBL)",
+            "score": [
+              "51",
+              "17",
+              "19",
+              "15"
+            ]
+          }
+        ],
+        "rates": [
+          "2.53",
+          "17.3",
+          "1.552",
+          "1.825",
+          "148.5",
+          "1.835",
+          "1.74",
+          "+2.5-",
+          "1.93"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Germany (TBL)",
+            "score": [
+              "69",
+              "31",
+              "22",
+              "16"
+            ]
+          },
+          {
+            "name": "Spain (TBL)",
+            "score": [
+              "76",
+              "30",
+              "27",
+              "19"
+            ]
+          }
+        ],
+        "rates": [
+          "7.65",
+          "17.3",
+          "1.045",
+          "1.87",
+          "215.5",
+          "1.79",
+          "1.9",
+          "+8.5-",
+          "1.765"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Premier League A",
-    "Team1": "Spartacus",
-    "Team2": "Pase",
-    "team1_score__1": "0",
-    "team1_score__2": "0",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.87",
-    "Rate2": "10",
-    "Rate3": "1.968",
-    "Rate4": "1.89",
-    "Rate5": "230.5",
-    "Rate6": "1.815",
-    "Rate7": "1.84",
-    "Rate8": "-0.5+",
-    "Rate9": "1.875"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Spartacus",
+            "score": [
+              "130",
+              "33",
+              "23",
+              "31",
+              "43"
+            ]
+          },
+          {
+            "name": "Pase",
+            "score": [
+              "113",
+              "24",
+              "29",
+              "28",
+              "32"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Rocket League",
-    "Team1": "Gunners (Green)",
-    "Team2": "Mariners (Blue)",
-    "team1_score__1": "78",
-    "team1_score__2": "39",
-    "team1_score__3": "39",
-    "team1_score__4": "0",
-    "team2_score__1": "69",
-    "team2_score__2": "38",
-    "team2_score__3": "31",
-    "team2_score__4": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.29",
-    "Rate2": "13",
-    "Rate3": "3.9",
-    "Rate4": "1.912",
-    "Rate5": "268.5",
-    "Rate6": "1.888",
-    "Rate7": "1.92",
-    "Rate8": "-8.5+",
-    "Rate9": "1.88"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Raiders (Red)",
+            "score": [
+              "71",
+              "32",
+              "35",
+              "4"
+            ]
+          },
+          {
+            "name": "Knights (Yellow)",
+            "score": [
+              "61",
+              "28",
+              "27",
+              "6"
+            ]
+          }
+        ],
+        "rates": [
+          "1.235",
+          "13",
+          "4.53",
+          "1.865",
+          "235.5",
+          "1.936",
+          "1.94",
+          "-9.5+",
+          "1.86"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "China. CDBL",
-    "Team1": "Jinan Cyclones",
-    "Team2": "Xi'an Legends",
-    "team1_score__1": "40",
-    "team1_score__2": "18",
-    "team1_score__3": "22",
-    "team1_score__4": "0",
-    "team2_score__1": "55",
-    "team2_score__2": "33",
-    "team2_score__3": "22",
-    "team2_score__4": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "7.05",
-    "Rate2": "13",
-    "Rate3": "1.112",
-    "Rate4": "1.835",
-    "Rate5": "189.5",
-    "Rate6": "1.925",
-    "Rate7": "1.896",
-    "Rate8": "+13.5-",
-    "Rate9": "1.864"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Xi'an Legends",
+            "score": [
+              "18",
+              "18",
+              "0"
+            ]
+          },
+          {
+            "name": "Wuhan Lightnings",
+            "score": [
+              "23",
+              "23",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "2.57",
+          "13",
+          "1.56",
+          "1.875",
+          "182.5",
+          "1.885",
+          "1.904",
+          "+4.5-",
+          "1.856"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "IPBL. Prime Division",
-    "Team1": "905",
-    "Team2": "Chili Peppers",
-    "team1_score__1": "45",
-    "team1_score__2": "36",
-    "team1_score__3": "9",
-    "team2_score__1": "39",
-    "team2_score__2": "27",
-    "team2_score__3": "12",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.51",
-    "Rate2": "13",
-    "Rate3": "2.63",
-    "Rate4": "1.904",
-    "Rate5": "289.5",
-    "Rate6": "1.835",
-    "Rate7": "1.87",
-    "Rate8": "-5.5+",
-    "Rate9": "1.792"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Charge",
+            "score": [
+              "32",
+              "32",
+              "0"
+            ]
+          },
+          {
+            "name": "Red Claws",
+            "score": [
+              "48",
+              "48",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "5.07",
+          "13",
+          "1.17",
+          "1.87",
+          "312.5",
+          "1.87",
+          "1.864",
+          "+13.5-",
+          "1.795"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "IPBL. Prime Division. Women",
-    "Team1": "Panthers (Women)",
-    "Team2": "Eagles (Women)",
-    "team1_score__1": "42",
-    "team1_score__2": "40",
-    "team1_score__3": "2",
-    "team2_score__1": "49",
-    "team2_score__2": "42",
-    "team2_score__3": "7",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "2.805",
-    "Rate2": "13",
-    "Rate3": "1.456",
-    "Rate4": "1.9",
-    "Rate5": "271.5",
-    "Rate6": "1.84",
-    "Rate7": "1.805",
-    "Rate8": "+6.5-",
-    "Rate9": "1.856"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Wolfpack (Women)",
+            "score": [
+              "36",
+              "30",
+              "6"
+            ]
+          },
+          {
+            "name": "Dolphins (Women)",
+            "score": [
+              "35",
+              "32",
+              "3"
+            ]
+          }
+        ],
+        "rates": [
+          "1.835",
+          "13",
+          "2.016",
+          "1.83",
+          "235.5",
+          "1.91",
+          "1.85",
+          "-1.5+",
+          "1.81"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Rocket League. Women",
-    "Team1": "Flamingos (Women)",
-    "Team2": "Swallows (Women)",
-    "team1_score__1": "60",
-    "team1_score__2": "22",
-    "team1_score__3": "24",
-    "team1_score__4": "14",
-    "team2_score__1": "47",
-    "team2_score__2": "19",
-    "team2_score__3": "15",
-    "team2_score__4": "13",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "1.95",
-    "Rate5": "160.5",
-    "Rate6": "1.816",
-    "Rate7": "1.82",
-    "Rate8": "-11.5+",
-    "Rate9": "1.94"
-  },
-  {
-    "Event": "Belarus. NBBL",
-    "Team1": "Trans-Nova",
-    "Team2": "PromMash Orsha",
-    "team1_score__1": "39",
-    "team1_score__2": "19",
-    "team1_score__3": "20",
-    "team1_score__4": "0",
-    "team2_score__1": "60",
-    "team2_score__2": "34",
-    "team2_score__3": "26",
-    "team2_score__4": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "1.955",
-    "Rate5": "194.5",
-    "Rate6": "1.85",
-    "Rate7": "1.95",
-    "Rate8": "+18.5-",
-    "Rate9": "1.85"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Swallows (Women)",
+            "score": [
+              "55",
+              "21",
+              "26",
+              "8"
+            ]
+          },
+          {
+            "name": "Gulls (Women)",
+            "score": [
+              "51",
+              "22",
+              "15",
+              "14"
+            ]
+          }
+        ],
+        "rates": [
+          "1.53",
+          "13",
+          "2.77",
+          "1.86",
+          "170.5",
+          "1.9",
+          "1.83",
+          "-3.5+",
+          "1.93"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Ukraine. LBL",
-    "Team1": "High-Tech",
-    "Team2": "SKIF",
-    "team1_score__1": "48",
-    "team1_score__2": "28",
-    "team1_score__3": "20",
-    "team2_score__1": "37",
-    "team2_score__2": "27",
-    "team2_score__3": "10",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.125",
-    "Rate2": "13",
-    "Rate3": "6.62",
-    "Rate4": "1.91",
-    "Rate5": "207.5",
-    "Rate6": "1.89",
-    "Rate7": "1.89",
-    "Rate8": "-12.5+",
-    "Rate9": "1.91"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Arizona Podol",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "High-Tech",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "1.83",
+          "13",
+          "2.056",
+          "1.9",
+          "207.5",
+          "1.9",
+          "1.89",
+          "-1.5+",
+          "1.91"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "NBA 2K23. Cyber Euro League",
-    "Team1": "Crvena Zvezda (cyber)",
-    "Team2": "Zalgiris (cyber)",
-    "Team3": "Maccabi (cyber)",
-    "Team4": "Monaco (cyber)",
-    "Team5": "Real Madrid (cyber)",
-    "Team6": "Fenerbahce (cyber)",
-    "team1_score__1": "75",
-    "team1_score__2": "21",
-    "team1_score__3": "17",
-    "team1_score__4": "16",
-    "team1_score__5": "21",
-    "team2_score__1": "69",
-    "team2_score__2": "21",
-    "team2_score__3": "14",
-    "team2_score__4": "15",
-    "team2_score__5": "19",
-    "team3_score__1": "38",
-    "team3_score__2": "16",
-    "team3_score__3": "15",
-    "team3_score__4": "7",
-    "team4_score__1": "49",
-    "team4_score__2": "26",
-    "team4_score__3": "13",
-    "team4_score__4": "10",
-    "team5_score__1": "11",
-    "team5_score__2": "11",
-    "team6_score__1": "16",
-    "team6_score__2": "16",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-",
-    "Rate10": "8.55",
-    "Rate11": "20",
-    "Rate12": "1.02",
-    "Rate13": "1.85",
-    "Rate14": "145.5",
-    "Rate15": "1.95",
-    "Rate16": "1.856",
-    "Rate17": "+11.5-",
-    "Rate18": "1.945",
-    "Rate19": "1.79",
-    "Rate20": "16",
-    "Rate21": "2.216",
-    "Rate22": "1.875",
-    "Rate23": "159.5",
-    "Rate24": "1.925",
-    "Rate25": "1.92",
-    "Rate26": "-6.5+",
-    "Rate27": "1.88"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Maccabi (cyber)",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Zalgiris (cyber)",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "1.095",
+          "20",
+          "5.45",
+          "1.875",
+          "141.5",
+          "1.925",
+          "1.845",
+          "-12.5+",
+          "1.96"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Monaco (cyber)",
+            "score": [
+              "65",
+              "18",
+              "20",
+              "27"
+            ]
+          },
+          {
+            "name": "Barcelona (cyber)",
+            "score": [
+              "51",
+              "17",
+              "18",
+              "16"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "1.93",
+          "154.5",
+          "1.875",
+          "1.95",
+          "-12.5+",
+          "1.855"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Real Madrid (cyber)",
+            "score": [
+              "29",
+              "24",
+              "5"
+            ]
+          },
+          {
+            "name": "Fenerbahce (cyber)",
+            "score": [
+              "25",
+              "21",
+              "4"
+            ]
+          }
+        ],
+        "rates": [
+          "1.25",
+          "14",
+          "4.41",
+          "1.952",
+          "160.5",
+          "1.85",
+          "1.97",
+          "-10.5+",
+          "1.835"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "2K24. Euroleague",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Maccabi Tel Aviv (Shavon_6344)",
+            "score": [
+              "72",
+              "20",
+              "24",
+              "24",
+              "4"
+            ]
+          },
+          {
+            "name": "Partizan Belgrade (Isaer_5199)",
+            "score": [
+              "59",
+              "27",
+              "13",
+              "17",
+              "2"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "1.832",
+          "164.5",
+          "1.93",
+          "1.95",
+          "-13.5+",
+          "1.816"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "2K24. NBA",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Los Angeles Clippers (Jordan_2323)",
+            "score": [
+              "76",
+              "25",
+              "19",
+              "32",
+              "0"
+            ]
+          },
+          {
+            "name": "New Orleans Pelicans (Poole_1885)",
+            "score": [
+              "83",
+              "31",
+              "26",
+              "24",
+              "2"
+            ]
+          }
+        ],
+        "rates": [
+          "3.92",
+          "13",
+          "1.315",
+          "1.816",
+          "211.5",
+          "1.95",
+          "1.936",
+          "+5.5-",
+          "1.83"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "NBA 2K24. Cyber Euro League",
-    "Team1": "Anadolu Efes (cyber)",
-    "Team2": "Maccabi (cyber)",
-    "Team3": "Bayern Munich (cyber)",
-    "Team4": "Zalgiris (cyber)",
-    "Team5": "Partizan (cyber)",
-    "Team6": "Fenerbahce (cyber)",
-    "team1_score__1": "45",
-    "team1_score__2": "17",
-    "team1_score__3": "16",
-    "team1_score__4": "12",
-    "team2_score__1": "44",
-    "team2_score__2": "17",
-    "team2_score__3": "15",
-    "team2_score__4": "12",
-    "team3_score__1": "8",
-    "team3_score__2": "8",
-    "team4_score__1": "8",
-    "team4_score__2": "8",
-    "team5_score__1": "61",
-    "team5_score__2": "14",
-    "team5_score__3": "19",
-    "team5_score__4": "13",
-    "team5_score__5": "15",
-    "team6_score__1": "66",
-    "team6_score__2": "25",
-    "team6_score__3": "17",
-    "team6_score__4": "13",
-    "team6_score__5": "11",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "3.115",
-    "Rate2": "7.18",
-    "Rate3": "1.595",
-    "Rate4": "1.82",
-    "Rate5": "143.5",
-    "Rate6": "1.99",
-    "Rate7": "1.88",
-    "Rate8": "+5.5-",
-    "Rate9": "1.92",
-    "Rate10": "1.61",
-    "Rate11": "20",
-    "Rate12": "2.304",
-    "Rate13": "1.875",
-    "Rate14": "133.5",
-    "Rate15": "1.925",
-    "Rate16": "1.896",
-    "Rate17": "-6.5+",
-    "Rate18": "1.904",
-    "Rate19": "-",
-    "Rate20": "-",
-    "Rate21": "-",
-    "Rate22": "-",
-    "Rate23": "-",
-    "Rate24": "-",
-    "Rate25": "-",
-    "Rate26": "-",
-    "Rate27": "-"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Fenerbahce (cyber)",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Anadolu Efes (cyber)",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "2.42",
+          "10",
+          "1.736",
+          "1.89",
+          "143.5",
+          "1.91",
+          "1.91",
+          "+1.5-",
+          "1.89"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Monaco (cyber)",
+            "score": [
+              "29",
+              "17",
+              "12"
+            ]
+          },
+          {
+            "name": "Bayern Munich (cyber)",
+            "score": [
+              "19",
+              "16",
+              "3"
+            ]
+          }
+        ],
+        "rates": [
+          "1.51",
+          "20",
+          "2.53",
+          "1.88",
+          "134.5",
+          "1.92",
+          "1.875",
+          "-7.5+",
+          "1.925"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Zalgiris (cyber)",
+            "score": [
+              "61",
+              "20",
+              "18",
+              "17",
+              "6"
+            ]
+          },
+          {
+            "name": "Panathinaikos (cyber)",
+            "score": [
+              "50",
+              "14",
+              "17",
+              "9",
+              "10"
+            ]
+          }
+        ],
+        "rates": [
+          "1.056",
+          "20",
+          "6.98",
+          "1.784",
+          "137.5",
+          "2.03",
+          "1.896",
+          "-7.5+",
+          "1.904"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "NBA 2K24. Cyber League",
-    "Team1": "Boston Celtics (cyber)",
-    "Team2": "Miami Heat (cyber)",
-    "Team3": "Cleveland Cavaliers (cyber)",
-    "Team4": "New York Knicks (cyber)",
-    "Team5": "Los Angeles Clippers (cyber)",
-    "Team6": "Golden State Warriors (cyber)",
-    "team1_score__1": "48",
-    "team1_score__2": "22",
-    "team1_score__3": "26",
-    "team2_score__1": "42",
-    "team2_score__2": "22",
-    "team2_score__3": "20",
-    "team3_score__1": "0",
-    "team3_score__2": "0",
-    "team4_score__1": "0",
-    "team4_score__2": "0",
-    "team5_score__1": "81",
-    "team5_score__2": "18",
-    "team5_score__3": "22",
-    "team5_score__4": "29",
-    "team5_score__5": "12",
-    "team6_score__1": "90",
-    "team6_score__2": "24",
-    "team6_score__3": "30",
-    "team6_score__4": "19",
-    "team6_score__5": "17",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.056",
-    "Rate2": "20",
-    "Rate3": "7.55",
-    "Rate4": "1.856",
-    "Rate5": "198.5",
-    "Rate6": "1.944",
-    "Rate7": "1.92",
-    "Rate8": "-10.5+",
-    "Rate9": "1.88",
-    "Rate10": "1.384",
-    "Rate11": "20",
-    "Rate12": "3.07",
-    "Rate13": "1.936",
-    "Rate14": "204.5",
-    "Rate15": "1.864",
-    "Rate16": "1.86",
-    "Rate17": "-7.5+",
-    "Rate18": "1.94",
-    "Rate19": "-",
-    "Rate20": "-",
-    "Rate21": "-",
-    "Rate22": "1.944",
-    "Rate23": "194.5",
-    "Rate24": "1.856",
-    "Rate25": "2.145",
-    "Rate26": "+8.5-",
-    "Rate27": "1.64"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Memphis Grizzlies (cyber)",
+            "score": [
+              "33",
+              "27",
+              "6"
+            ]
+          },
+          {
+            "name": "Boston Celtics (cyber)",
+            "score": [
+              "31",
+              "22",
+              "9"
+            ]
+          }
+        ],
+        "rates": [
+          "7.46",
+          "15",
+          "1.095",
+          "1.915",
+          "205.5",
+          "1.885",
+          "1.785",
+          "+10.5-",
+          "2.03"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Miami Heat (cyber)",
+            "score": [
+              "80",
+              "20",
+              "24",
+              "30",
+              "6"
+            ]
+          },
+          {
+            "name": "Atlanta Hawks (cyber)",
+            "score": [
+              "79",
+              "24",
+              "26",
+              "19",
+              "10"
+            ]
+          }
+        ],
+        "rates": [
+          "2.184",
+          "7.12",
+          "2.064",
+          "1.805",
+          "192.5",
+          "2.01",
+          "1.856",
+          "+4.5-",
+          "1.944"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "Pro League. 3х3",
-    "Team1": "Zenit-pro",
-    "Team2": "Erofey-pro",
-    "team1_score__1": "3",
-    "team2_score__1": "1",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "1.7",
-    "Rate5": "37.5",
-    "Rate6": "2.03",
-    "Rate7": "1.936",
-    "Rate8": "-4.5+",
-    "Rate9": "1.775"
+    "Event": "Pro League. 3х3. Free Throw",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Admiralych (Free Throw)",
+            "score": [
+              "0"
+            ]
+          },
+          {
+            "name": "Tallantovy (Free Throw)",
+            "score": [
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "2.275",
+          "4.66",
+          "2.275",
+          "1.72",
+          "11.5",
+          "2",
+          "3.46",
+          "-1.5+",
+          "1.264"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Amur-pro (Free Throw)",
+            "score": [
+              "0"
+            ]
+          },
+          {
+            "name": "Erofey-pro (Free Throw)",
+            "score": [
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "2.104",
+          "6.98",
+          "2.104",
+          "1.83",
+          "35.5",
+          "1.87",
+          "1.45",
+          "+1.5-",
+          "2.55"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "DarkDuck (Free Throw)",
+            "score": [
+              "0"
+            ]
+          },
+          {
+            "name": "Fanatvezde (Free Throw)",
+            "score": [
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "2.416",
+          "4.63",
+          "2.16",
+          "1.58",
+          "11.5",
+          "2.23",
+          "1.3",
+          "+1.5-",
+          "3.2"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "Raketa (Free Throw)",
+            "score": [
+              "0"
+            ]
+          },
+          {
+            "name": "Lordichesky (Free Throw)",
+            "score": [
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "2.175",
+          "4.67",
+          "2.384",
+          "1.632",
+          "11.5",
+          "2.136",
+          "3.2",
+          "-1.5+",
+          "1.3"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   }
 ]

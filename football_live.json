@@ -1,908 +1,2047 @@
 [
   {
-    "Event": "China Cup",
-    "Team1": "Chengdu Rongcheng",
-    "Team2": "Nantong Zhiyun",
-    "team1_score__1": "1",
-    "team1_score__2": "1",
-    "team1_score__3": "0",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "team2_score__3": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.09",
-    "Rate2": "8.06",
-    "Rate3": "34",
-    "Rate4": "-",
-    "Rate5": "1.06",
-    "Rate6": "6.56",
-    "Rate7": "1.87",
-    "Rate8": "2",
-    "Rate9": "1.93"
+    "Event": "Australia. New South Wales Premier League",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Manly United",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Marconi Stallions",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "4.24",
+          "4.11",
+          "1.695",
+          "2.1",
+          "1.216",
+          "1.205",
+          "1.76",
+          "2.5",
+          "2.06"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
-    "Event": "Club Friendlies. Top",
-    "Team1": "Copenhagen",
-    "Team2": "SonderjyskE",
-    "team1_score__1": "1",
-    "team1_score__2": "1",
-    "team1_score__3": "0",
-    "team2_score__1": "1",
-    "team2_score__2": "1",
-    "team2_score__3": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.696",
-    "Rate2": "3.336",
-    "Rate3": "6.34",
-    "Rate4": "1.125",
-    "Rate5": "1.34",
-    "Rate6": "2.19",
-    "Rate7": "1.7",
-    "Rate8": "3.5",
-    "Rate9": "2.175"
+    "Event": "South Korea. League K3",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Ulsan Citizen",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Daegu II",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "1.49",
+          "5.14",
+          "4.89",
+          "1.16",
+          "1.15",
+          "2.515",
+          "1.95",
+          "3",
+          "1.85"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
-    "Event": "Republic of Malawi. Super League",
-    "Team1": "Bangwe All Stars",
-    "Team2": "Mighty Tigers",
-    "team1_score__1": "0",
-    "team1_score__2": "0",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "2.35",
-    "Rate2": "2.81",
-    "Rate3": "3.475",
-    "Rate4": "1.285",
-    "Rate5": "1.41",
-    "Rate6": "1.56",
-    "Rate7": "1.835",
-    "Rate8": "1.5",
-    "Rate9": "1.97"
+    "Event": "Australia Championship. National Queensland Premier League U23",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Queensland Lions U23",
+            "score": [
+              "1",
+              "0",
+              "1"
+            ]
+          },
+          {
+            "name": "Redlands United U23",
+            "score": [
+              "0",
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "1.04",
+          "13",
+          "34",
+          "-",
+          "-",
+          "-",
+          "1.984",
+          "2",
+          "1.82"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
-    "Event": "Argentina. Primera C Metropolitana. Reserve League",
-    "Team1": "Club Defensores de Cambaceres II",
-    "Team2": "General Lamadrid II",
-    "team1_score__1": "0",
-    "team1_score__2": "0",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.25",
-    "Rate2": "6.42",
-    "Rate3": "8.83",
-    "Rate4": "1.048",
-    "Rate5": "1.1",
-    "Rate6": "3.78",
-    "Rate7": "1.86",
-    "Rate8": "2.5",
-    "Rate9": "1.94"
+    "Event": "Australia Championship. Queensland Premier League U23",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Southside Eagles U23",
+            "score": [
+              "2",
+              "2",
+              "0"
+            ]
+          },
+          {
+            "name": "Moreton City Excelsior II U23",
+            "score": [
+              "0",
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "1.016",
+          "18.7",
+          "33",
+          "-",
+          "-",
+          "-",
+          "1.695",
+          "2.5",
+          "2.165"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
-    "Event": "Friendlies. National Teams. Women",
-    "Team1": "Singapore (Women)",
-    "Team2": "Macau (Women)",
-    "team1_score__1": "2",
-    "team1_score__2": "2",
-    "team1_score__3": "0",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "team2_score__3": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.02",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "14",
-    "Rate7": "1.81",
-    "Rate8": "3.5",
-    "Rate9": "1.936"
+    "Event": "Australia. New South Wales Premier League 2",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Hurstville",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Camden Tigers",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "2.08",
+          "3.74",
+          "3.115",
+          "1.34",
+          "1.25",
+          "1.71",
+          "2.01",
+          "3.5",
+          "1.8"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
-    "Event": "Malaysia. MFL Cup",
-    "Team1": "Johor Darul Takzim II U23",
-    "Team2": "Polis Di-Raja Malaysia U23",
-    "team1_score__1": "2",
-    "team1_score__2": "2",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.02",
-    "Rate2": "19",
-    "Rate3": "29",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "11.5",
-    "Rate7": "1.76",
-    "Rate8": "3.5",
-    "Rate9": "2.06"
+    "Event": "Australia. NPL Victorian",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Melbourne Knights",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Altona Magic",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "1.69",
+          "4.01",
+          "4.38",
+          "1.195",
+          "1.225",
+          "2.104",
+          "1.664",
+          "2",
+          "2.136"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "South Melbourne",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Dandenong City",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "1.816",
+          "3.61",
+          "4.14",
+          "1.216",
+          "1.265",
+          "1.94",
+          "1.76",
+          "2",
+          "2.06"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
-    "Event": "Argentina. Primera B Metropolitana. Reserve League",
-    "Team1": "CA Fenix Pilar II",
-    "Team2": "San Martin de Burzaco II",
-    "team1_score__1": "2",
-    "team1_score__2": "2",
-    "team1_score__3": "0",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "team2_score__3": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.03",
-    "Rate2": "13.9",
-    "Rate3": "26",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "9.07",
-    "Rate7": "1.695",
-    "Rate8": "4",
-    "Rate9": "2.165"
+    "Event": "Australia. Victoria Premier League 1 U23",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Bentleigh Greens U23",
+            "score": [
+              "2",
+              "1",
+              "1"
+            ]
+          },
+          {
+            "name": "Caroline Springs George Cross U23",
+            "score": [
+              "0",
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "20",
+          "33",
+          "-",
+          "-",
+          "-",
+          "2.425",
+          "2.5",
+          "1.56"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Northcote City U23",
+            "score": [
+              "4",
+              "2",
+              "2"
+            ]
+          },
+          {
+            "name": "Werribee City U23",
+            "score": [
+              "0",
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "1.915",
+          "4.5",
+          "1.888"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
-    "Event": "CECAFA Clubs Cup",
-    "Team1": "Djibouti Telecom",
-    "Team2": "Red Arrows",
-    "team1_score__1": "0",
-    "team1_score__2": "0",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "4.55",
-    "Rate2": "3.432",
-    "Rate3": "1.755",
-    "Rate4": "1.97",
-    "Rate5": "1.275",
-    "Rate6": "1.17",
-    "Rate7": "2.22",
-    "Rate8": "2.5",
-    "Rate9": "1.616"
+    "Event": "Russia. Premier League. Youth Tournament",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Ural (Youth)",
+            "score": [
+              "1",
+              "1",
+              "0"
+            ]
+          },
+          {
+            "name": "Pari Nizhny Novgorod (Youth)",
+            "score": [
+              "1",
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Master-Saturn (Youth)",
+            "score": [
+              "0"
+            ]
+          },
+          {
+            "name": "Strogino (Youth)",
+            "score": [
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "3.035",
+          "3.64",
+          "2.144",
+          "1.664",
+          "1.264",
+          "1.355",
+          "2.11",
+          "3",
+          "1.73"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
-    "Event": "Kazakhstan. League 2",
-    "Team1": "Astana II",
-    "Team2": "Kyzylzhar II",
-    "Team3": "Taraz II",
-    "Team4": "Ordabasy II",
-    "Team5": "KazAST",
-    "Team6": "Turan II",
-    "team1_score__1": "0",
-    "team1_score__2": "0",
-    "team1_score__3": "0",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "team2_score__3": "0",
-    "team3_score__1": "0",
-    "team3_score__2": "0",
-    "team3_score__3": "0",
-    "team4_score__1": "0",
-    "team4_score__2": "0",
-    "team4_score__3": "0",
-    "team5_score__1": "1",
-    "team5_score__2": "1",
-    "team6_score__1": "0",
-    "team6_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.21",
-    "Rate2": "4.93",
-    "Rate3": "19.6",
-    "Rate4": "-",
-    "Rate5": "1.144",
-    "Rate6": "3.97",
-    "Rate7": "2",
-    "Rate8": "2",
-    "Rate9": "1.755",
-    "Rate10": "2.925",
-    "Rate11": "2.94",
-    "Rate12": "2.51",
-    "Rate13": "1.475",
-    "Rate14": "1.36",
-    "Rate15": "1.36",
-    "Rate16": "1.72",
-    "Rate17": "1.5",
-    "Rate18": "2.048",
-    "Rate19": "1.1",
-    "Rate20": "8.51",
-    "Rate21": "18.8",
-    "Rate22": "-",
-    "Rate23": "1.045",
-    "Rate24": "5.9",
-    "Rate25": "1.82",
-    "Rate26": "3.5",
-    "Rate27": "1.92"
+    "Event": "Australia. New South Wales Premier League 1",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Nepean",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Dulwich Hill",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "2.392",
+          "3.74",
+          "2.6",
+          "1.464",
+          "1.25",
+          "1.54",
+          "1.81",
+          "3",
+          "2"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
-    "Event": "Maldives. Laamaseelulaamu",
-    "Team1": "Kunahandhoo",
-    "Team2": "Mathimaradhoo",
-    "team1_score__1": "0",
-    "team1_score__2": "0",
-    "team1_score__3": "0",
-    "team2_score__1": "3",
-    "team2_score__2": "1",
-    "team2_score__3": "2",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "2.064",
-    "Rate8": "3.5",
-    "Rate9": "1.66"
+    "Event": "Australia. Victoria (Reserve)",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Springvale White Eagles II",
+            "score": [
+              "1",
+              "1",
+              "0"
+            ]
+          },
+          {
+            "name": "Casey Comets II",
+            "score": [
+              "1",
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "rates": [
+          "4.7",
+          "2.28",
+          "2.395",
+          "1.54",
+          "1.592",
+          "1.175",
+          "1.72",
+          "3",
+          "2.12"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "Indonesia. Piala Presiden",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Persib Bandung",
+            "score": [
+              "2",
+              "2",
+              "0"
+            ]
+          },
+          {
+            "name": "PSM Makassar",
+            "score": [
+              "0",
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "1.03",
+          "15",
+          "29",
+          "-",
+          "-",
+          "-",
+          "1.835",
+          "3",
+          "1.97"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "Australia. New South Wales Premier League U20",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Sydney Olympic U20",
+            "score": [
+              "2",
+              "2",
+              "0"
+            ]
+          },
+          {
+            "name": "Rockdale Ilinden U20",
+            "score": [
+              "2",
+              "2",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "3.296",
+          "3.496",
+          "2.032",
+          "1.71",
+          "1.264",
+          "1.296",
+          "2.065",
+          "6.5",
+          "1.705"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "Australia. NPL Northern NSW. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "New Lambton (Women)",
+            "score": [
+              "6",
+              "6",
+              "0"
+            ]
+          },
+          {
+            "name": "Mid Coast (Women)",
+            "score": [
+              "0",
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Broadmeadow Magic (Women)",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Adamstown Rosebud (Women)",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "1.184",
+          "7.91",
+          "10.2",
+          "1.032",
+          "1.064",
+          "4.47",
+          "1.97",
+          "4.5",
+          "1.832"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "Malaysia. MBSB Bank Championship",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "PIB",
+            "score": [
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Gombak FA",
+            "score": [
+              "0",
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "2.44",
+          "2.54",
+          "3.6",
+          "1.25",
+          "1.464",
+          "1.5",
+          "2.032",
+          "1.5",
+          "1.73"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "India. Calcutta Premier Division",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Army Red",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Kalighat Milan Sangha",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "3.285",
+          "3.384",
+          "2.08",
+          "1.68",
+          "1.28",
+          "1.296",
+          "1.915",
+          "2",
+          "1.825"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "AS Police Calcutta",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "East Bengal II",
+            "score": [
+              "1",
+              "1"
+            ]
+          }
+        ],
+        "rates": [
+          "22",
+          "13.6",
+          "1.04",
+          "8.44",
+          "-",
+          "-",
+          "1.864",
+          "4",
+          "1.875"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Measures Club",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "DHFC",
+            "score": [
+              "2",
+              "2"
+            ]
+          }
+        ],
+        "rates": [
+          "23",
+          "14.9",
+          "1.03",
+          "9.09",
+          "-",
+          "-",
+          "1.755",
+          "4.5",
+          "2"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "Suruchi Sangha",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "BSS",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "2.16",
+          "3.005",
+          "3.51",
+          "1.264",
+          "1.344",
+          "1.63",
+          "1.71",
+          "1.5",
+          "2.06"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "ASEAN Football Championship U19",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Malaysia U19",
+            "score": [
+              "11",
+              "6",
+              "5"
+            ]
+          },
+          {
+            "name": "Brunei U19",
+            "score": [
+              "0",
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "Australia. South Australia NPL. Women. Reserves",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "West Adelaide II (Women)",
+            "score": [
+              "2",
+              "0",
+              "2"
+            ]
+          },
+          {
+            "name": "Adelaide City II (Women)",
+            "score": [
+              "0",
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "1.11",
+          "8.51",
+          "16",
+          "-",
+          "1.045",
+          "5.59",
+          "1.795",
+          "3",
+          "1.95"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Flinders Flames II (Women)",
+            "score": [
+              "2",
+              "2",
+              "0"
+            ]
+          },
+          {
+            "name": "Sturt Lions II (Women)",
+            "score": [
+              "0",
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "19.3",
+          "25",
+          "-",
+          "-",
+          "-",
+          "2.065",
+          "3.5",
+          "1.705"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Modbury Jets (Women)",
+            "score": [
+              "1",
+              "1",
+              "0"
+            ]
+          },
+          {
+            "name": "Modbury Vista (Women)",
+            "score": [
+              "0",
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "Myanmar. Premier League",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Dagon Star United",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "ISPE",
+            "score": [
+              "1",
+              "1"
+            ]
+          }
+        ],
+        "rates": [
+          "4.67",
+          "4.26",
+          "1.51",
+          "2.296",
+          "1.175",
+          "1.145",
+          "1.81",
+          "4",
+          "1.85"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "Russian Championship. 3rd Division. Ural & Western Siberia",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Tobol Tobolsk",
+            "score": [
+              "1",
+              "1",
+              "0"
+            ]
+          },
+          {
+            "name": "Ilpar",
+            "score": [
+              "1",
+              "1",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "5.2",
+          "3.55",
+          "1.57",
+          "2.17",
+          "1.24",
+          "1.12",
+          "1.605",
+          "3.5",
+          "2.13"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "China. Zhenfeng Cup",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Beipanjiang Changtian Pingjie United",
+            "score": [
+              "2",
+              "2",
+              "0"
+            ]
+          },
+          {
+            "name": "Education system 3",
+            "score": [
+              "0",
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "1.03",
+          "10",
+          "25",
+          "-",
+          "-",
+          "10.8",
+          "1.825",
+          "4",
+          "1.94"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "Club Friendlies",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "UCSA",
+            "score": [
+              "2",
+              "1",
+              "1"
+            ]
+          },
+          {
+            "name": "Dynamo Kyiv U19",
+            "score": [
+              "3",
+              "2",
+              "1"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "Indonesia. Porkab Garut",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Limbangan",
+            "score": [
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Bayongbong",
+            "score": [
+              "0",
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "8.91",
+          "1.13",
+          "8.91",
+          "1.001",
+          "4.45",
+          "1.001",
+          "4",
+          "0.5",
+          "1.17"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
     "Event": "Short Football 4x4",
-    "Team1": "Varna+",
-    "Team2": "Mons+",
-    "team1_score__1": "2",
-    "team1_score__2": "1",
-    "team1_score__3": "1",
-    "team2_score__1": "1",
-    "team2_score__2": "1",
-    "team2_score__3": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.42",
-    "Rate2": "4.69",
-    "Rate3": "6.16",
-    "Rate4": "1.09",
-    "Rate5": "1.152",
-    "Rate6": "2.66",
-    "Rate7": "1.96",
-    "Rate8": "5.5",
-    "Rate9": "1.84"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Bilbao+",
+            "score": [
+              "2",
+              "1",
+              "1"
+            ]
+          },
+          {
+            "name": "Geneva+",
+            "score": [
+              "3",
+              "3",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "5.33",
+          "4.27",
+          "1.515",
+          "2.37",
+          "1.18",
+          "1.12",
+          "2.144",
+          "7.5",
+          "1.704"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
     "Event": "Short Football 5x5",
-    "Team1": "Frankfurt+",
-    "Team2": "Zaragoza+",
-    "Team3": "Shanghai+",
-    "Team4": "Beijing+",
-    "team1_score__1": "3",
-    "team1_score__2": "3",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "team3_score__1": "2",
-    "team3_score__2": "2",
-    "team3_score__3": "0",
-    "team4_score__1": "2",
-    "team4_score__2": "2",
-    "team4_score__3": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.002",
-    "Rate2": "10",
-    "Rate3": "10",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "8.5",
-    "Rate7": "2.09",
-    "Rate8": "6.5",
-    "Rate9": "1.74",
-    "Rate10": "2.365",
-    "Rate11": "4.26",
-    "Rate12": "2.365",
-    "Rate13": "1.52",
-    "Rate14": "1.18",
-    "Rate15": "1.52",
-    "Rate16": "1.91",
-    "Rate17": "7.5",
-    "Rate18": "1.89"
-  },
-  {
-    "Event": "Student League",
-    "Team1": "AUDIT",
-    "Team2": "ECO",
-    "team1_score__1": "1",
-    "team1_score__2": "1",
-    "team2_score__1": "2",
-    "team2_score__2": "2",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "4.29",
-    "Rate2": "5.76",
-    "Rate3": "1.42",
-    "Rate4": "2.46",
-    "Rate5": "1.064",
-    "Rate6": "1.14",
-    "Rate7": "1.74",
-    "Rate8": "7.5",
-    "Rate9": "2.09"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Nantes+",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Genoa+",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "2.14",
+          "5.02",
+          "2.415",
+          "1.5",
+          "1.136",
+          "1.63",
+          "2.096",
+          "5",
+          "1.736"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
     "Event": "Student League 2",
-    "Team1": "HIST",
-    "Team2": "AGRO",
-    "team1_score__1": "1",
-    "team1_score__2": "1",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.18",
-    "Rate2": "6.52",
-    "Rate3": "8.95",
-    "Rate4": "1.001",
-    "Rate5": "1.045",
-    "Rate6": "3.77",
-    "Rate7": "2.09",
-    "Rate8": "4.5",
-    "Rate9": "1.74"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "DES",
+            "score": [
+              "6",
+              "3",
+              "3"
+            ]
+          },
+          {
+            "name": "ARCH",
+            "score": [
+              "5",
+              "4",
+              "1"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
     "Event": "BudnesLiga LFL 5x5",
-    "Team1": "Dynamo Dresden (Amateur)",
-    "Team2": "Wolfsburg (Amateur)",
-    "Team3": "FT Braunschweig (Amateur)",
-    "Team4": "Nurnberg (Amateur)",
-    "team1_score__1": "0",
-    "team1_score__2": "0",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "team3_score__1": "0",
-    "team3_score__2": "0",
-    "team4_score__1": "0",
-    "team4_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "2.205",
-    "Rate2": "5.74",
-    "Rate3": "2.205",
-    "Rate4": "1.592",
-    "Rate5": "1.1",
-    "Rate6": "1.592",
-    "Rate7": "2.03",
-    "Rate8": "6.5",
-    "Rate9": "1.715",
-    "Rate10": "2.205",
-    "Rate11": "5.74",
-    "Rate12": "2.205",
-    "Rate13": "1.592",
-    "Rate14": "1.1",
-    "Rate15": "1.592",
-    "Rate16": "2.03",
-    "Rate17": "6.5",
-    "Rate18": "1.715"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Hamburg (Amateur)",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Borussia (Amateur)",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "2.19",
+          "5.93",
+          "2.19",
+          "1.6",
+          "1.096",
+          "1.6",
+          "1.825",
+          "6.5",
+          "1.98"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "VfL Bochum (Amateur)",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Karlsruher (Amateur)",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "2.44",
+          "5.27",
+          "2.075",
+          "1.67",
+          "1.12",
+          "1.49",
+          "2.05",
+          "5.5",
+          "1.704"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
     "Event": "USSR. Division 3x3",
-    "Team1": "Holland (3x3)",
-    "Team2": "Argentina (3х3)",
-    "Team3": "Russia (3x3)",
-    "Team4": "Georgia (3х3)",
-    "team1_score__1": "3",
-    "team1_score__2": "3",
-    "team1_score__3": "0",
-    "team2_score__1": "4",
-    "team2_score__2": "3",
-    "team2_score__3": "1",
-    "team3_score__1": "4",
-    "team3_score__2": "4",
-    "team3_score__3": "0",
-    "team4_score__1": "4",
-    "team4_score__2": "4",
-    "team4_score__3": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "3.47",
-    "Rate2": "6.13",
-    "Rate3": "1.59",
-    "Rate4": "2.216",
-    "Rate5": "1.09",
-    "Rate6": "1.26",
-    "Rate7": "1.89",
-    "Rate8": "13",
-    "Rate9": "1.83",
-    "Rate10": "2.21",
-    "Rate11": "5.69",
-    "Rate12": "2.21",
-    "Rate13": "1.59",
-    "Rate14": "1.104",
-    "Rate15": "1.59",
-    "Rate16": "1.77",
-    "Rate17": "14",
-    "Rate18": "1.96"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Ukraine (3х3)",
+            "score": [
+              "1",
+              "1"
+            ]
+          },
+          {
+            "name": "Russia (3x3)",
+            "score": [
+              "5",
+              "5"
+            ]
+          }
+        ],
+        "rates": [
+          "11.4",
+          "10",
+          "1.07",
+          "6.79",
+          "-",
+          "1.007",
+          "1.81",
+          "15.5",
+          "1.915"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "USSR (3x3)",
+            "score": [
+              "3",
+              "3"
+            ]
+          },
+          {
+            "name": "Holland (3x3)",
+            "score": [
+              "2",
+              "2"
+            ]
+          }
+        ],
+        "rates": [
+          "1.59",
+          "7.58",
+          "3.125",
+          "1.312",
+          "1.056",
+          "2.215",
+          "1.92",
+          "14.5",
+          "1.805"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
     "Event": "ACL Indoor",
-    "Team1": "Milan (ACL)",
-    "Team2": "Valencia (ACL)",
-    "team1_score__1": "1",
-    "team1_score__2": "1",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.625",
-    "Rate2": "8.23",
-    "Rate3": "2.896",
-    "Rate4": "1.36",
-    "Rate5": "1.04",
-    "Rate6": "2.144",
-    "Rate7": "1.88",
-    "Rate8": "12.5",
-    "Rate9": "1.84"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Chelsea (ACL)",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Manchester City (ACL)",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "2.088",
+          "8.14",
+          "2.088",
+          "1.66",
+          "1.045",
+          "1.66",
+          "1.9",
+          "12.5",
+          "1.825"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
     "Event": "Division 4х4",
-    "Team1": "Roda (Amateur)",
-    "Team2": "Utrecht (Amateur)",
-    "team1_score__1": "1",
-    "team1_score__2": "1",
-    "team1_score__3": "0",
-    "team2_score__1": "2",
-    "team2_score__2": "2",
-    "team2_score__3": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "4.85",
-    "Rate2": "4.8",
-    "Rate3": "1.5",
-    "Rate4": "2.415",
-    "Rate5": "1.144",
-    "Rate6": "1.144",
-    "Rate7": "1.84",
-    "Rate8": "6",
-    "Rate9": "1.968"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Utrecht (Amateur)",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Heracles (Amateur)",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "2.075",
+          "5.32",
+          "2.435",
+          "1.49",
+          "1.12",
+          "1.67",
+          "2.016",
+          "5.5",
+          "1.795"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
     "Event": "MLS+",
-    "Team1": "Austin +",
-    "Team2": "St. Louis +",
-    "Team3": "Charleston +",
-    "Team4": "Hartford +",
-    "team1_score__1": "3",
-    "team1_score__2": "2",
-    "team1_score__3": "1",
-    "team2_score__1": "2",
-    "team2_score__2": "2",
-    "team2_score__3": "0",
-    "team3_score__1": "0",
-    "team3_score__2": "0",
-    "team4_score__1": "0",
-    "team4_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.304",
-    "Rate2": "4.42",
-    "Rate3": "10",
-    "Rate4": "1.007",
-    "Rate5": "1.17",
-    "Rate6": "3.184",
-    "Rate7": "2.325",
-    "Rate8": "6.5",
-    "Rate9": "1.605",
-    "Rate10": "2.1",
-    "Rate11": "4.84",
-    "Rate12": "2.51",
-    "Rate13": "1.464",
-    "Rate14": "1.144",
-    "Rate15": "1.655",
-    "Rate16": "1.95",
-    "Rate17": "4.5",
-    "Rate18": "1.85"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Toronto+",
+            "score": [
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Nashville +",
+            "score": [
+              "3",
+              "1",
+              "2"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "2.1",
+          "4",
+          "1.736"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Birmingham +",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Charleston +",
+            "score": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "2.075",
+          "5.32",
+          "2.435",
+          "1.49",
+          "1.12",
+          "1.67",
+          "2.016",
+          "5.5",
+          "1.795"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "Regional League A",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Rogachev",
+            "score": [
+              "2",
+              "1",
+              "1"
+            ]
+          },
+          {
+            "name": "Soligorsk",
+            "score": [
+              "4",
+              "2",
+              "2"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "2",
+          "7.5",
+          "1.81"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "Regional League. West",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Alliance",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "East",
+            "score": [
+              "1",
+              "1"
+            ]
+          }
+        ],
+        "rates": [
+          "4.12",
+          "5.69",
+          "1.55",
+          "2.39",
+          "1.125",
+          "1.22",
+          "1.86",
+          "5.5",
+          "1.94"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
     "Event": "Short Football D1",
-    "Team1": "Bats (3x3)",
-    "Team2": "Wolves (3x3)",
-    "Team3": "Neman (4x4)",
-    "Team4": "Arsenal (4x4)",
-    "team1_score__1": "2",
-    "team1_score__2": "2",
-    "team2_score__1": "1",
-    "team2_score__2": "1",
-    "team3_score__1": "0",
-    "team3_score__2": "0",
-    "team4_score__1": "0",
-    "team4_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.616",
-    "Rate2": "7.71",
-    "Rate3": "3.008",
-    "Rate4": "1.336",
-    "Rate5": "1.05",
-    "Rate6": "2.165",
-    "Rate7": "1.95",
-    "Rate8": "13",
-    "Rate9": "1.85",
-    "Rate10": "2.16",
-    "Rate11": "6.47",
-    "Rate12": "2.16",
-    "Rate13": "1.62",
-    "Rate14": "1.08",
-    "Rate15": "1.62",
-    "Rate16": "1.65",
-    "Rate17": "7.5",
-    "Rate18": "2.06"
-  },
-  {
-    "Event": "Short Football 4x4 L2",
-    "Team1": "Portugal+",
-    "Team2": "Italy+",
-    "team1_score__1": "0",
-    "team1_score__2": "0",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "2.405",
-    "Rate2": "5.01",
-    "Rate3": "2.15",
-    "Rate4": "1.625",
-    "Rate5": "1.136",
-    "Rate6": "1.504",
-    "Rate7": "1.736",
-    "Rate8": "4.5",
-    "Rate9": "2.1"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Wolves (3x3)",
+            "score": [
+              "9",
+              "3",
+              "6"
+            ]
+          },
+          {
+            "name": "Owls (3x3)",
+            "score": [
+              "10",
+              "7",
+              "3"
+            ]
+          }
+        ],
+        "rates": [
+          "4.82",
+          "4.98",
+          "1.488",
+          "2.45",
+          "1.136",
+          "1.144",
+          "2.1",
+          "22.5",
+          "1.736"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Shakhtar (4x4)",
+            "score": [
+              "3",
+              "3"
+            ]
+          },
+          {
+            "name": "Granit (4x4)",
+            "score": [
+              "2",
+              "2"
+            ]
+          }
+        ],
+        "rates": [
+          "1.544",
+          "5.84",
+          "3.81",
+          "1.22",
+          "1.1",
+          "2.305",
+          "1.8",
+          "10",
+          "2.016"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
     "Event": "Short Football 3x3 L2",
-    "Team1": "Master +",
-    "Team2": "Progress +",
-    "team1_score__1": "3",
-    "team1_score__2": "2",
-    "team1_score__3": "1",
-    "team2_score__1": "5",
-    "team2_score__2": "4",
-    "team2_score__3": "1",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "8.16",
-    "Rate2": "7.62",
-    "Rate3": "1.21",
-    "Rate4": "3.94",
-    "Rate5": "1.055",
-    "Rate6": "1.045",
-    "Rate7": "1.8",
-    "Rate8": "12",
-    "Rate9": "2.01"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Leicester +\nGOAL",
+            "score": [
+              "3",
+              "2",
+              "1"
+            ]
+          },
+          {
+            "name": "Manchester +",
+            "score": [
+              "1",
+              "1",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "1.18",
+          "8.16",
+          "9",
+          "-",
+          "-",
+          "-",
+          "1.72",
+          "8",
+          "2.125"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
     "Event": "Short Football 5x5 L1",
-    "Team1": "Heraklion (5x5)",
-    "Team2": "Athens (5x5)",
-    "team1_score__1": "0",
-    "team1_score__2": "0",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "2.18",
-    "Rate2": "6.11",
-    "Rate3": "2.18",
-    "Rate4": "1.608",
-    "Rate5": "1.09",
-    "Rate6": "1.608",
-    "Rate7": "1.875",
-    "Rate8": "7",
-    "Rate9": "1.925"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Boavista (5x5)",
+            "score": [
+              "4",
+              "1",
+              "3"
+            ]
+          },
+          {
+            "name": "Porto (5x5)",
+            "score": [
+              "4",
+              "4",
+              "0"
+            ]
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "1.955",
+          "9",
+          "1.85"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
-    "Event": "Short Football 2x2",
-    "Team1": "Express",
-    "Team2": "Flash",
-    "team1_score__1": "0",
-    "team1_score__2": "0",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "2.096",
-    "Rate2": "7.88",
-    "Rate3": "2.096",
-    "Rate4": "1.656",
-    "Rate5": "1.05",
-    "Rate6": "1.656",
-    "Rate7": "1.845",
-    "Rate8": "11.5",
-    "Rate9": "1.96"
-  },
-  {
-    "Event": "Short Football 3x3 L1",
-    "Team1": "Chicharito (3х3)",
-    "Team2": "Airplane (3х3)",
-    "Team3": "Dalian",
-    "Team4": "Baishan",
-    "team1_score__1": "0",
-    "team1_score__2": "0",
-    "team2_score__1": "0",
-    "team2_score__2": "0",
-    "team3_score__1": "0",
-    "team3_score__2": "0",
-    "team4_score__1": "0",
-    "team4_score__2": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "2.336",
-    "Rate2": "5.65",
-    "Rate3": "2.1",
-    "Rate4": "1.65",
-    "Rate5": "1.104",
-    "Rate6": "1.53",
-    "Rate7": "1.875",
-    "Rate8": "6",
-    "Rate9": "1.925",
-    "Rate10": "2.096",
-    "Rate11": "7.88",
-    "Rate12": "2.096",
-    "Rate13": "1.656",
-    "Rate14": "1.05",
-    "Rate15": "1.656",
-    "Rate16": "1.845",
-    "Rate17": "11.5",
-    "Rate18": "1.96"
-  },
-  {
-    "Event": "Subsoccer",
-    "Team1": "Architect (sub)",
-    "Team2": "King (sub)",
-    "team1_score__1": "4",
-    "team1_score__2": "4",
-    "team2_score__1": "2",
-    "team2_score__2": "2",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.37",
-    "Rate2": "9.26",
-    "Rate3": "4.1",
-    "Rate4": "1.192",
-    "Rate5": "1.03",
-    "Rate6": "2.845",
-    "Rate7": "1.845",
-    "Rate8": "17",
-    "Rate9": "1.96"
-  },
-  {
-    "Event": "FIFA 23. Amateur daily league",
-    "Team1": "Aston Villa (Luky)",
-    "Team2": "Sevilla (Zizzuk)",
-    "team1_score__1": "8",
-    "team1_score__2": "8",
-    "team2_score__1": "7",
-    "team2_score__2": "7",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.63",
-    "Rate2": "8.2",
-    "Rate3": "2.896",
-    "Rate4": "1.36",
-    "Rate5": "1.045",
-    "Rate6": "2.14",
-    "Rate7": "1.965",
-    "Rate8": "26.5",
-    "Rate9": "1.84"
-  },
-  {
-    "Event": "FIFA 22. Cyber League",
-    "Team1": "Borussia Dortmund (Andry_9866)",
-    "Team2": "Manchester United (Rdan_2367)",
-    "team1_score__1": "3",
-    "team1_score__2": "3",
-    "team1_score__3": "0",
-    "team2_score__1": "6",
-    "team2_score__2": "6",
-    "team2_score__3": "0",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "9.91",
-    "Rate2": "10",
-    "Rate3": "1.096",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "2.01",
-    "Rate8": "14",
-    "Rate9": "1.75"
+    "Event": "Derby League",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Sporting team",
+            "score": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Benfica team",
+            "score": [
+              "1",
+              "1"
+            ]
+          }
+        ],
+        "rates": [
+          "2.73",
+          "8.02",
+          "1.696",
+          "2.035",
+          "1.048",
+          "1.4",
+          "1.75",
+          "12",
+          "1.984"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   }
 ]

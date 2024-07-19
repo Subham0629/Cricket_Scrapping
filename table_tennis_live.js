@@ -31,43 +31,29 @@ const path = require("path");
         let teamNames = await elementss[i].findElements(
           By.css(".c-events__teams .c-events-scoreboard__team-wrap")
         );
-        let teams = {};
+        let matches = [];
+        let teams = [];
         for (let j = 0; j < teamNames.length; j++) {
           let teamName = await teamNames[j].getText();
-          teams[`Team${j + 1}`] = teamName;
+          teams.push(teamName);
+          // teams[`Team${j + 1}`] = teamName;
         }
-        let teamSc = await elementss[i].findElements(
-          By.css(
-            ".c-events-scoreboard__layout"
-          )
+
+        let teamScores = await elementss[i].findElements(
+          By.css(".c-events-scoreboard__lines")
         );
-        let scores = {};
-        let teamserial=1
-        for(let j=0;j<teamSc.length;j++){
-          let teamScores = await teamSc[j].findElements(
-            By.css(
-              ".c-events-scoreboard__lines .c-events-scoreboard__line .c-events-scoreboard__cell"
-            )
+        let footballPoints = [];
+
+        for (let m = 0; m < teamScores.length; m++) {
+          let singleGameScores = await teamScores[m].findElements(
+            By.css(".c-events-scoreboard__line .c-events-scoreboard__cell")
           );
-          let team1Counter = 1;
-          let team2Counter = 1;
-          for (let k = 0; k < teamScores.length; k++) { 
-            try {
-              let teamScore = await teamScores[k].getText();
-              if(k<teamScores.length/2){
-                scores[`team${teamserial}_score__${team1Counter++}`] = teamScore;
-              }else{
-                scores[`team${teamserial}_score__${team2Counter++}`] = teamScore;
-              }
-              if( k ==(teamScores.length /2)-1){   
-                teamserial++                   
-              }
-            } catch (error) {
-              console.error("Error scraping score data:", error);
-            }
+          let jio = [];
+          for (let u = 0; u < singleGameScores.length; u++) {
+            let teamCore = await singleGameScores[u].getText();
+            jio.push(teamCore);
           }
-          
-          teamserial++ 
+          footballPoints.push(jio);
         }
 
         let head = await elementss[i].findElements(
@@ -83,11 +69,6 @@ const path = require("path");
           maxValues.push(max);
         }
 
-        let rowData = { Event: event, ...teams, ...scores };
-        for (let m = 0; m < maxValues.length; m++) {
-          rowData[`head${m + 1}`] = maxValues[m];
-        }
-
         let body = await elementss[i].findElements(
           By.css(
             ".dashboard-champ-content .c-events__item_col .c-bets .c-bets__bet"
@@ -100,9 +81,40 @@ const path = require("path");
             .getText();
           rate.push(rateText);
         }
-        for (let o = 0; o < rate.length; o++) {
-          rowData[`Rate${o + 1}`] = rate[o];
+        let distributedRate = [];
+        for (let i = 0; i < rate.length; i += 9) {
+          let gameRate = [];
+          for (let j = i; j < i + 9; j++) {
+            gameRate.push(rate[j]);
+          }
+          distributedRate.push(gameRate);
         }
+        let count = 1;
+        let index = 0;
+        let nCount = 0;
+        for (let k = 0; k < teams.length; k += 2) {
+          let firstTeam = [];
+          let secondTeam = [];
+          for (let r = 0; r < footballPoints[nCount].length; r++) {
+            if (r < footballPoints[nCount].length / 2) {
+              firstTeam.push(footballPoints[nCount][r]);
+            } else {
+              secondTeam.push(footballPoints[nCount][r]);
+            }
+          }
+          nCount++;
+
+          let final = {
+            [`game${count++}`]: [
+              { name: teams[k], score: firstTeam },
+              { name: teams[k + 1], score: secondTeam },
+            ],
+          };
+          final.rates = distributedRate[index++];
+
+          matches.push(final);
+        }
+        let rowData = { Event: event, matches: matches, head: maxValues };
 
         data.push(rowData);
       } catch (error) {
