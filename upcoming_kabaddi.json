@@ -1,38 +1,102 @@
 [
   {
     "Event": "India. Uttar Pradesh League",
-    "Team1": "Sangam Challengers",
-    "Team2": "Yamuna Yodhas",
-    "Team3": "Lucknow Lions",
-    "Team4": "Kings of Mirzapur",
-    "Time1": "16/07 19:00",
-    "Time2": "16/07 20:00",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "1X",
-    "head5": "12",
-    "head6": "2X",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.9",
-    "Rate2": "11",
-    "Rate3": "2",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "1.83",
-    "Rate8": "69.5",
-    "Rate9": "1.83",
-    "Rate10": "1.08",
-    "Rate11": "21",
-    "Rate12": "8.6",
-    "Rate13": "-",
-    "Rate14": "-",
-    "Rate15": "-",
-    "Rate16": "1.83",
-    "Rate17": "73.5",
-    "Rate18": "1.83"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Brij Stars"
+          },
+          {
+            "name": "Sangam Challengers"
+          }
+        ],
+        "rates": [
+          "3.845",
+          "15",
+          "1.31",
+          "-",
+          "-",
+          "-",
+          "1.83",
+          "73.5",
+          "1.83"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Kashi Kings"
+          },
+          {
+            "name": "Lucknow Lions"
+          }
+        ],
+        "rates": [
+          "4.07",
+          "17",
+          "1.26",
+          "-",
+          "-",
+          "-",
+          "1.83",
+          "69.5",
+          "1.83"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Kings of Mirzapur"
+          },
+          {
+            "name": "Awadh Ramdoots"
+          }
+        ],
+        "rates": [
+          "3.445",
+          "15",
+          "1.36",
+          "-",
+          "-",
+          "-",
+          "1.83",
+          "69.5",
+          "1.83"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "Noida Ninjas"
+          },
+          {
+            "name": "Yamuna Yodhas"
+          }
+        ],
+        "rates": [
+          "3.845",
+          "15",
+          "1.31",
+          "-",
+          "-",
+          "-",
+          "1.83",
+          "69.5",
+          "1.83"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "1X",
+      "12",
+      "2X",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   }
 ]

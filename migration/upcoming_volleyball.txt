@@ -1,0 +1,6 @@
+CREATE TABLE upcoming_volleyball (
+  id SERIAL PRIMARY KEY,
+  event_name TEXT,
+  matches JSONB,
+  head JSONB
+);

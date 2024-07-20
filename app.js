@@ -6,6 +6,13 @@ const ttLive = require("./table_tennis_live.json");
 const tennisLive = require("./tennis_live.json");
 const basketBallLive = require("./basketball_live.json");
 const volleyBallLive = require("./volleyball_live.json");
+const volleyBallUpcomingData = require("./upcoming_volleyball.json");
+const footBallUpcomingData = require("./upcoming_football.json");
+const basketBallUpcomingData = require("./upcoming_basketball.json");
+const kabaddiUpcomingData = require("./upcoming_kabaddi.json");
+const tennisUpcomingData = require("./upcoming_tennis.json");
+const tableTennisUpcomingData = require("./upcoming_table_tennis.json");
+const cricketUpcomingData = require("./upcoming_cricket.json");
 const bodyParser = require("body-parser");
 const { Pool } = require("pg");
 
@@ -185,7 +192,7 @@ async function insertLiveVolleyBallData() {
     await pool.end();
   }
 }
-insertLiveVolleyBallData();
+// insertLiveVolleyBallData();
 
 async function insertCricketDetailData() {
   const client = await pool.connect();
@@ -202,6 +209,188 @@ async function insertCricketDetailData() {
   }
 }
 // insertCricketDetailData();
+
+async function insertUpcomingBasketballData() {
+  try {
+    await pool.connect();
+    const query = `
+          INSERT INTO upcoming_basketball (event_name, matches, head)
+          VALUES ($1, $2, $3)
+          RETURNING *;
+        `;
+
+    for (const event of basketBallUpcomingData) {
+      const values = [
+        event.Event,
+        JSON.stringify(event.matches),
+        JSON.stringify(event.head),
+      ];
+      const res = await pool.query(query, values);
+      console.log("Inserted row:", res.rows[0]);
+    }
+  } catch (err) {
+    console.error("Error inserting data:", err.stack);
+  } finally {
+    await pool.end();
+  }
+}
+// insertUpcomingBasketballData();
+
+async function insertUpcomingCricketData() {
+  try {
+    await pool.connect();
+    const query = `
+          INSERT INTO upcoming_cricket (event_name, matches, head)
+          VALUES ($1, $2, $3)
+          RETURNING *;
+        `;
+
+    for (const event of cricketUpcomingData) {
+      const values = [
+        event.Event,
+        JSON.stringify(event.matches),
+        JSON.stringify(event.head),
+      ];
+      const res = await pool.query(query, values);
+      console.log("Inserted row:", res.rows[0]);
+    }
+  } catch (err) {
+    console.error("Error inserting data:", err.stack);
+  } finally {
+    await pool.end();
+  }
+}
+// insertUpcomingCricketData()
+
+async function insertUpcomingFootballData() {
+  try {
+    await pool.connect();
+    const query = `
+          INSERT INTO upcoming_football (event_name, matches, head)
+          VALUES ($1, $2, $3)
+          RETURNING *;
+        `;
+
+    for (const event of footBallUpcomingData) {
+      const values = [
+        event.Event,
+        JSON.stringify(event.matches),
+        JSON.stringify(event.head),
+      ];
+      const res = await pool.query(query, values);
+      console.log("Inserted row:", res.rows[0]);
+    }
+  } catch (err) {
+    console.error("Error inserting data:", err.stack);
+  } finally {
+    await pool.end();
+  }
+}
+// insertUpcomingFootballData()
+
+async function insertUpcomingKabaddiData() {
+  try {
+    await pool.connect();
+    const query = `
+          INSERT INTO upcoming_kabaddi (event_name, matches, head)
+          VALUES ($1, $2, $3)
+          RETURNING *;
+        `;
+
+    for (const event of kabaddiUpcomingData) {
+      const values = [
+        event.Event,
+        JSON.stringify(event.matches),
+        JSON.stringify(event.head),
+      ];
+      const res = await pool.query(query, values);
+      console.log("Inserted row:", res.rows[0]);
+    }
+  } catch (err) {
+    console.error("Error inserting data:", err.stack);
+  } finally {
+    await pool.end();
+  }
+}
+// insertUpcomingKabaddiData()
+
+async function insertUpcomingTableTennisData() {
+  try {
+    await pool.connect();
+    const query = `
+          INSERT INTO upcoming_table_tennis (event_name, matches, head)
+          VALUES ($1, $2, $3)
+          RETURNING *;
+        `;
+
+    for (const event of tableTennisUpcomingData) {
+      const values = [
+        event.Event,
+        JSON.stringify(event.matches),
+        JSON.stringify(event.head),
+      ];
+      const res = await pool.query(query, values);
+      console.log("Inserted row:", res.rows[0]);
+    }
+  } catch (err) {
+    console.error("Error inserting data:", err.stack);
+  } finally {
+    await pool.end();
+  }
+}
+// insertUpcomingTableTennisData()
+
+async function insertUpcomingTennisData() {
+  try {
+    await pool.connect();
+    const query = `
+          INSERT INTO upcoming_tennis (event_name, matches, head)
+          VALUES ($1, $2, $3)
+          RETURNING *;
+        `;
+
+    for (const event of tennisUpcomingData) {
+      const values = [
+        event.Event,
+        JSON.stringify(event.matches),
+        JSON.stringify(event.head),
+      ];
+      const res = await pool.query(query, values);
+      console.log("Inserted row:", res.rows[0]);
+    }
+  } catch (err) {
+    console.error("Error inserting data:", err.stack);
+  } finally {
+    await pool.end();
+  }
+}
+// insertUpcomingTennisData()
+
+async function insertUpcomingVolleyballData() {
+  try {
+    await pool.connect();
+    const query = `
+          INSERT INTO upcoming_volleyball (event_name, matches, head)
+          VALUES ($1, $2, $3)
+          RETURNING *;
+        `;
+
+    for (const event of volleyBallUpcomingData) {
+      const values = [
+        event.Event,
+        JSON.stringify(event.matches),
+        JSON.stringify(event.head),
+      ];
+      const res = await pool.query(query, values);
+      console.log("Inserted row:", res.rows[0]);
+    }
+  } catch (err) {
+    console.error("Error inserting data:", err.stack);
+  } finally {
+    await pool.end();
+  }
+}
+insertUpcomingVolleyballData();
 
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);

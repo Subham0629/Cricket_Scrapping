@@ -1,830 +1,1324 @@
 [
   {
     "Event": "NBA. Summer League",
-    "Team1": "Phoenix Suns",
-    "Team2": "Indiana Pacers",
-    "Team3": "Brooklyn Nets",
-    "Team4": "New York Knicks",
-    "Team5": "Denver Nuggets",
-    "Team6": "Charlotte Hornets",
-    "Team7": "Detroit Pistons",
-    "Team8": "Chicago Bulls",
-    "Team9": "Minnesota Timberwolves",
-    "Team10": "Philadelphia 76ers",
-    "Team11": "Portland Trail Blazers",
-    "Team12": "Washington Wizards",
-    "Team13": "Milwaukee Bucks",
-    "Team14": "Los Angeles Clippers",
-    "Team15": "San Antonio Spurs",
-    "Team16": "New Orleans Pelicans",
-    "Time1": "17/07 01:30",
-    "Time2": "17/07 02:00",
-    "Time3": "17/07 03:30",
-    "Time4": "17/07 04:00",
-    "Time5": "17/07 05:30",
-    "Time6": "17/07 06:00",
-    "Time7": "17/07 07:30",
-    "Time8": "17/07 08:00",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "3",
-    "Rate2": "15.5",
-    "Rate3": "1.44",
-    "Rate4": "1.87",
-    "Rate5": "178.5",
-    "Rate6": "1.87",
-    "Rate7": "1.89",
-    "Rate8": "+5.5-",
-    "Rate9": "1.89",
-    "Rate10": "1.71",
-    "Rate11": "14.5",
-    "Rate12": "2.28",
-    "Rate13": "1.88",
-    "Rate14": "178.5",
-    "Rate15": "1.86",
-    "Rate16": "1.88",
-    "Rate17": "-2.5+",
-    "Rate18": "1.86",
-    "Rate19": "3",
-    "Rate20": "15.5",
-    "Rate21": "1.44",
-    "Rate22": "1.9",
-    "Rate23": "175.5",
-    "Rate24": "1.88",
-    "Rate25": "1.88",
-    "Rate26": "+5.5-",
-    "Rate27": "1.86",
-    "Rate28": "2.3",
-    "Rate29": "14.5",
-    "Rate30": "1.7",
-    "Rate31": "1.89",
-    "Rate32": "174.5",
-    "Rate33": "1.85",
-    "Rate34": "1.89",
-    "Rate35": "+2.5-",
-    "Rate36": "1.89",
-    "Rate37": "1.51",
-    "Rate38": "14.7",
-    "Rate39": "2.76",
-    "Rate40": "1.88",
-    "Rate41": "177.5",
-    "Rate42": "1.84",
-    "Rate43": "1.89",
-    "Rate44": "-4.5+",
-    "Rate45": "1.89",
-    "Rate46": "1.94",
-    "Rate47": "14.5",
-    "Rate48": "1.97",
-    "Rate49": "1.92",
-    "Rate50": "182.5",
-    "Rate51": "1.86",
-    "Rate52": "1.88",
-    "Rate53": "0",
-    "Rate54": "1.9",
-    "Rate55": "2.84",
-    "Rate56": "15.5",
-    "Rate57": "1.48",
-    "Rate58": "1.88",
-    "Rate59": "173.5",
-    "Rate60": "1.9",
-    "Rate61": "1.95",
-    "Rate62": "+4.5-",
-    "Rate63": "1.83",
-    "Rate64": "2.07",
-    "Rate65": "15",
-    "Rate66": "1.84",
-    "Rate67": "1.93",
-    "Rate68": "169.5",
-    "Rate69": "1.85",
-    "Rate70": "1.87",
-    "Rate71": "+1.5-",
-    "Rate72": "1.87"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Sacramento Kings"
+          },
+          {
+            "name": "Phoenix Suns"
+          }
+        ],
+        "rates": [
+          "1.93",
+          "14.5",
+          "1.98",
+          "1.89",
+          "178.5",
+          "1.83",
+          "1.98",
+          "-1.5+",
+          "1.77"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Washington Wizards"
+          },
+          {
+            "name": "Milwaukee Bucks"
+          }
+        ],
+        "rates": [
+          "1.51",
+          "15",
+          "2.75",
+          "1.87",
+          "183.5",
+          "1.909",
+          "1.89",
+          "-4.5+",
+          "1.89"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "WNBA",
-    "Team1": "Washington Mystics (Women)",
-    "Team2": "Phoenix Mercury (Women)",
-    "Team3": "Los Angeles Sparks (Women)",
-    "Team4": "Seattle Storm (Women)",
-    "Team5": "New York Liberty (Women)",
-    "Team6": "Connecticut Sun (Women)",
-    "Team7": "Home (Points)",
-    "Team8": "Away (Points)",
-    "Team9": "Las Vegas Aces (Women)",
-    "Team10": "Chicago Sky (Women)",
-    "Time1": "16/07 21:00",
-    "Time2": "17/07 01:00",
-    "Time3": "17/07 04:30",
-    "Time4": "16/07 21:00",
-    "Time5": "17/07 07:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "3.17",
-    "Rate2": "12",
-    "Rate3": "1.485",
-    "Rate4": "1.909",
-    "Rate5": "168.5",
-    "Rate6": "1.909",
-    "Rate7": "1.909",
-    "Rate8": "+5.5-",
-    "Rate9": "1.909",
-    "Rate10": "4.88",
-    "Rate11": "15",
-    "Rate12": "1.246",
-    "Rate13": "1.952",
-    "Rate14": "163.5",
-    "Rate15": "1.8",
-    "Rate16": "1.769",
-    "Rate17": "+9.5-",
-    "Rate18": "1.952",
-    "Rate19": "1.642",
-    "Rate20": "9.5",
-    "Rate21": "2.769",
-    "Rate22": "1.909",
-    "Rate23": "153.5",
-    "Rate24": "1.909",
-    "Rate25": "1.769",
-    "Rate26": "-3.5+",
-    "Rate27": "1.952",
-    "Rate28": "1.65",
-    "Rate29": "13",
-    "Rate30": "2.2",
-    "Rate31": "1.83",
-    "Rate32": "658.5",
-    "Rate33": "1.87",
-    "Rate34": "1.87",
-    "Rate35": "-2.5+",
-    "Rate36": "1.83",
-    "Rate37": "1.092",
-    "Rate38": "17",
-    "Rate39": "9",
-    "Rate40": "1.952",
-    "Rate41": "171.5",
-    "Rate42": "1.8",
-    "Rate43": "1.769",
-    "Rate44": "-12.5+",
-    "Rate45": "1.952"
+    "Event": "Australia. NBL1",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Inner West Bulls"
+          },
+          {
+            "name": "Sydney Comets"
+          }
+        ],
+        "rates": [
+          "1.55",
+          "14.7",
+          "2.56",
+          "1.861",
+          "184.5",
+          "1.8",
+          "1.786",
+          "-3.5+",
+          "1.919"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Brisbane Capitals"
+          },
+          {
+            "name": "Rockhampton Rockets"
+          }
+        ],
+        "rates": [
+          "1.39",
+          "15",
+          "3.14",
+          "1.79",
+          "186.5",
+          "1.872",
+          "1.787",
+          "-5.5+",
+          "1.918"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Dandenong Rangers"
+          },
+          {
+            "name": "Knox Raiders"
+          }
+        ],
+        "rates": [
+          "3.2",
+          "15",
+          "1.38",
+          "1.85",
+          "167.5",
+          "1.85",
+          "1.918",
+          "+5.5-",
+          "1.786"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "Maitland Mustangs"
+          },
+          {
+            "name": "Manly Warringah Sea Eagles"
+          }
+        ],
+        "rates": [
+          "1.21",
+          "17.5",
+          "4.55",
+          "1.801",
+          "175.5",
+          "1.86",
+          "1.83",
+          "-9.5+",
+          "1.87"
+        ]
+      },
+      {
+        "game5": [
+          {
+            "name": "Albury Wodonga Bandits"
+          },
+          {
+            "name": "Bankstown Bruins"
+          }
+        ],
+        "rates": [
+          "1.29",
+          "16.5",
+          "3.74",
+          "1.799",
+          "174.5",
+          "1.862",
+          "1.785",
+          "-7.5+",
+          "1.92"
+        ]
+      },
+      {
+        "game6": [
+          {
+            "name": "Frankston Blues"
+          },
+          {
+            "name": "Ballarat Miners"
+          }
+        ],
+        "rates": [
+          "1.44",
+          "14",
+          "2.96",
+          "1.873",
+          "175.5",
+          "1.789",
+          "1.786",
+          "-4.5+",
+          "1.918"
+        ]
+      },
+      {
+        "game7": [
+          {
+            "name": "Logan Thunder"
+          },
+          {
+            "name": "Southern Districts Spartans"
+          }
+        ],
+        "rates": [
+          "1.41",
+          "15",
+          "3.04",
+          "1.873",
+          "175.5",
+          "1.789",
+          "1.796",
+          "-5.5+",
+          "1.907"
+        ]
+      },
+      {
+        "game8": [
+          {
+            "name": "Mount Gambier Pioneers"
+          },
+          {
+            "name": "Sandringham Sabres"
+          }
+        ],
+        "rates": [
+          "1.79",
+          "13.2",
+          "2.13",
+          "1.872",
+          "175.5",
+          "1.79",
+          "1.84",
+          "-1.5+",
+          "1.86"
+        ]
+      },
+      {
+        "game9": [
+          {
+            "name": "Eltham Wildcats"
+          },
+          {
+            "name": "Geelong Supercats"
+          }
+        ],
+        "rates": [
+          "1.36",
+          "15",
+          "3.32",
+          "1.798",
+          "164.5",
+          "1.863",
+          "1.85",
+          "-6.5+",
+          "1.85"
+        ]
+      },
+      {
+        "game10": [
+          {
+            "name": "Sturt Sabres"
+          },
+          {
+            "name": "Forestville Eagles"
+          }
+        ],
+        "rates": [
+          "1.98",
+          "14",
+          "1.9",
+          "1.87",
+          "187.5",
+          "1.833",
+          "1.911",
+          "0",
+          "1.793"
+        ]
+      },
+      {
+        "game11": [
+          {
+            "name": "West Adelaide Bearcats"
+          },
+          {
+            "name": "Central District Lions"
+          }
+        ],
+        "rates": [
+          "1.31",
+          "16",
+          "3.6",
+          "1.87",
+          "189.5",
+          "1.792",
+          "1.85",
+          "-7.5+",
+          "1.85"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "Brazil Championship. LDB U22",
-    "Team1": "LDPG U22",
-    "Team2": "Unifacisa U22",
-    "Team3": "E.C. Pinheiros Sky Sao Paolo U22",
-    "Team4": "Bauru Atletico Clube U22",
-    "Team5": "Instituto Viva Vida U22",
-    "Team6": "Minas Tenis Clube U22",
-    "Team7": "Cruzeiro U22",
-    "Team8": "AEGB U22",
-    "Team9": "Club Athletico Paulistano U22",
-    "Team10": "Cearense U22",
-    "Time1": "16/07 19:15",
-    "Time2": "16/07 21:30",
-    "Time3": "16/07 23:45",
-    "Time4": "17/07 02:00",
-    "Time5": "17/07 04:15",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "1.85",
-    "Rate5": "137.5",
-    "Rate6": "1.85",
-    "Rate7": "1.89",
-    "Rate8": "-31.5+",
-    "Rate9": "1.81",
-    "Rate10": "-",
-    "Rate11": "-",
-    "Rate12": "-",
-    "Rate13": "1.88",
-    "Rate14": "143.5",
-    "Rate15": "1.82",
-    "Rate16": "-",
-    "Rate17": "-",
-    "Rate18": "-",
-    "Rate19": "5.25",
-    "Rate20": "18",
-    "Rate21": "1.165",
-    "Rate22": "1.85",
-    "Rate23": "132.5",
-    "Rate24": "1.85",
-    "Rate25": "1.88",
-    "Rate26": "+10.5-",
-    "Rate27": "1.82",
-    "Rate28": "-",
-    "Rate29": "-",
-    "Rate30": "-",
-    "Rate31": "1.81",
-    "Rate32": "134.5",
-    "Rate33": "1.87",
-    "Rate34": "1.85",
-    "Rate35": "-50.5+",
-    "Rate36": "1.85",
-    "Rate37": "-",
-    "Rate38": "-",
-    "Rate39": "-",
-    "Rate40": "-",
-    "Rate41": "-",
-    "Rate42": "-",
-    "Rate43": "-",
-    "Rate44": "-",
-    "Rate45": "-"
+    "Event": "Australia. Big V",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Camberwell Dragons"
+          },
+          {
+            "name": "Western Port Steelers"
+          }
+        ],
+        "rates": [
+          "1.59",
+          "14.5",
+          "2.47",
+          "1.793",
+          "185.5",
+          "1.868",
+          "1.85",
+          "-3.5+",
+          "1.85"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "McKinnon Cougars"
+          },
+          {
+            "name": "Bellarine"
+          }
+        ],
+        "rates": [
+          "1.197",
+          "18",
+          "4.7",
+          "1.8",
+          "194.5",
+          "1.861",
+          "1.892",
+          "-10.5+",
+          "1.81"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Shepparton Gators"
+          },
+          {
+            "name": "University of Melbourne"
+          }
+        ],
+        "rates": [
+          "2.4",
+          "13.7",
+          "1.63",
+          "1.792",
+          "179.5",
+          "1.869",
+          "1.917",
+          "+2.5-",
+          "1.788"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "Blackburn Vikings"
+          },
+          {
+            "name": "Wyndham"
+          }
+        ],
+        "rates": [
+          "9.2",
+          "24",
+          "1.05",
+          "1.85",
+          "203.5",
+          "1.85",
+          "1.87",
+          "+15.5-",
+          "1.83"
+        ]
+      },
+      {
+        "game5": [
+          {
+            "name": "Pakenham Warriors"
+          },
+          {
+            "name": "Sunbury Jets"
+          }
+        ],
+        "rates": [
+          "1.66",
+          "14.2",
+          "2.32",
+          "1.863",
+          "173.5",
+          "1.798",
+          "1.83",
+          "-2.5+",
+          "1.87"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "Australia. NBL1. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Keilor Thunder (Women)"
+          },
+          {
+            "name": "Dandenong Rangers (Women)"
+          }
+        ],
+        "rates": [
+          "1.77",
+          "13.2",
+          "2.16",
+          "1.865",
+          "147.5",
+          "1.797",
+          "1.823",
+          "-1.5+",
+          "1.878"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Knox Raiders (Women)"
+          },
+          {
+            "name": "Mount Gambier Pioneers (Women)"
+          }
+        ],
+        "rates": [
+          "1.162",
+          "18.5",
+          "5.3",
+          "1.86",
+          "151.5",
+          "1.84",
+          "1.785",
+          "-10.5+",
+          "1.92"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Norths Bears (Women)"
+          },
+          {
+            "name": "Manly Warringah Sea Eagles (Women)"
+          }
+        ],
+        "rates": [
+          "1.615",
+          "13.5",
+          "2.44",
+          "1.85",
+          "139.5",
+          "1.85",
+          "1.789",
+          "-2.5+",
+          "1.916"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "South Adelaide Panthers (Women)"
+          },
+          {
+            "name": "North Adelaide Rockets (Women)"
+          }
+        ],
+        "rates": [
+          "1.89",
+          "13",
+          "2.01",
+          "1.85",
+          "147.5",
+          "1.85",
+          "1.794",
+          "0",
+          "1.91"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "China Championship. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Xinjiang (Women)"
+          },
+          {
+            "name": "Wuhan Shengfan (Women)"
+          }
+        ],
+        "rates": [
+          "1.285",
+          "16",
+          "3.8",
+          "1.796",
+          "136.5",
+          "1.865",
+          "1.84",
+          "-7.5+",
+          "1.86"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Beijing Normal University (Women)"
+          },
+          {
+            "name": "Sichuan Yuanda Merlot (Women)"
+          }
+        ],
+        "rates": [
+          "11.2",
+          "25",
+          "1.027",
+          "1.85",
+          "135.5",
+          "1.85",
+          "1.85",
+          "+17.5-",
+          "1.85"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "Cup William Jones",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Strong Group"
+          },
+          {
+            "name": "Taiwan White"
+          }
+        ],
+        "rates": [
+          "1.059",
+          "24",
+          "8.5",
+          "1.809",
+          "165.5",
+          "1.852",
+          "1.903",
+          "-17.5+",
+          "1.799"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "BSBL Guardians"
+          },
+          {
+            "name": "Taiwan Blue"
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "1.85",
+          "159.5",
+          "1.85",
+          "1.85",
+          "+21.5-",
+          "1.85"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "FIBA 3x3 U21 Nations League. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Latvia 3x3 U21 (Women)"
+          },
+          {
+            "name": "Israel 3x3 U21 (Women)"
+          }
+        ],
+        "rates": [
+          "1.661",
+          "10.6",
+          "2.373",
+          "1.767",
+          "30.5",
+          "1.897",
+          "1.83",
+          "-1.5+",
+          "1.83"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "France 3x3 U21 (Women)"
+          },
+          {
+            "name": "Poland 3x3 U21 (Women)"
+          }
+        ],
+        "rates": [
+          "1.334",
+          "12.1",
+          "3.505",
+          "1.907",
+          "31.5",
+          "1.758",
+          "1.85",
+          "-3.5+",
+          "1.81"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "FIBA 3x3 U21 Nations League",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Latvia 3x3 U21"
+          },
+          {
+            "name": "Poland 3x3 U21"
+          }
+        ],
+        "rates": [
+          "1.196",
+          "16",
+          "4.545",
+          "1.892",
+          "35.5",
+          "1.772",
+          "1.83",
+          "-4.5+",
+          "1.83"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "France 3x3 U21"
+          },
+          {
+            "name": "Israel 3x3 U21"
+          }
+        ],
+        "rates": [
+          "1.129",
+          "17",
+          "5.78",
+          "1.791",
+          "33.5",
+          "1.871",
+          "1.83",
+          "-5.5+",
+          "1.83"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "Challenger 3x3. Kosovo",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Calabasas 3x3"
+          },
+          {
+            "name": "Bemowo 3x3"
+          }
+        ],
+        "rates": [
+          "1.151",
+          "25",
+          "5.1",
+          "1.88",
+          "36.5",
+          "1.78",
+          "1.95",
+          "-5.5+",
+          "1.727"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Athens 3x3"
+          },
+          {
+            "name": "Pristina 3x3"
+          }
+        ],
+        "rates": [
+          "1.061",
+          "23",
+          "8.5",
+          "1.92",
+          "34.5",
+          "1.75",
+          "1.727",
+          "-6.5+",
+          "1.95"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Vienna 3x3"
+          },
+          {
+            "name": "Ballistik Bordeaux 3x3"
+          }
+        ],
+        "rates": [
+          "1.148",
+          "26",
+          "5.15",
+          "1.85",
+          "36.5",
+          "1.81",
+          "1.93",
+          "-5.5+",
+          "1.74"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "FIBA Europe U20 Championship",
-    "Team1": "Bulgaria U20",
-    "Team2": "Albania U20",
-    "Team3": "Netherlands U20",
-    "Team4": "Republic of Ireland U20",
-    "Team5": "Portugal U20",
-    "Team6": "Great Britain U20",
-    "Team7": "Croatia U20",
-    "Team8": "Finland U20",
-    "Team9": "Hungary U20",
-    "Team10": "Ukraine U20",
-    "Time1": "16/07 20:30",
-    "Time2": "16/07 20:30",
-    "Time3": "16/07 20:30",
-    "Time4": "16/07 23:00",
-    "Time5": "16/07 23:00",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "1.83",
-    "Rate5": "150.5",
-    "Rate6": "1.87",
-    "Rate7": "1.89",
-    "Rate8": "-34.5+",
-    "Rate9": "1.81",
-    "Rate10": "-",
-    "Rate11": "-",
-    "Rate12": "-",
-    "Rate13": "1.909",
-    "Rate14": "147.5",
-    "Rate15": "1.769",
-    "Rate16": "1.87",
-    "Rate17": "-29.5+",
-    "Rate18": "1.8",
-    "Rate19": "1.57",
-    "Rate20": "14",
-    "Rate21": "2.53",
-    "Rate22": "1.83",
-    "Rate23": "144.5",
-    "Rate24": "1.87",
-    "Rate25": "1.83",
-    "Rate26": "-3.5+",
-    "Rate27": "1.87",
-    "Rate28": "1.124",
-    "Rate29": "19.5",
-    "Rate30": "6.15",
-    "Rate31": "1.85",
-    "Rate32": "153.5",
-    "Rate33": "1.85",
-    "Rate34": "1.87",
-    "Rate35": "-12.5+",
-    "Rate36": "1.83",
-    "Rate37": "1.53",
-    "Rate38": "14.5",
-    "Rate39": "2.625",
-    "Rate40": "1.87",
-    "Rate41": "143.5",
-    "Rate42": "1.833",
-    "Rate43": "1.89",
-    "Rate44": "-4.5+",
-    "Rate45": "1.81"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Republic of Ireland U20"
+          },
+          {
+            "name": "Kosovo U20"
+          }
+        ],
+        "rates": [
+          "2.13",
+          "13.2",
+          "1.79",
+          "1.84",
+          "135.5",
+          "1.86",
+          "1.85",
+          "+1.5-",
+          "1.85"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Slovakia U20"
+          },
+          {
+            "name": "Georgia U20"
+          }
+        ],
+        "rates": [
+          "3.9",
+          "15",
+          "1.28",
+          "1.86",
+          "153.5",
+          "1.84",
+          "1.89",
+          "+7.5-",
+          "1.81"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Iceland U20"
+          },
+          {
+            "name": "Republic of North Macedonia U20"
+          }
+        ],
+        "rates": [
+          "1.23",
+          "17",
+          "4.3",
+          "1.79",
+          "151.5",
+          "1.872",
+          "1.85",
+          "-9.5+",
+          "1.85"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "Spain U20"
+          },
+          {
+            "name": "Lithuania U20"
+          }
+        ],
+        "rates": [
+          "1.193",
+          "17.5",
+          "4.8",
+          "1.86",
+          "153.5",
+          "1.84",
+          "1.912",
+          "-10.5+",
+          "1.792"
+        ]
+      },
+      {
+        "game5": [
+          {
+            "name": "Latvia U20"
+          },
+          {
+            "name": "Sweden U20"
+          }
+        ],
+        "rates": [
+          "2.29",
+          "14",
+          "1.68",
+          "1.85",
+          "147.5",
+          "1.85",
+          "1.85",
+          "+2.5-",
+          "1.85"
+        ]
+      },
+      {
+        "game6": [
+          {
+            "name": "Portugal U20"
+          },
+          {
+            "name": "Hungary U20"
+          }
+        ],
+        "rates": [
+          "1.56",
+          "14.2",
+          "2.55",
+          "1.84",
+          "141.5",
+          "1.86",
+          "1.82",
+          "-3.5+",
+          "1.88"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "Friendlies. National Teams",
-    "Team1": "Greece",
-    "Team2": "Puerto Rico",
-    "Team3": "Australia",
-    "Team4": "Serbia",
-    "Time1": "16/07 21:00",
-    "Time2": "16/07 21:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.49",
-    "Rate2": "14.5",
-    "Rate3": "2.75",
-    "Rate4": "1.798",
-    "Rate5": "162.5",
-    "Rate6": "1.863",
-    "Rate7": "1.84",
-    "Rate8": "-4.5+",
-    "Rate9": "1.86",
-    "Rate10": "3.28",
-    "Rate11": "15.5",
-    "Rate12": "1.36",
-    "Rate13": "1.85",
-    "Rate14": "173.5",
-    "Rate15": "1.85",
-    "Rate16": "1.85",
-    "Rate17": "+6.5-",
-    "Rate18": "1.85"
+    "Event": "Philippines. MPBL",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Binan Tatak Gel Game X"
+          },
+          {
+            "name": "Rizal Golden Coolers"
+          }
+        ],
+        "rates": [
+          "1.5",
+          "14.7",
+          "2.71",
+          "1.84",
+          "149.5",
+          "1.86",
+          "1.85",
+          "-4.5+",
+          "1.85"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Paranaque Patriots"
+          },
+          {
+            "name": "Bataan Risers"
+          }
+        ],
+        "rates": [
+          "1.444",
+          "15",
+          "2.91",
+          "1.85",
+          "159.5",
+          "1.85",
+          "1.87",
+          "-5.5+",
+          "1.83"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "Jordan. Premier League",
-    "Team1": "Rum",
-    "Team2": "Pella",
-    "Team3": "Gerasa",
-    "Team4": "Philadelphia",
-    "Time1": "16/07 21:30",
-    "Time2": "16/07 23:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.7",
-    "Rate2": "14.5",
-    "Rate3": "2.24",
-    "Rate4": "1.87",
-    "Rate5": "165.5",
-    "Rate6": "1.833",
-    "Rate7": "1.85",
-    "Rate8": "-2.5+",
-    "Rate9": "1.85",
-    "Rate10": "1.666",
-    "Rate11": "13",
-    "Rate12": "2.35",
-    "Rate13": "1.85",
-    "Rate14": "155.5",
-    "Rate15": "1.85",
-    "Rate16": "1.85",
-    "Rate17": "-2.5+",
-    "Rate18": "1.85"
+    "Event": "South Korea. Student League",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Kyung Hee University"
+          },
+          {
+            "name": "Sungkyunkwan University"
+          }
+        ],
+        "rates": [
+          "1.97",
+          "13",
+          "1.85",
+          "1.833",
+          "143.5",
+          "1.833",
+          "1.912",
+          "0",
+          "1.791"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "Chile. Segunda",
-    "Team1": "Boston College Santiago",
-    "Team2": "Arabe Valparaiso",
-    "Team3": "Municipal Chillan",
-    "Team4": "Brisas",
-    "Team5": "Truenos de Talca",
-    "Team6": "Stadio Italiano",
-    "Time1": "17/07 01:30",
-    "Time2": "17/07 03:30",
-    "Time3": "17/07 03:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.028",
-    "Rate2": "25",
-    "Rate3": "11",
-    "Rate4": "1.85",
-    "Rate5": "139.5",
-    "Rate6": "1.85",
-    "Rate7": "1.912",
-    "Rate8": "-18.5+",
-    "Rate9": "1.792",
-    "Rate10": "1.26",
-    "Rate11": "16.5",
-    "Rate12": "4",
-    "Rate13": "1.85",
-    "Rate14": "129.5",
-    "Rate15": "1.85",
-    "Rate16": "1.804",
-    "Rate17": "-8.5+",
-    "Rate18": "1.898",
-    "Rate19": "1.21",
-    "Rate20": "17.5",
-    "Rate21": "4.55",
-    "Rate22": "1.86",
-    "Rate23": "137.5",
-    "Rate24": "1.84",
-    "Rate25": "1.785",
-    "Rate26": "-9.5+",
-    "Rate27": "1.92"
+    "Event": "Australia. Big V. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Wyndham (Women)"
+          },
+          {
+            "name": "Sunbury Jets (Women)"
+          }
+        ],
+        "rates": [
+          "1.02",
+          "21",
+          "15",
+          "1.84",
+          "156.5",
+          "1.84",
+          "1.794",
+          "-21.5+",
+          "1.91"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "Dominican Republic. LNB U22",
-    "Team1": "Constituentes U22",
-    "Team2": "Cocolos U22",
-    "Time1": "17/07 03:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.71",
-    "Rate2": "13",
-    "Rate3": "2.15",
-    "Rate4": "1.83",
-    "Rate5": "170.5",
-    "Rate6": "1.83",
-    "Rate7": "1.83",
-    "Rate8": "-2.5+",
-    "Rate9": "1.83"
+    "Event": "Indonesia. IBL",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Dewa United Surabaya"
+          },
+          {
+            "name": "Borneo Hornbills"
+          }
+        ],
+        "rates": [
+          "1.096",
+          "21",
+          "7",
+          "1.847",
+          "179.5",
+          "1.813",
+          "1.86",
+          "-13.5+",
+          "1.84"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Pelita Jaya Esia"
+          },
+          {
+            "name": "Bali United"
+          }
+        ],
+        "rates": [
+          "1.048",
+          "24",
+          "9.3",
+          "1.87",
+          "165.5",
+          "1.83",
+          "1.8",
+          "-15.5+",
+          "1.9"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "Uruguay. 2nd Division",
-    "Team1": "Atletico Tabare",
-    "Team2": "Deportivo Sayago",
-    "Team3": "Lagomar",
-    "Team4": "Capitol Montevidio",
-    "Team5": "Olivol Mundial",
-    "Team6": "Colon",
-    "Team7": "Union Atletica",
-    "Team8": "Goes",
-    "Time1": "17/07 04:45",
-    "Time2": "17/07 04:45",
-    "Time3": "17/07 04:45",
-    "Time4": "17/07 04:45",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.533",
-    "Rate2": "15",
-    "Rate3": "2.6",
-    "Rate4": "1.86",
-    "Rate5": "152.5",
-    "Rate6": "1.84",
-    "Rate7": "1.87",
-    "Rate8": "-4.5+",
-    "Rate9": "1.83",
-    "Rate10": "2.25",
-    "Rate11": "14.2",
-    "Rate12": "1.7",
-    "Rate13": "1.874",
-    "Rate14": "155.5",
-    "Rate15": "1.788",
-    "Rate16": "1.85",
-    "Rate17": "+2.5-",
-    "Rate18": "1.85",
-    "Rate19": "2.62",
-    "Rate20": "14.7",
-    "Rate21": "1.53",
-    "Rate22": "1.83",
-    "Rate23": "162.5",
-    "Rate24": "1.85",
-    "Rate25": "1.833",
-    "Rate26": "+4.5-",
-    "Rate27": "1.87",
-    "Rate28": "1.24",
-    "Rate29": "17.5",
-    "Rate30": "4.15",
-    "Rate31": "1.816",
-    "Rate32": "157.5",
-    "Rate33": "1.844",
-    "Rate34": "1.85",
-    "Rate35": "-9.5+",
-    "Rate36": "1.85"
+    "Event": "China. NBL",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Henan Shedian Laojiu"
+          },
+          {
+            "name": "Anhui Wenyi"
+          }
+        ],
+        "rates": [
+          "7.7",
+          "22",
+          "1.077",
+          "1.85",
+          "200.5",
+          "1.85",
+          "1.916",
+          "+13.5-",
+          "1.788"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "Canada. CEBL",
-    "Team1": "Scarborough Shooting Stars",
-    "Team2": "Montreal Alliance",
-    "Time1": "17/07 05:00",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.34",
-    "Rate2": "16",
-    "Rate3": "3.5",
-    "Rate4": "1.82",
-    "Rate5": "178.5",
-    "Rate6": "1.88",
-    "Rate7": "1.85",
-    "Rate8": "-7.5+",
-    "Rate9": "1.85"
+    "Event": "3x3. Series. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Netherlands 3x3 (Women)"
+          },
+          {
+            "name": "Baku Flames 3x3 (Women)"
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "1.902",
+          "28.5",
+          "1.763",
+          "1.699",
+          "-11.5+",
+          "1.983"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Dusseldorf ZOOS 3x3 (Women)"
+          },
+          {
+            "name": "Iran 3x3 (Women)"
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "1.83",
+          "30.5",
+          "1.83",
+          "1.763",
+          "-7.5+",
+          "1.902"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Australia 3x3 (Women)"
+          },
+          {
+            "name": "China 3x3 U24 (Women)"
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "1.902",
+          "32.5",
+          "1.763",
+          "1.796",
+          "-6.5+",
+          "1.865"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "Dominican Republic. LNB",
-    "Team1": "Leones de Santo Domingo",
-    "Team2": "Marineros de Puerto Plata",
-    "Team3": "Reales De La Vega",
-    "Team4": "Metros de Santiago",
-    "Time1": "17/07 05:30",
-    "Time2": "17/07 05:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "2",
-    "Rate2": "12.5",
-    "Rate3": "1.909",
-    "Rate4": "1.87",
-    "Rate5": "161.5",
-    "Rate6": "1.833",
-    "Rate7": "1.903",
-    "Rate8": "0",
-    "Rate9": "1.8",
-    "Rate10": "1.28",
-    "Rate11": "15",
-    "Rate12": "3.92",
-    "Rate13": "1.83",
-    "Rate14": "180.5",
-    "Rate15": "1.85",
-    "Rate16": "1.88",
-    "Rate17": "-7.5+",
-    "Rate18": "1.82"
-  },
-  {
-    "Event": "Puerto-Rico. Baloncesto Superior Nacional",
-    "Team1": "Osos de Manati",
-    "Team2": "Capitanes de Arecibo",
-    "Time1": "17/07 05:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.77",
-    "Rate2": "14",
-    "Rate3": "2.14",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "1.81",
-    "Rate8": "-1.5+",
-    "Rate9": "1.89"
-  },
-  {
-    "Event": "Colombia Liga",
-    "Team1": "Titanes Barranquilla",
-    "Team2": "Motilonas Del Norte",
-    "Time1": "17/07 05:35",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.52",
-    "Rate2": "14.5",
-    "Rate3": "2.66",
-    "Rate4": "1.82",
-    "Rate5": "157.5",
-    "Rate6": "1.88",
-    "Rate7": "1.87",
-    "Rate8": "-4.5+",
-    "Rate9": "1.83"
-  },
-  {
-    "Event": "Bolivia. Libobasquet",
-    "Team1": "Tarija Basquet",
-    "Team2": "Carl Oruro",
-    "Time1": "17/07 06:00",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.25",
-    "Rate2": "16.5",
-    "Rate3": "4.1",
-    "Rate4": "1.8",
-    "Rate5": "165.5",
-    "Rate6": "1.861",
-    "Rate7": "1.913",
-    "Rate8": "-9.5+",
-    "Rate9": "1.791"
-  },
-  {
-    "Event": "Nicaragua Championship",
-    "Team1": "Brumas Jinotega",
-    "Team2": "Real Esteli",
-    "Time1": "17/07 06:00",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "2.28",
-    "Rate2": "13.7",
-    "Rate3": "1.69",
-    "Rate4": "1.85",
-    "Rate5": "152.5",
-    "Rate6": "1.85",
-    "Rate7": "1.85",
-    "Rate8": "+2.5-",
-    "Rate9": "1.85"
-  },
-  {
-    "Event": "Argentina. LNB",
-    "Team1": "Instituto de Cordoba",
-    "Team2": "Boca Juniors",
-    "Time1": "17/07 06:40",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.68",
-    "Rate2": "16.5",
-    "Rate3": "2.28",
-    "Rate4": "1.79",
-    "Rate5": "149.5",
-    "Rate6": "1.872",
-    "Rate7": "1.789",
-    "Rate8": "-2.5+",
-    "Rate9": "1.916"
-  },
-  {
-    "Event": "El Salvador. Liga Mayor. Women",
-    "Team1": "Batanecas (Women)",
-    "Team2": "Santa Tecla (Women)",
-    "Team3": "Salvadorenas (Women)",
-    "Team4": "LM Mons Romero (Women)",
-    "Time1": "17/07 07:00",
-    "Time2": "17/07 07:00",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.09",
-    "Rate2": "19",
-    "Rate3": "6.5",
-    "Rate4": "1.83",
-    "Rate5": "127.5",
-    "Rate6": "1.83",
-    "Rate7": "1.83",
-    "Rate8": "-14.5+",
-    "Rate9": "1.83",
-    "Rate10": "1.34",
-    "Rate11": "16",
-    "Rate12": "3.2",
-    "Rate13": "1.83",
-    "Rate14": "125.5",
-    "Rate15": "1.83",
-    "Rate16": "1.83",
-    "Rate17": "-7.5+",
-    "Rate18": "1.83"
-  },
-  {
-    "Event": "Mexico Championship. LNBPF. Women",
-    "Team1": "Adelitas de Chihuahua (Women)",
-    "Team2": "Santos del Potosi (Women)",
-    "Team3": "Fuerza Regia (Women)",
-    "Team4": "Halcones Xalapa (Women)",
-    "Time1": "17/07 07:30",
-    "Time2": "17/07 07:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.041",
-    "Rate2": "24",
-    "Rate3": "9.9",
-    "Rate4": "1.85",
-    "Rate5": "151.5",
-    "Rate6": "1.85",
-    "Rate7": "1.85",
-    "Rate8": "-16.5+",
-    "Rate9": "1.85",
-    "Rate10": "1.5",
-    "Rate11": "14.7",
-    "Rate12": "2.71",
-    "Rate13": "1.85",
-    "Rate14": "154.5",
-    "Rate15": "1.85",
-    "Rate16": "1.85",
-    "Rate17": "-4.5+",
-    "Rate18": "1.85"
-  },
-  {
-    "Event": "Mexico. CIBAPAC",
-    "Team1": "Coyotes de Tijuana",
-    "Team2": "Gorilas Tecate",
-    "Team3": "Gallos de Aguascalientes",
-    "Team4": "Piratas Bagdad de Matamoros",
-    "Team5": "Reyes de Durango",
-    "Team6": "Lobos de Saltillo",
-    "Time1": "17/07 07:30",
-    "Time2": "17/07 07:30",
-    "Time3": "17/07 08:00",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.37",
-    "Rate2": "15.5",
-    "Rate3": "3.24",
-    "Rate4": "1.85",
-    "Rate5": "168.5",
-    "Rate6": "1.85",
-    "Rate7": "1.85",
-    "Rate8": "-6.5+",
-    "Rate9": "1.85",
-    "Rate10": "1.69",
-    "Rate11": "14",
-    "Rate12": "2.27",
-    "Rate13": "1.85",
-    "Rate14": "157.5",
-    "Rate15": "1.85",
-    "Rate16": "1.85",
-    "Rate17": "-2.5+",
-    "Rate18": "1.85",
-    "Rate19": "1.22",
-    "Rate20": "17",
-    "Rate21": "4.45",
-    "Rate22": "1.85",
-    "Rate23": "148.5",
-    "Rate24": "1.85",
-    "Rate25": "1.85",
-    "Rate26": "-9.5+",
-    "Rate27": "1.85"
+    "Event": "Vietnam Championship. VBA",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Hanoi Buffaloes"
+          },
+          {
+            "name": "Nha Trang Dolphins"
+          }
+        ],
+        "rates": [
+          "2.04",
+          "15",
+          "1.83",
+          "1.809",
+          "168.5",
+          "1.852",
+          "1.83",
+          "+1.5-",
+          "1.87"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   }
 ]

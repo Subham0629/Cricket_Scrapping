@@ -1,890 +1,1372 @@
 [
   {
-    "Event": "Belarus. Liga Pro 4x4",
-    "Team1": "Thayfun-Pro (4х4)",
-    "Team2": "Storm-Pro (4х4)",
-    "Team3": "Varyagi-Pro (4х4)",
-    "Team4": "Thayfun-Pro (4х4)",
-    "Team5": "Storm-Pro (4х4)",
-    "Team6": "Varyagi-Pro (4х4)",
-    "Team7": "Thayfun-Pro (4х4)",
-    "Team8": "Gladiatory-Pro (4х4)",
-    "Time1": "16/07 18:35",
-    "Time2": "17/07 17:55",
-    "Time3": "17/07 18:35",
-    "Time4": "17/07 19:15",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.441",
-    "Rate2": "-",
-    "Rate3": "2.506",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-",
-    "Rate10": "2.378",
-    "Rate11": "-",
-    "Rate12": "1.487",
-    "Rate13": "-",
-    "Rate14": "-",
-    "Rate15": "-",
-    "Rate16": "-",
-    "Rate17": "-",
-    "Rate18": "-",
-    "Rate19": "1.487",
-    "Rate20": "-",
-    "Rate21": "2.378",
-    "Rate22": "-",
-    "Rate23": "-",
-    "Rate24": "-",
-    "Rate25": "-",
-    "Rate26": "-",
-    "Rate27": "-",
-    "Rate28": "2.378",
-    "Rate29": "-",
-    "Rate30": "1.487",
-    "Rate31": "-",
-    "Rate32": "-",
-    "Rate33": "-",
-    "Rate34": "-",
-    "Rate35": "-",
-    "Rate36": "-"
+    "Event": "Hong Kong Cup. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Victory (Women)"
+          },
+          {
+            "name": "Xu Qing (Women)"
+          }
+        ],
+        "rates": [
+          "1.256",
+          "-",
+          "3.37",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "CYT (Women)"
+          },
+          {
+            "name": "ZITA (Women)"
+          }
+        ],
+        "rates": [
+          "1.178",
+          "-",
+          "4.1",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Kwai Tsing (Women)"
+          },
+          {
+            "name": "Tuen Ching (Women)"
+          }
+        ],
+        "rates": [
+          "1.413",
+          "-",
+          "2.594",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "World Amateur League",
-    "Team1": "Argentine Condors",
-    "Team2": "Australian Kangoos",
-    "Team3": "Polish Bison",
-    "Team4": "Turkish Sultans",
-    "Team5": "Bulgarian Owls",
-    "Team6": "Canadian Beavers",
-    "Time1": "16/07 19:00",
-    "Time2": "16/07 20:40",
-    "Time3": "16/07 22:20",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.87",
-    "Rate2": "-",
-    "Rate3": "1.87",
-    "Rate4": "1.72",
-    "Rate5": "182.5",
-    "Rate6": "2.05",
-    "Rate7": "1.74",
-    "Rate8": "+1.5-",
-    "Rate9": "2.02",
-    "Rate10": "1.87",
-    "Rate11": "-",
-    "Rate12": "1.87",
-    "Rate13": "1.72",
-    "Rate14": "182.5",
-    "Rate15": "2.05",
-    "Rate16": "1.74",
-    "Rate17": "+1.5-",
-    "Rate18": "2.02",
-    "Rate19": "1.87",
-    "Rate20": "-",
-    "Rate21": "1.87",
-    "Rate22": "1.72",
-    "Rate23": "182.5",
-    "Rate24": "2.05",
-    "Rate25": "1.74",
-    "Rate26": "+1.5-",
-    "Rate27": "2.02"
+    "Event": "Philippines. PVL. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Farm Fresh Foxies (Women)"
+          },
+          {
+            "name": "Cool Smashers (Women)"
+          }
+        ],
+        "rates": [
+          "9.65",
+          "-",
+          "1.01",
+          "1.845",
+          "135.5",
+          "1.815",
+          "1.886",
+          "+20.5-",
+          "1.777"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Ural League 2",
-    "Team1": "Club Victory",
-    "Team2": "SC Saturn",
-    "Team3": "Atlant",
-    "Team4": "Ural Metallurg",
-    "Time1": "16/07 19:10",
-    "Time2": "16/07 20:50",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.87",
-    "Rate2": "-",
-    "Rate3": "1.87",
-    "Rate4": "1.87",
-    "Rate5": "181.5",
-    "Rate6": "1.87",
-    "Rate7": "1.83",
-    "Rate8": "+0.5-",
-    "Rate9": "1.91",
-    "Rate10": "1.87",
-    "Rate11": "-",
-    "Rate12": "1.87",
-    "Rate13": "1.87",
-    "Rate14": "181.5",
-    "Rate15": "1.87",
-    "Rate16": "1.83",
-    "Rate17": "+0.5-",
-    "Rate18": "1.91"
-  },
-  {
-    "Event": "Ural League 3",
-    "Team1": "VC Uralmash",
-    "Team2": "Ural Snipers",
-    "Team3": "Ural Warriors",
-    "Team4": "Ural Titans",
-    "Time1": "16/07 19:10",
-    "Time2": "16/07 20:50",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.87",
-    "Rate2": "-",
-    "Rate3": "1.87",
-    "Rate4": "1.89",
-    "Rate5": "182.5",
-    "Rate6": "1.85",
-    "Rate7": "1.83",
-    "Rate8": "+0.5-",
-    "Rate9": "1.91",
-    "Rate10": "1.87",
-    "Rate11": "-",
-    "Rate12": "1.87",
-    "Rate13": "1.89",
-    "Rate14": "182.5",
-    "Rate15": "1.85",
-    "Rate16": "1.83",
-    "Rate17": "+0.5-",
-    "Rate18": "1.91"
-  },
-  {
-    "Event": "World Amateur League. Women",
-    "Team1": "Turkish Wizards (Women)",
-    "Team2": "Serbian Flames (Women)",
-    "Time1": "16/07 19:20",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.87",
-    "Rate2": "-",
-    "Rate3": "1.87",
-    "Rate4": "1.73",
-    "Rate5": "181.5",
-    "Rate6": "2.04",
-    "Rate7": "1.74",
-    "Rate8": "+1.5-",
-    "Rate9": "2.01"
-  },
-  {
-    "Event": "European Universities Games",
-    "Team1": "VUT Brno",
-    "Team2": "University of Rostock",
-    "Time1": "16/07 19:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "2.479",
-    "Rate2": "-",
-    "Rate3": "1.49",
-    "Rate4": "1.87",
-    "Rate5": "177.5",
-    "Rate6": "1.82",
-    "Rate7": "1.83",
-    "Rate8": "+7.5-",
-    "Rate9": "1.86"
-  },
-  {
-    "Event": "Friendlies. National Teams. Women",
-    "Team1": "Serbia (Women)",
-    "Team2": "France (Women)",
-    "Team3": "Poland (Women)",
-    "Team4": "Dominican Republic (Women)",
-    "Time1": "16/07 19:30",
-    "Time2": "16/07 22:00",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.01",
-    "Rate2": "-",
-    "Rate3": "9.7",
-    "Rate4": "1.796",
-    "Rate5": "134.5",
-    "Rate6": "1.865",
-    "Rate7": "1.806",
-    "Rate8": "-18.5+",
-    "Rate9": "1.855",
-    "Rate10": "1.084",
-    "Rate11": "-",
-    "Rate12": "5.85",
-    "Rate13": "1.825",
-    "Rate14": "165.5",
-    "Rate15": "1.835",
-    "Rate16": "1.885",
-    "Rate17": "-16.5+",
-    "Rate18": "1.778"
-  },
-  {
-    "Event": "Orange Cup",
-    "Team1": "Volna (4х4)",
-    "Team2": "Uran (4х4)",
-    "Team3": "Cement (4х4)",
-    "Team4": "Sputnik (4х4)",
-    "Time1": "16/07 19:30",
-    "Time2": "16/07 21:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.7",
-    "Rate2": "-",
-    "Rate3": "2.08",
-    "Rate4": "1.8",
-    "Rate5": "183.5",
-    "Rate6": "1.89",
-    "Rate7": "1.88",
-    "Rate8": "-2.5+",
-    "Rate9": "1.86",
-    "Rate10": "1.7",
-    "Rate11": "-",
-    "Rate12": "2.08",
-    "Rate13": "1.8",
-    "Rate14": "183.5",
-    "Rate15": "1.89",
-    "Rate16": "1.88",
-    "Rate17": "-2.5+",
-    "Rate18": "1.86"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "SC Saturn"
+          },
+          {
+            "name": "Ural Legion"
+          }
+        ],
+        "rates": [
+          "1.87",
+          "-",
+          "1.87",
+          "1.9",
+          "181.5",
+          "1.84",
+          "1.91",
+          "-0.5+",
+          "1.83"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Ural Volley"
+          },
+          {
+            "name": "Atlant"
+          }
+        ],
+        "rates": [
+          "1.91",
+          "-",
+          "1.83",
+          "1.9",
+          "181.5",
+          "1.84",
+          "1.87",
+          "+0.5-",
+          "1.87"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Ural Metallurg"
+          },
+          {
+            "name": "Club Victory"
+          }
+        ],
+        "rates": [
+          "1.85",
+          "-",
+          "1.89",
+          "1.9",
+          "181.5",
+          "1.84",
+          "1.89",
+          "-0.5+",
+          "1.85"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "SC Saturn"
+          },
+          {
+            "name": "Ural Army"
+          }
+        ],
+        "rates": [
+          "1.93",
+          "-",
+          "1.81",
+          "1.9",
+          "181.5",
+          "1.84",
+          "1.89",
+          "+0.5-",
+          "1.85"
+        ]
+      },
+      {
+        "game5": [
+          {
+            "name": "Ural Volley"
+          },
+          {
+            "name": "Ural Legion"
+          }
+        ],
+        "rates": [
+          "1.87",
+          "-",
+          "1.87",
+          "1.9",
+          "181.5",
+          "1.84",
+          "1.91",
+          "-0.5+",
+          "1.83"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Ural League. Women",
-    "Team1": "Omega (Women)",
-    "Team2": "Energy (Women)",
-    "Time1": "16/07 19:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "2.09",
-    "Rate2": "-",
-    "Rate3": "1.7",
-    "Rate4": "1.9",
-    "Rate5": "178.5",
-    "Rate6": "1.85",
-    "Rate7": "1.9",
-    "Rate8": "+2.5-",
-    "Rate9": "1.84"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Skyline (Women)"
+          },
+          {
+            "name": "Astra (Women)"
+          }
+        ],
+        "rates": [
+          "2.099",
+          "-",
+          "1.7",
+          "1.9",
+          "178.5",
+          "1.84",
+          "1.85",
+          "+3.5-",
+          "1.89"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Red Fox (Women)"
+          },
+          {
+            "name": "Eurasia (Women)"
+          }
+        ],
+        "rates": [
+          "1.81",
+          "-",
+          "1.93",
+          "1.89",
+          "178.5",
+          "1.85",
+          "1.84",
+          "-0.5+",
+          "1.9"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Ural City (Women)"
+          },
+          {
+            "name": "Omega (Women)"
+          }
+        ],
+        "rates": [
+          "2.09",
+          "-",
+          "1.7",
+          "1.9",
+          "178.5",
+          "1.85",
+          "1.9",
+          "+2.5-",
+          "1.84"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "Vietnam. Army Cup",
-    "Team1": "Ninh Binh LVPB",
-    "Team2": "Sanest Khanh Hoa",
-    "Time1": "16/07 19:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "3.545",
-    "Rate2": "-",
-    "Rate3": "1.26",
-    "Rate4": "1.84",
-    "Rate5": "176.5",
-    "Rate6": "1.85",
-    "Rate7": "1.8",
-    "Rate8": "+11.5-",
-    "Rate9": "1.89"
+    "Event": "World Amateur League",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "German Beerman"
+          },
+          {
+            "name": "Serbian Lynx"
+          }
+        ],
+        "rates": [
+          "1.87",
+          "-",
+          "1.87",
+          "1.67",
+          "182.5",
+          "2.12",
+          "1.74",
+          "+1.5-",
+          "2.03"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Italian Wolves"
+          },
+          {
+            "name": "Brazilian Predators"
+          }
+        ],
+        "rates": [
+          "1.87",
+          "-",
+          "1.87",
+          "1.72",
+          "182.5",
+          "2.05",
+          "1.74",
+          "+1.5-",
+          "2.02"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Polish Bison"
+          },
+          {
+            "name": "Chinese Dragons"
+          }
+        ],
+        "rates": [
+          "1.87",
+          "-",
+          "1.87",
+          "1.67",
+          "182.5",
+          "2.12",
+          "1.74",
+          "+1.5-",
+          "2.03"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "Canadian Beavers"
+          },
+          {
+            "name": "Turkish Sultans"
+          }
+        ],
+        "rates": [
+          "1.87",
+          "-",
+          "1.87",
+          "1.72",
+          "182.5",
+          "2.05",
+          "1.74",
+          "+1.5-",
+          "2.02"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "Ural League",
-    "Team1": "Ural Police",
-    "Team2": "Ural Military",
-    "Time1": "16/07 21:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.97",
-    "Rate2": "-",
-    "Rate3": "1.78",
-    "Rate4": "1.87",
-    "Rate5": "179.5",
-    "Rate6": "1.87",
-    "Rate7": "1.86",
-    "Rate8": "+1.5-",
-    "Rate9": "1.88"
+    "Event": "World Amateur League. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Japanese Sakura (Women)"
+          },
+          {
+            "name": "Kazakhstan Wilds (Women)"
+          }
+        ],
+        "rates": [
+          "1.87",
+          "-",
+          "1.87",
+          "1.73",
+          "181.5",
+          "2.04",
+          "1.74",
+          "+1.5-",
+          "2.01"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Chinese Pandas (Women)"
+          },
+          {
+            "name": "Russian Fairies (Women)"
+          }
+        ],
+        "rates": [
+          "1.87",
+          "-",
+          "1.87",
+          "1.73",
+          "181.5",
+          "2.04",
+          "1.74",
+          "+1.5-",
+          "2.01"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "European Universities Games. Women",
-    "Team1": "University of Bologna (Women)",
-    "Team2": "University of Zagreb (Women)",
-    "Time1": "16/07 22:00",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.176",
-    "Rate2": "-",
-    "Rate3": "4.115",
-    "Rate4": "1.815",
-    "Rate5": "170.5",
-    "Rate6": "1.845",
-    "Rate7": "1.865",
-    "Rate8": "-14.5+",
-    "Rate9": "1.796"
+    "Event": "Amateur League. Minsk",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Iskra Minsk"
+          },
+          {
+            "name": "Novaya Borovaya"
+          }
+        ],
+        "rates": [
+          "1.386",
+          "-",
+          "2.69",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Zohani"
+          },
+          {
+            "name": "Novaya Borovaya"
+          }
+        ],
+        "rates": [
+          "2.69",
+          "-",
+          "1.386",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "Pan-American Volleyball Cup",
-    "Team1": "Chile",
-    "Team2": "Puerto Rico",
-    "Team3": "Cuba",
-    "Team4": "Peru",
-    "Team5": "USA",
-    "Team6": "Canada",
-    "Team7": "1st teams (Points)",
-    "Team8": "2nd teams (Points)",
-    "Team9": "Dominican Republic",
-    "Team10": "Guatemala",
-    "Time1": "16/07 22:30",
-    "Time2": "17/07 00:30",
-    "Time3": "17/07 02:30",
-    "Time4": "16/07 22:30",
-    "Time5": "17/07 04:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.62",
-    "Rate2": "-",
-    "Rate3": "2.208",
-    "Rate4": "1.84",
-    "Rate5": "177.5",
-    "Rate6": "1.87",
-    "Rate7": "1.83",
-    "Rate8": "-4.5+",
-    "Rate9": "1.88",
-    "Rate10": "1.11",
-    "Rate11": "-",
-    "Rate12": "5.92",
-    "Rate13": "1.85",
-    "Rate14": "164.5",
-    "Rate15": "1.86",
-    "Rate16": "1.82",
-    "Rate17": "-16.5+",
-    "Rate18": "1.89",
-    "Rate19": "1.36",
-    "Rate20": "-",
-    "Rate21": "2.988",
-    "Rate22": "1.85",
-    "Rate23": "179.5",
-    "Rate24": "1.86",
-    "Rate25": "1.83",
-    "Rate26": "-8.5+",
-    "Rate27": "1.88",
-    "Rate28": "-",
-    "Rate29": "-",
-    "Rate30": "-",
-    "Rate31": "1.84",
-    "Rate32": "643.5",
-    "Rate33": "1.82",
-    "Rate34": "1.83",
-    "Rate35": "-51.5+",
-    "Rate36": "1.83",
-    "Rate37": "1.017",
-    "Rate38": "-",
-    "Rate39": "9.05",
-    "Rate40": "1.88",
-    "Rate41": "128.5",
-    "Rate42": "1.83",
-    "Rate43": "1.82",
-    "Rate44": "-24.5+",
-    "Rate45": "1.89"
+    "Event": "Brazil. Paranaense U19. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Circulo Militar U19 (Women)"
+          },
+          {
+            "name": "PM Medianeira U19 (Women)"
+          }
+        ],
+        "rates": [
+          "2.728",
+          "-",
+          "1.41",
+          "1.86",
+          "176.5",
+          "1.83",
+          "1.81",
+          "+9.5-",
+          "1.88"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Unilife Maringa U19 (Women)"
+          },
+          {
+            "name": "Cascavel U19 (Women)"
+          }
+        ],
+        "rates": [
+          "1.071",
+          "-",
+          "7.04",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Marechal U19 (Women)"
+          },
+          {
+            "name": "Santa Helena U19 (Women)"
+          }
+        ],
+        "rates": [
+          "1.101",
+          "-",
+          "5.96",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "Russia. League Pro. Women",
-    "Team1": "Panteres-Pro (Women)",
-    "Team2": "Sovy-Pro (Women)",
-    "Team3": "Foxy-Pro (Women)",
-    "Team4": "Sovy-Pro (Women)",
-    "Team5": "Granat-Pro (Women)",
-    "Team6": "Malahit-Pro (Women)",
-    "Team7": "Granat-Pro (Women)",
-    "Team8": "Saphire-Pro (Women)",
-    "Time1": "16/07 22:40",
-    "Time2": "17/07 00:25",
-    "Time3": "17/07 10:40",
-    "Time4": "17/07 12:25",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "2.079",
-    "Rate2": "-",
-    "Rate3": "1.634",
-    "Rate4": "1.81",
-    "Rate5": "180.5",
-    "Rate6": "1.85",
-    "Rate7": "1.83",
-    "Rate8": "+3.5-",
-    "Rate9": "1.83",
-    "Rate10": "1.83",
-    "Rate11": "-",
-    "Rate12": "1.83",
-    "Rate13": "1.81",
-    "Rate14": "180.5",
-    "Rate15": "1.85",
-    "Rate16": "1.83",
-    "Rate17": "0",
-    "Rate18": "1.83",
-    "Rate19": "1.83",
-    "Rate20": "-",
-    "Rate21": "1.83",
-    "Rate22": "1.81",
-    "Rate23": "180.5",
-    "Rate24": "1.85",
-    "Rate25": "1.83",
-    "Rate26": "0",
-    "Rate27": "1.83",
-    "Rate28": "1.83",
-    "Rate29": "-",
-    "Rate30": "1.83",
-    "Rate31": "1.81",
-    "Rate32": "180.5",
-    "Rate33": "1.85",
-    "Rate34": "1.83",
-    "Rate35": "0",
-    "Rate36": "1.83"
+    "Event": "Indonesia. Proliga. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Jakarta Electric (Women)"
+          },
+          {
+            "name": "Jakarta BIN (Women)"
+          }
+        ],
+        "rates": [
+          "2.763",
+          "-",
+          "1.368",
+          "1.805",
+          "175.5",
+          "1.855",
+          "1.825",
+          "+9.5-",
+          "1.835"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "Brazil. Championship Carioca. U19",
-    "Team1": "Grajau U19",
-    "Team2": "Flamengo U19",
-    "Team3": "Fluminense U19",
-    "Team4": "Tijuca U19",
-    "Time1": "17/07 00:30",
-    "Time2": "17/07 03:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "9.7",
-    "Rate2": "-",
-    "Rate3": "1.01",
-    "Rate4": "1.855",
-    "Rate5": "133.5",
-    "Rate6": "1.805",
-    "Rate7": "1.886",
-    "Rate8": "+21.5-",
-    "Rate9": "1.777",
-    "Rate10": "1.021",
-    "Rate11": "-",
-    "Rate12": "8.8",
-    "Rate13": "1.83",
-    "Rate14": "132.5",
-    "Rate15": "1.83",
-    "Rate16": "1.876",
-    "Rate17": "-22.5+",
-    "Rate18": "1.786"
+    "Event": "Balkan League U20. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Bulgaria U20 (Women)"
+          },
+          {
+            "name": "Serbia U20 (Women)"
+          }
+        ],
+        "rates": [
+          "3.18",
+          "-",
+          "1.207",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Republic of North Macedonia U20 (Women)"
+          },
+          {
+            "name": "Montenegro U20 (Women)"
+          }
+        ],
+        "rates": [
+          "2.456",
+          "-",
+          "1.359",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Albania U20 (Women)"
+          },
+          {
+            "name": "Turkey U20 (Women)"
+          }
+        ],
+        "rates": [
+          "6.54",
+          "-",
+          "1.01",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "Friendlies. National Teams. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Netherlands (Women)"
+          },
+          {
+            "name": "Switzerland (Women)"
+          }
+        ],
+        "rates": [
+          "1.024",
+          "-",
+          "8.55",
+          "1.835",
+          "129.5",
+          "1.825",
+          "1.768",
+          "-23.5+",
+          "1.896"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "Ural League 3",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Old Town"
+          },
+          {
+            "name": "VC Uralmash"
+          }
+        ],
+        "rates": [
+          "1.83",
+          "-",
+          "1.91",
+          "1.9",
+          "181.5",
+          "1.84",
+          "1.87",
+          "-0.5+",
+          "1.87"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Ural Athletic"
+          },
+          {
+            "name": "Ural Masters"
+          }
+        ],
+        "rates": [
+          "1.89",
+          "-",
+          "1.85",
+          "1.9",
+          "181.5",
+          "1.84",
+          "1.85",
+          "+0.5-",
+          "1.89"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Old Town"
+          },
+          {
+            "name": "Ural Snipers"
+          }
+        ],
+        "rates": [
+          "1.87",
+          "-",
+          "1.87",
+          "1.9",
+          "181.5",
+          "1.84",
+          "1.91",
+          "-0.5+",
+          "1.83"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Friendlies. National Teams",
-    "Team1": "Italy",
-    "Team2": "Argentina",
-    "Time1": "17/07 00:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.26",
-    "Rate2": "-",
-    "Rate3": "3.625",
-    "Rate4": "1.88",
-    "Rate5": "182.5",
-    "Rate6": "1.83",
-    "Rate7": "1.81",
-    "Rate8": "-8.5+",
-    "Rate9": "1.9"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "USA"
+          },
+          {
+            "name": "Serbia"
+          }
+        ],
+        "rates": [
+          "1.31",
+          "-",
+          "3.27",
+          "1.83",
+          "180.5",
+          "1.88",
+          "1.81",
+          "-8.5+",
+          "1.9"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Poland"
+          },
+          {
+            "name": "Japan"
+          }
+        ],
+        "rates": [
+          "1.31",
+          "-",
+          "3.27",
+          "1.83",
+          "181.5",
+          "1.88",
+          "1.86",
+          "-8.5+",
+          "1.86"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "Brazil. Championship Carioca. U19. Women",
-    "Team1": "Niteroi U19 (Women)",
-    "Team2": "Fluminense U19 (Women)",
-    "Team3": "Tijuca U19 (Women)",
-    "Team4": "Flamengo U19 (Women)",
-    "Time1": "17/07 01:00",
-    "Time2": "17/07 03:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "9.7",
-    "Rate2": "-",
-    "Rate3": "1.01",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-",
-    "Rate10": "8.15",
-    "Rate11": "-",
-    "Rate12": "1.03",
-    "Rate13": "-",
-    "Rate14": "-",
-    "Rate15": "-",
-    "Rate16": "-",
-    "Rate17": "-",
-    "Rate18": "-"
+    "Event": "Ural League",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Ural Wings"
+          },
+          {
+            "name": "Elevation"
+          }
+        ],
+        "rates": [
+          "1.83",
+          "-",
+          "1.91",
+          "1.87",
+          "179.5",
+          "1.87",
+          "1.87",
+          "-0.5+",
+          "1.87"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "Central American Championship U21. Women",
-    "Team1": "Guatemala U21 (Women)",
-    "Team2": "El Salvador U21 (Women)",
-    "Team3": "Belize U21 (Women)",
-    "Team4": "Nicaragua U21 (Women)",
-    "Time1": "17/07 03:30",
-    "Time2": "17/07 07:00",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.124",
-    "Rate2": "-",
-    "Rate3": "3.95",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-",
-    "Rate10": "1.709",
-    "Rate11": "-",
-    "Rate12": "1.969",
-    "Rate13": "-",
-    "Rate14": "-",
-    "Rate15": "-",
-    "Rate16": "-",
-    "Rate17": "-",
-    "Rate18": "-"
+    "Event": "Pan-American Volleyball Cup",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Guatemala"
+          },
+          {
+            "name": "Peru"
+          }
+        ],
+        "rates": [
+          "3.8",
+          "-",
+          "1.24",
+          "1.87",
+          "172.5",
+          "1.84",
+          "1.833",
+          "+13.5-",
+          "1.87"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Chile"
+          },
+          {
+            "name": "Mexico"
+          }
+        ],
+        "rates": [
+          "1.56",
+          "-",
+          "2.333",
+          "1.85",
+          "182.5",
+          "1.86",
+          "1.89",
+          "-5.5+",
+          "1.82"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "1st teams (Points)"
+          },
+          {
+            "name": "2nd teams (Points)"
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "1.82",
+          "683.5",
+          "1.84",
+          "1.86",
+          "+8.5-",
+          "1.801"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "Cuba"
+          },
+          {
+            "name": "USA"
+          }
+        ],
+        "rates": [
+          "3.27",
+          "-",
+          "1.31",
+          "1.87",
+          "174.5",
+          "1.84",
+          "1.86",
+          "+11.5-",
+          "1.85"
+        ]
+      },
+      {
+        "game5": [
+          {
+            "name": "Canada"
+          },
+          {
+            "name": "Puerto Rico"
+          }
+        ],
+        "rates": [
+          "1.39",
+          "-",
+          "2.851",
+          "1.84",
+          "175.5",
+          "1.87",
+          "1.84",
+          "-9.5+",
+          "1.87"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "Uruguay Championship. Division A. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Nacional II (Women)"
+          },
+          {
+            "name": "Banco Republica B (Women)"
+          }
+        ],
+        "rates": [
+          "1.969",
+          "-",
+          "1.709",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Hebraica (Women)"
+          },
+          {
+            "name": "Centenario (Women)"
+          }
+        ],
+        "rates": [
+          "1.299",
+          "-",
+          "3.09",
+          "1.815",
+          "174.5",
+          "1.845",
+          "1.876",
+          "-11.5+",
+          "1.786"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Brazil. Championship Paulista. U19",
-    "Team1": "Santo Andre U19",
-    "Team2": "San Jose AC U19",
-    "Time1": "17/07 04:00",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.207",
-    "Rate2": "-",
-    "Rate3": "4.08",
-    "Rate4": "1.84",
-    "Rate5": "175.5",
-    "Rate6": "1.85",
-    "Rate7": "1.8",
-    "Rate8": "-11.5+",
-    "Rate9": "1.89"
-  },
-  {
-    "Event": "Argentina. Liga de Honor",
-    "Team1": "San-Lorenzo de Almagro",
-    "Team2": "Estudiantes La Plata",
-    "Team3": "Velez Sarfield",
-    "Team4": "UBA",
-    "Time1": "17/07 06:00",
-    "Time2": "17/07 06:00",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.23",
-    "Rate2": "-",
-    "Rate3": "3.81",
-    "Rate4": "1.82",
-    "Rate5": "176.5",
-    "Rate6": "1.87",
-    "Rate7": "1.89",
-    "Rate8": "-11.5+",
-    "Rate9": "1.8",
-    "Rate10": "2.04",
-    "Rate11": "-",
-    "Rate12": "1.69",
-    "Rate13": "1.86",
-    "Rate14": "182.5",
-    "Rate15": "1.83",
-    "Rate16": "1.85",
-    "Rate17": "+2.5-",
-    "Rate18": "1.84"
-  },
-  {
-    "Event": "South Korea. University Cup",
-    "Team1": "Woosuk University",
-    "Team2": "Honam University",
-    "Team3": "Gumi University",
-    "Team4": "Mokpo University",
-    "Time1": "17/07 06:25",
-    "Time2": "17/07 07:55",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "2.429",
-    "Rate2": "-",
-    "Rate3": "1.468",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-",
-    "Rate10": "2.214",
-    "Rate11": "-",
-    "Rate12": "1.559",
-    "Rate13": "-",
-    "Rate14": "-",
-    "Rate15": "-",
-    "Rate16": "-",
-    "Rate17": "-",
-    "Rate18": "-"
-  },
-  {
-    "Event": "Costa Rica Championship",
-    "Team1": "Cartago",
-    "Team2": "ADV San Jose",
-    "Time1": "17/07 07:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.33",
-    "Rate2": "-",
-    "Rate3": "3.1",
-    "Rate4": "1.82",
-    "Rate5": "174.5",
-    "Rate6": "1.87",
-    "Rate7": "1.82",
-    "Rate8": "-10.5+",
-    "Rate9": "1.87"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Sesi Jau U19"
+          },
+          {
+            "name": "Praia Grande U19"
+          }
+        ],
+        "rates": [
+          "1.423",
+          "-",
+          "2.561",
+          "1.86",
+          "181.5",
+          "1.8",
+          "1.83",
+          "-7.5+",
+          "1.83"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Belarus. Liga Pro",
-    "Team1": "Sokol-Pro",
-    "Team2": "Phoenix-Pro",
-    "Team3": "Molot-Pro",
-    "Team4": "Orly-Pro",
-    "Team5": "Plamya-Pro",
-    "Team6": "Vityaz-Pro",
-    "Team7": "Payp-Pro",
-    "Team8": "Tornado-Pro",
-    "Team9": "Alliance-Pro",
-    "Team10": "Titany-Pro",
-    "Time1": "17/07 09:45",
-    "Time2": "17/07 11:25",
-    "Time3": "17/07 13:15",
-    "Time4": "17/07 14:45",
-    "Time5": "17/07 16:25",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "2.234",
-    "Rate2": "-",
-    "Rate3": "1.55",
-    "Rate4": "1.81",
-    "Rate5": "179.5",
-    "Rate6": "1.85",
-    "Rate7": "1.85",
-    "Rate8": "+4.5-",
-    "Rate9": "1.81",
-    "Rate10": "2.458",
-    "Rate11": "-",
-    "Rate12": "1.458",
-    "Rate13": "1.83",
-    "Rate14": "179.5",
-    "Rate15": "1.83",
-    "Rate16": "1.81",
-    "Rate17": "+6.5-",
-    "Rate18": "1.85",
-    "Rate19": "1.557",
-    "Rate20": "-",
-    "Rate21": "2.219",
-    "Rate22": "1.81",
-    "Rate23": "179.5",
-    "Rate24": "1.85",
-    "Rate25": "1.81",
-    "Rate26": "-4.5+",
-    "Rate27": "1.85",
-    "Rate28": "2.219",
-    "Rate29": "-",
-    "Rate30": "1.557",
-    "Rate31": "1.81",
-    "Rate32": "179.5",
-    "Rate33": "1.85",
-    "Rate34": "1.85",
-    "Rate35": "+4.5-",
-    "Rate36": "1.81",
-    "Rate37": "2.254",
-    "Rate38": "-",
-    "Rate39": "1.54",
-    "Rate40": "1.81",
-    "Rate41": "179.5",
-    "Rate42": "1.85",
-    "Rate43": "1.85",
-    "Rate44": "+4.5-",
-    "Rate45": "1.81"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Imperiya-Pro"
+          },
+          {
+            "name": "Legion-Pro"
+          }
+        ],
+        "rates": [
+          "1.458",
+          "-",
+          "2.458",
+          "1.83",
+          "179.5",
+          "1.83",
+          "1.85",
+          "-6.5+",
+          "1.81"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Lions-Pro"
+          },
+          {
+            "name": "Enerdzhi-Pro"
+          }
+        ],
+        "rates": [
+          "2.209",
+          "-",
+          "1.562",
+          "1.81",
+          "179.5",
+          "1.85",
+          "1.85",
+          "+4.5-",
+          "1.81"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "International Tournament. National Teams",
-    "Team1": "China",
-    "Team2": "South Korea",
-    "Team3": "Brazil",
-    "Team4": "Japan B",
-    "Time1": "17/07 12:30",
-    "Time2": "17/07 15:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "2.14",
-    "Rate2": "-",
-    "Rate3": "1.66",
-    "Rate4": "1.83",
-    "Rate5": "177.5",
-    "Rate6": "1.88",
-    "Rate7": "1.833",
-    "Rate8": "+4.5-",
-    "Rate9": "1.87",
-    "Rate10": "1.63",
-    "Rate11": "-",
-    "Rate12": "2.189",
-    "Rate13": "1.83",
-    "Rate14": "180.5",
-    "Rate15": "1.88",
-    "Rate16": "1.87",
-    "Rate17": "-4.5+",
-    "Rate18": "1.84"
+    "Event": "Indonesia. Proliga",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Bogor LavAni"
+          },
+          {
+            "name": "Bhayangkara Presisi"
+          }
+        ],
+        "rates": [
+          "1.25",
+          "-",
+          "3.635",
+          "1.833",
+          "172.5",
+          "1.85",
+          "1.81",
+          "-12.5+",
+          "1.88"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Palembang Bank Sumsel Babel"
+          },
+          {
+            "name": "Jakarta STIN BIN"
+          }
+        ],
+        "rates": [
+          "1.63",
+          "-",
+          "2.163",
+          "1.82",
+          "180.5",
+          "1.87",
+          "1.81",
+          "-3.5+",
+          "1.88"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "Russia. League Pro. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Malahit-Pro (Women)"
+          },
+          {
+            "name": "Saphire-Pro (Women)"
+          }
+        ],
+        "rates": [
+          "1.83",
+          "-",
+          "1.83",
+          "1.81",
+          "180.5",
+          "1.85",
+          "1.83",
+          "0",
+          "1.83"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Malahit-Pro (Women)"
+          },
+          {
+            "name": "Granat-Pro (Women)"
+          }
+        ],
+        "rates": [
+          "1.791",
+          "-",
+          "1.871",
+          "1.81",
+          "180.5",
+          "1.85",
+          "1.83",
+          "0",
+          "1.83"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Sovy-Pro (Women)"
+          },
+          {
+            "name": "Panteres-Pro (Women)"
+          }
+        ],
+        "rates": [
+          "1.83",
+          "-",
+          "1.83",
+          "1.81",
+          "180.5",
+          "1.85",
+          "1.83",
+          "0",
+          "1.83"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "Sovy-Pro (Women)"
+          },
+          {
+            "name": "Foxy-Pro (Women)"
+          }
+        ],
+        "rates": [
+          "1.82",
+          "-",
+          "1.84",
+          "1.81",
+          "180.5",
+          "1.85",
+          "1.83",
+          "0",
+          "1.83"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   }
 ]

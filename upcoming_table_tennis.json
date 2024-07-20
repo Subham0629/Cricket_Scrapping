@@ -1,722 +1,1196 @@
 [
   {
     "Event": "Pro League",
-    "Team1": "Aleksei Naumov",
-    "Team2": "Igor Minchenkov",
-    "Team3": "Oleg Butorin",
-    "Team4": "Konstantin Olshakov",
-    "Team5": "Anton Sokolov",
-    "Team6": "Andrey Borisov",
-    "Team7": "Alexey Konobeev",
-    "Team8": "Igor Meteleshko",
-    "Team9": "Roman Alov",
-    "Team10": "Sergey Lanovenko",
-    "Team11": "Egor Karabanov",
-    "Team12": "Oleg Butorin",
-    "Team13": "Alexnader Savynski",
-    "Team14": "Anton Sokolov",
-    "Team15": "Sergey Kulikov",
-    "Team16": "Oleg Moshnikov",
-    "Team17": "Igor Minchenkov",
-    "Team18": "Roman Alov",
-    "Team19": "Andrey Borisov",
-    "Team20": "Aleksandr Alekseyev",
-    "Team21": "Konstantin Olshakov",
-    "Team22": "Sergey Martyukhin",
-    "Team23": "Oleg Moshnikov",
-    "Team24": "Igor Meteleshko",
-    "Time1": "16/07 18:30",
-    "Time2": "16/07 18:35",
-    "Time3": "16/07 18:45",
-    "Time4": "16/07 19:00",
-    "Time5": "16/07 19:00",
-    "Time6": "16/07 19:05",
-    "Time7": "16/07 19:15",
-    "Time8": "16/07 19:20",
-    "Time9": "16/07 19:30",
-    "Time10": "16/07 19:35",
-    "Time11": "16/07 19:35",
-    "Time12": "16/07 19:50",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "2.506",
-    "Rate2": "-",
-    "Rate3": "1.441",
-    "Rate4": "1.81",
-    "Rate5": "74.5",
-    "Rate6": "1.85",
-    "Rate7": "1.81",
-    "Rate8": "+5.5-",
-    "Rate9": "1.85",
-    "Rate10": "2.506",
-    "Rate11": "-",
-    "Rate12": "1.441",
-    "Rate13": "1.81",
-    "Rate14": "74.5",
-    "Rate15": "1.85",
-    "Rate16": "1.81",
-    "Rate17": "+5.5-",
-    "Rate18": "1.85",
-    "Rate19": "1.407",
-    "Rate20": "-",
-    "Rate21": "2.616",
-    "Rate22": "1.83",
-    "Rate23": "74.5",
-    "Rate24": "1.83",
-    "Rate25": "1.81",
-    "Rate26": "-5.5+",
-    "Rate27": "1.85",
-    "Rate28": "1.697",
-    "Rate29": "-",
-    "Rate30": "1.985",
-    "Rate31": "1.83",
-    "Rate32": "75.5",
-    "Rate33": "1.83",
-    "Rate34": "1.81",
-    "Rate35": "-1.5+",
-    "Rate36": "1.85",
-    "Rate37": "1.346",
-    "Rate38": "-",
-    "Rate39": "2.855",
-    "Rate40": "1.81",
-    "Rate41": "73.5",
-    "Rate42": "1.85",
-    "Rate43": "1.81",
-    "Rate44": "-6.5+",
-    "Rate45": "1.85",
-    "Rate46": "1.697",
-    "Rate47": "-",
-    "Rate48": "1.985",
-    "Rate49": "1.83",
-    "Rate50": "75.5",
-    "Rate51": "1.83",
-    "Rate52": "1.81",
-    "Rate53": "-1.5+",
-    "Rate54": "1.85",
-    "Rate55": "2.616",
-    "Rate56": "-",
-    "Rate57": "1.407",
-    "Rate58": "1.83",
-    "Rate59": "74.5",
-    "Rate60": "1.83",
-    "Rate61": "1.85",
-    "Rate62": "+5.5-",
-    "Rate63": "1.81",
-    "Rate64": "1.591",
-    "Rate65": "-",
-    "Rate66": "2.152",
-    "Rate67": "1.85",
-    "Rate68": "75.5",
-    "Rate69": "1.81",
-    "Rate70": "1.85",
-    "Rate71": "-3.5+",
-    "Rate72": "1.81",
-    "Rate73": "1.702",
-    "Rate74": "-",
-    "Rate75": "1.979",
-    "Rate76": "1.83",
-    "Rate77": "75.5",
-    "Rate78": "1.83",
-    "Rate79": "1.81",
-    "Rate80": "-1.5+",
-    "Rate81": "1.85",
-    "Rate82": "1.407",
-    "Rate83": "-",
-    "Rate84": "2.616",
-    "Rate85": "1.83",
-    "Rate86": "74.5",
-    "Rate87": "1.83",
-    "Rate88": "1.83",
-    "Rate89": "-5.5+",
-    "Rate90": "1.83",
-    "Rate91": "2.409",
-    "Rate92": "-",
-    "Rate93": "1.475",
-    "Rate94": "1.787",
-    "Rate95": "74.5",
-    "Rate96": "1.875",
-    "Rate97": "1.83",
-    "Rate98": "+4.5-",
-    "Rate99": "1.83",
-    "Rate100": "1.689",
-    "Rate101": "-",
-    "Rate102": "1.996",
-    "Rate103": "1.83",
-    "Rate104": "75.5",
-    "Rate105": "1.83",
-    "Rate106": "1.81",
-    "Rate107": "-1.5+",
-    "Rate108": "1.85"
-  },
-  {
-    "Event": "Masters. Russia",
-    "Team1": "Vladislav Bushkov",
-    "Team2": "Aisen Stepanov",
-    "Team3": "Alexander Pitimirov",
-    "Team4": "Valeriy Gorelov",
-    "Time1": "16/07 18:40",
-    "Time2": "16/07 19:00",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.63",
-    "Rate2": "-",
-    "Rate3": "2.241",
-    "Rate4": "2.03",
-    "Rate5": "112.5",
-    "Rate6": "1.73",
-    "Rate7": "1.89",
-    "Rate8": "-3.5+",
-    "Rate9": "1.85",
-    "Rate10": "1.73",
-    "Rate11": "-",
-    "Rate12": "2.05",
-    "Rate13": "2.01",
-    "Rate14": "112.5",
-    "Rate15": "1.75",
-    "Rate16": "1.85",
-    "Rate17": "-1.5+",
-    "Rate18": "1.89"
-  },
-  {
-    "Event": "Masters. Super League",
-    "Team1": "Mikhail Rozhkov",
-    "Team2": "Mukhammed Akhmedzhanov",
-    "Team3": "Mikhail Ivanov",
-    "Team4": "Igor Elistratov",
-    "Time1": "16/07 18:40",
-    "Time2": "16/07 19:00",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "3.28",
-    "Rate2": "-",
-    "Rate3": "1.32",
-    "Rate4": "2.04",
-    "Rate5": "111.5",
-    "Rate6": "1.72",
-    "Rate7": "1.81",
-    "Rate8": "+6.5-",
-    "Rate9": "1.93",
-    "Rate10": "1.88",
-    "Rate11": "-",
-    "Rate12": "1.88",
-    "Rate13": "2",
-    "Rate14": "112.5",
-    "Rate15": "1.76",
-    "Rate16": "1.73",
-    "Rate17": "+1.5-",
-    "Rate18": "2.03"
-  },
-  {
-    "Event": "Setka Cup",
-    "Team1": "Dmitry Zaporozhets",
-    "Team2": "Alexandr Mytsyk",
-    "Team3": "Dmitrii Derevinskii",
-    "Team4": "Alexander Buberenko",
-    "Team5": "Andrey Dacenko",
-    "Team6": "Alexander Zhurba",
-    "Team7": "Vadim Komar",
-    "Team8": "Dmitry Yurkov",
-    "Team9": "Mikhail Potapov",
-    "Team10": "Igor Syniavskyi I.",
-    "Team11": "Roman Cherevko",
-    "Team12": "Alexandr Tuzhilin",
-    "Team13": "Oleg Karpenko",
-    "Team14": "Oleksandr Timofeev 1968",
-    "Team15": "Vitaliy Khamurda",
-    "Team16": "Valentin Lobas",
-    "Team17": "Evgeniy Gonchar",
-    "Team18": "Andrey Dacenko",
-    "Team19": "Sergey Balabey",
-    "Team20": "Vadim Komar",
-    "Team21": "Evgeniy Pismenny",
-    "Team22": "Aleksey Krutko",
-    "Team23": "Oles Kotsyumbas",
-    "Team24": "Eduard Bernatskyi",
-    "Team25": "Alexandr Mytsyk",
-    "Team26": "Sergey Skhabitskiy",
-    "Team27": "Yuri Kolesnik",
-    "Team28": "Roman Gnoyevoy",
-    "Time1": "16/07 18:40",
-    "Time2": "16/07 18:55",
-    "Time3": "16/07 19:00",
-    "Time4": "16/07 19:00",
-    "Time5": "16/07 19:05",
-    "Time6": "16/07 19:05",
-    "Time7": "16/07 19:10",
-    "Time8": "16/07 19:25",
-    "Time9": "16/07 19:30",
-    "Time10": "16/07 19:30",
-    "Time11": "16/07 19:35",
-    "Time12": "16/07 19:35",
-    "Time13": "16/07 19:40",
-    "Time14": "16/07 19:55",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.88",
-    "Rate2": "-",
-    "Rate3": "1.83",
-    "Rate4": "1.81",
-    "Rate5": "75.5",
-    "Rate6": "1.88",
-    "Rate7": "1.833",
-    "Rate8": "+0.5-",
-    "Rate9": "1.87",
-    "Rate10": "2.268",
-    "Rate11": "-",
-    "Rate12": "1.58",
-    "Rate13": "1.85",
-    "Rate14": "75.5",
-    "Rate15": "1.85",
-    "Rate16": "1.88",
-    "Rate17": "+3.5-",
-    "Rate18": "1.82",
-    "Rate19": "2.508",
-    "Rate20": "-",
-    "Rate21": "1.48",
-    "Rate22": "1.87",
-    "Rate23": "75.5",
-    "Rate24": "1.82",
-    "Rate25": "1.89",
-    "Rate26": "+4.5-",
-    "Rate27": "1.81",
-    "Rate28": "1.86",
-    "Rate29": "-",
-    "Rate30": "1.86",
-    "Rate31": "1.81",
-    "Rate32": "75.5",
-    "Rate33": "1.88",
-    "Rate34": "1.89",
-    "Rate35": "-0.5+",
-    "Rate36": "1.81",
-    "Rate37": "1.63",
-    "Rate38": "-",
-    "Rate39": "1.888",
-    "Rate40": "1.75",
-    "Rate41": "76.5",
-    "Rate42": "1.75",
-    "Rate43": "-",
-    "Rate44": "-",
-    "Rate45": "-",
-    "Rate46": "3.315",
-    "Rate47": "-",
-    "Rate48": "1.295",
-    "Rate49": "1.85",
-    "Rate50": "73.5",
-    "Rate51": "1.85",
-    "Rate52": "1.8",
-    "Rate53": "+7.5-",
-    "Rate54": "1.9",
-    "Rate55": "1.93",
-    "Rate56": "-",
-    "Rate57": "1.78",
-    "Rate58": "1.82",
-    "Rate59": "75.5",
-    "Rate60": "1.87",
-    "Rate61": "1.89",
-    "Rate62": "+0.5-",
-    "Rate63": "1.81",
-    "Rate64": "1.98",
-    "Rate65": "-",
-    "Rate66": "1.74",
-    "Rate67": "1.82",
-    "Rate68": "75.5",
-    "Rate69": "1.87",
-    "Rate70": "1.85",
-    "Rate71": "+1.5-",
-    "Rate72": "1.85",
-    "Rate73": "1.62",
-    "Rate74": "-",
-    "Rate75": "2.191",
-    "Rate76": "1.84",
-    "Rate77": "75.5",
-    "Rate78": "1.85",
-    "Rate79": "1.88",
-    "Rate80": "-3.5+",
-    "Rate81": "1.82",
-    "Rate82": "3.415",
-    "Rate83": "-",
-    "Rate84": "1.28",
-    "Rate85": "1.86",
-    "Rate86": "73.5",
-    "Rate87": "1.83",
-    "Rate88": "1.84",
-    "Rate89": "+7.5-",
-    "Rate90": "1.86",
-    "Rate91": "1.58",
-    "Rate92": "-",
-    "Rate93": "2.268",
-    "Rate94": "1.833",
-    "Rate95": "77.5",
-    "Rate96": "1.833",
-    "Rate97": "1.83",
-    "Rate98": "-3.5+",
-    "Rate99": "1.87",
-    "Rate100": "1.55",
-    "Rate101": "-",
-    "Rate102": "2.335",
-    "Rate103": "1.85",
-    "Rate104": "75.5",
-    "Rate105": "1.84",
-    "Rate106": "1.9",
-    "Rate107": "-4.5+",
-    "Rate108": "1.8",
-    "Rate109": "1.8",
-    "Rate110": "-",
-    "Rate111": "1.909",
-    "Rate112": "1.81",
-    "Rate113": "75.5",
-    "Rate114": "1.88",
-    "Rate115": "1.84",
-    "Rate116": "-0.5+",
-    "Rate117": "1.86",
-    "Rate118": "2.307",
-    "Rate119": "-",
-    "Rate120": "1.56",
-    "Rate121": "1.85",
-    "Rate122": "75.5",
-    "Rate123": "1.84",
-    "Rate124": "1.9",
-    "Rate125": "+3.5-",
-    "Rate126": "1.8"
-  },
-  {
-    "Event": "TT-Cup. Poland",
-    "Team1": "Michal Lysakowski",
-    "Team2": "Adam Gdula",
-    "Team3": "Bartlomiej Mrugala",
-    "Team4": "Karol Sulkowski",
-    "Time1": "16/07 18:40",
-    "Time2": "16/07 19:35",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.75",
-    "Rate2": "-",
-    "Rate3": "1.97",
-    "Rate4": "1.82",
-    "Rate5": "75.5",
-    "Rate6": "1.87",
-    "Rate7": "1.87",
-    "Rate8": "-1.5+",
-    "Rate9": "1.833",
-    "Rate10": "1.97",
-    "Rate11": "-",
-    "Rate12": "1.75",
-    "Rate13": "1.82",
-    "Rate14": "75.5",
-    "Rate15": "1.87",
-    "Rate16": "1.833",
-    "Rate17": "+1.5-",
-    "Rate18": "1.87"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Andrey Puchinin"
+          },
+          {
+            "name": "Alexey Uvarov"
+          }
+        ],
+        "rates": [
+          "2.718",
+          "-",
+          "1.379",
+          "1.881",
+          "74.5",
+          "1.782",
+          "1.782",
+          "+6.5-",
+          "1.881"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Andrey Zolotov"
+          },
+          {
+            "name": "Andrey Puchinin"
+          }
+        ],
+        "rates": [
+          "2.437",
+          "-",
+          "1.465",
+          "1.81",
+          "74.5",
+          "1.85",
+          "1.881",
+          "+4.5-",
+          "1.782"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Roman Sitnikov"
+          },
+          {
+            "name": "Aleksandr Potekhin"
+          }
+        ],
+        "rates": [
+          "1.368",
+          "-",
+          "2.763",
+          "1.875",
+          "74.5",
+          "1.787",
+          "1.881",
+          "-6.5+",
+          "1.782"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "Sergey Nikulin"
+          },
+          {
+            "name": "Nikita Lyfenko"
+          }
+        ],
+        "rates": [
+          "2.063",
+          "-",
+          "1.644",
+          "1.85",
+          "75.5",
+          "1.81",
+          "1.85",
+          "+2.5-",
+          "1.81"
+        ]
+      },
+      {
+        "game5": [
+          {
+            "name": "Alexey Innazarov"
+          },
+          {
+            "name": "Roman Homenko"
+          }
+        ],
+        "rates": [
+          "1.85",
+          "-",
+          "1.81",
+          "1.83",
+          "75.5",
+          "1.83",
+          "1.702",
+          "+1.5-",
+          "1.979"
+        ]
+      },
+      {
+        "game6": [
+          {
+            "name": "Valery Kutin"
+          },
+          {
+            "name": "Alexnader Savynski"
+          }
+        ],
+        "rates": [
+          "1.488",
+          "-",
+          "2.376",
+          "1.81",
+          "74.5",
+          "1.85",
+          "1.81",
+          "-4.5+",
+          "1.85"
+        ]
+      },
+      {
+        "game7": [
+          {
+            "name": "Aleksandr Potekhin"
+          },
+          {
+            "name": "Dmitry Konstantinov"
+          }
+        ],
+        "rates": [
+          "1.663",
+          "-",
+          "2.034",
+          "1.83",
+          "75.5",
+          "1.83",
+          "1.85",
+          "-2.5+",
+          "1.81"
+        ]
+      },
+      {
+        "game8": [
+          {
+            "name": "Alexey Uvarov"
+          },
+          {
+            "name": "Pavel Malakhov V."
+          }
+        ],
+        "rates": [
+          "1.85",
+          "-",
+          "1.85",
+          "1.85",
+          "75.5",
+          "1.85",
+          "1.8",
+          "+0.5-",
+          "1.9"
+        ]
+      },
+      {
+        "game9": [
+          {
+            "name": "Sergey Lopatin"
+          },
+          {
+            "name": "Viacheslav Seleznev"
+          }
+        ],
+        "rates": [
+          "2.479",
+          "-",
+          "1.45",
+          "1.81",
+          "74.5",
+          "1.85",
+          "1.81",
+          "+5.5-",
+          "1.85"
+        ]
+      },
+      {
+        "game10": [
+          {
+            "name": "Alexnader Savynski"
+          },
+          {
+            "name": "Alexey Shershnev"
+          }
+        ],
+        "rates": [
+          "1.473",
+          "-",
+          "2.414",
+          "1.81",
+          "74.5",
+          "1.85",
+          "1.782",
+          "-4.5+",
+          "1.881"
+        ]
+      },
+      {
+        "game11": [
+          {
+            "name": "Roman Homenko"
+          },
+          {
+            "name": "Alexey Golovinsky"
+          }
+        ],
+        "rates": [
+          "2.085",
+          "-",
+          "1.63",
+          "1.85",
+          "75.5",
+          "1.81",
+          "1.85",
+          "+2.5-",
+          "1.81"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Setka Cup. Czech Republic",
-    "Team1": "Petr Provaznik",
-    "Team2": "Josef Hondlik",
-    "Team3": "Petr Kotrbacek",
-    "Team4": "Tomas Hanke",
-    "Team5": "Jan Priklopil",
-    "Team6": "Adam Pavlik",
-    "Team7": "Tomas Zielinsky",
-    "Team8": "Ondrej Horak",
-    "Team9": "Petr Provaznik",
-    "Team10": "Adam Pavlik",
-    "Time1": "16/07 18:45",
-    "Time2": "16/07 19:00",
-    "Time3": "16/07 19:15",
-    "Time4": "16/07 19:30",
-    "Time5": "16/07 19:45",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.591",
-    "Rate2": "-",
-    "Rate3": "2.152",
-    "Rate4": "1.825",
-    "Rate5": "75.5",
-    "Rate6": "1.835",
-    "Rate7": "1.85",
-    "Rate8": "-3.5+",
-    "Rate9": "1.81",
-    "Rate10": "1.83",
-    "Rate11": "-",
-    "Rate12": "1.83",
-    "Rate13": "1.796",
-    "Rate14": "75.5",
-    "Rate15": "1.865",
-    "Rate16": "1.87",
-    "Rate17": "-0.5+",
-    "Rate18": "1.791",
-    "Rate19": "1.83",
-    "Rate20": "-",
-    "Rate21": "1.83",
-    "Rate22": "1.796",
-    "Rate23": "75.5",
-    "Rate24": "1.865",
-    "Rate25": "1.87",
-    "Rate26": "-0.5+",
-    "Rate27": "1.791",
-    "Rate28": "1.875",
-    "Rate29": "-",
-    "Rate30": "1.787",
-    "Rate31": "1.796",
-    "Rate32": "75.5",
-    "Rate33": "1.865",
-    "Rate34": "1.83",
-    "Rate35": "+0.5-",
-    "Rate36": "1.83",
-    "Rate37": "1.599",
-    "Rate38": "-",
-    "Rate39": "2.139",
-    "Rate40": "1.83",
-    "Rate41": "75.5",
-    "Rate42": "1.83",
-    "Rate43": "-",
-    "Rate44": "-",
-    "Rate45": "-"
-  },
-  {
-    "Event": "TT-Cup. Czech Republic",
-    "Team1": "David Vesecky",
-    "Team2": "Petr Semrad",
-    "Team3": "Vlastimil Kolar",
-    "Team4": "Daniel Hyza",
-    "Time1": "16/07 18:55",
-    "Time2": "16/07 19:50",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.64",
-    "Rate2": "-",
-    "Rate3": "2.144",
-    "Rate4": "1.833",
-    "Rate5": "75.5",
-    "Rate6": "1.86",
-    "Rate7": "1.81",
-    "Rate8": "-2.5+",
-    "Rate9": "1.89",
-    "Rate10": "2.095",
-    "Rate11": "-",
-    "Rate12": "1.67",
-    "Rate13": "1.82",
-    "Rate14": "75.5",
-    "Rate15": "1.88",
-    "Rate16": "1.83",
-    "Rate17": "+1.5-",
-    "Rate18": "1.83"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Matej Svitac"
+          },
+          {
+            "name": "Vit Herrmann"
+          }
+        ],
+        "rates": [
+          "1.706",
+          "-",
+          "1.973",
+          "1.805",
+          "75.5",
+          "1.855",
+          "1.83",
+          "-1.5+",
+          "1.83"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Lukas Nedomlel"
+          },
+          {
+            "name": "Ondrej Mezera"
+          }
+        ],
+        "rates": [
+          "1.706",
+          "-",
+          "1.973",
+          "1.805",
+          "75.5",
+          "1.855",
+          "1.83",
+          "-1.5+",
+          "1.83"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Milan Liptak"
+          },
+          {
+            "name": "Vit Herrmann"
+          }
+        ],
+        "rates": [
+          "1.83",
+          "-",
+          "1.83",
+          "1.796",
+          "75.5",
+          "1.865",
+          "1.87",
+          "-0.5+",
+          "1.791"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "Tomas Hucko"
+          },
+          {
+            "name": "Ondrej Mezera"
+          }
+        ],
+        "rates": [
+          "1.83",
+          "-",
+          "1.83",
+          "1.83",
+          "80.5",
+          "1.83",
+          "1.87",
+          "-0.5+",
+          "1.791"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "League Pro. Minsk",
-    "Team1": "Petr Puzanov",
-    "Team2": "Alexander Logunov",
-    "Team3": "Aleksandr Sidorkov",
-    "Team4": "Petr Puzanov",
-    "Time1": "16/07 19:00",
-    "Time2": "16/07 19:20",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.85",
-    "Rate2": "-",
-    "Rate3": "1.81",
-    "Rate4": "1.83",
-    "Rate5": "75.5",
-    "Rate6": "1.83",
-    "Rate7": "1.782",
-    "Rate8": "+0.5-",
-    "Rate9": "1.881",
-    "Rate10": "1.85",
-    "Rate11": "-",
-    "Rate12": "1.81",
-    "Rate13": "1.83",
-    "Rate14": "75.5",
-    "Rate15": "1.83",
-    "Rate16": "1.782",
-    "Rate17": "+0.5-",
-    "Rate18": "1.881"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Sergei Lysakovskii"
+          },
+          {
+            "name": "Aleksandr Osadchii"
+          }
+        ],
+        "rates": [
+          "1.547",
+          "-",
+          "2.238",
+          "1.85",
+          "75.5",
+          "1.81",
+          "1.85",
+          "-4.5+",
+          "1.81"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Andrey Pontus"
+          },
+          {
+            "name": "Evgenii Mutianko"
+          }
+        ],
+        "rates": [
+          "2.718",
+          "-",
+          "1.379",
+          "1.875",
+          "74.5",
+          "1.787",
+          "1.782",
+          "+6.5-",
+          "1.881"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "Masters. Russia",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Denis Medvedev"
+          },
+          {
+            "name": "Shamil Hayrullin"
+          }
+        ],
+        "rates": [
+          "2.05",
+          "-",
+          "1.73",
+          "2.01",
+          "112.5",
+          "1.75",
+          "1.89",
+          "+1.5-",
+          "1.85"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Dondok Ayurov"
+          },
+          {
+            "name": "Igor Elistratov"
+          }
+        ],
+        "rates": [
+          "2.703",
+          "-",
+          "1.45",
+          "2.03",
+          "111.5",
+          "1.74",
+          "1.89",
+          "+5.5-",
+          "1.85"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Vladislav Kunitsyn"
+          },
+          {
+            "name": "Islam Chegaduev"
+          }
+        ],
+        "rates": [
+          "2.404",
+          "-",
+          "1.55",
+          "2.06",
+          "112.5",
+          "1.72",
+          "1.85",
+          "+4.5-",
+          "1.89"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "Ilya Semerkin"
+          },
+          {
+            "name": "Andrey Dergunov"
+          }
+        ],
+        "rates": [
+          "2.356",
+          "-",
+          "1.57",
+          "2.05",
+          "112.5",
+          "1.72",
+          "1.82",
+          "+4.5-",
+          "1.92"
+        ]
+      },
+      {
+        "game5": [
+          {
+            "name": "Andrey Dergunov"
+          },
+          {
+            "name": "Dzhamshed Khasanov"
+          }
+        ],
+        "rates": [
+          "2.116",
+          "-",
+          "1.7",
+          "2.01",
+          "112.5",
+          "1.75",
+          "1.86",
+          "+2.5-",
+          "1.8"
+        ]
+      },
+      {
+        "game6": [
+          {
+            "name": "Evgeny Pavlov"
+          },
+          {
+            "name": "Alexander Chernov"
+          }
+        ],
+        "rates": [
+          "2.241",
+          "-",
+          "1.63",
+          "2.03",
+          "112.5",
+          "1.73",
+          "1.85",
+          "+3.5-",
+          "1.89"
+        ]
+      },
+      {
+        "game7": [
+          {
+            "name": "Islam Chegaduev"
+          },
+          {
+            "name": "Vladislav Milinka"
+          }
+        ],
+        "rates": [
+          "2.241",
+          "-",
+          "1.63",
+          "2.03",
+          "112.5",
+          "1.73",
+          "1.85",
+          "+3.5-",
+          "1.89"
+        ]
+      },
+      {
+        "game8": [
+          {
+            "name": "Evgeniy Elizarov"
+          },
+          {
+            "name": "Denis Medvedev"
+          }
+        ],
+        "rates": [
+          "1.63",
+          "-",
+          "2.241",
+          "2.03",
+          "112.5",
+          "1.73",
+          "1.89",
+          "-3.5+",
+          "1.85"
+        ]
+      },
+      {
+        "game9": [
+          {
+            "name": "Evgeniy Petrov"
+          },
+          {
+            "name": "Vladislav Kunitsyn"
+          }
+        ],
+        "rates": [
+          "1.42",
+          "-",
+          "2.793",
+          "2.04",
+          "111.5",
+          "1.72",
+          "1.81",
+          "-5.5+",
+          "1.94"
+        ]
+      },
+      {
+        "game10": [
+          {
+            "name": "Kirill Taran"
+          },
+          {
+            "name": "Evgeny Pavlov"
+          }
+        ],
+        "rates": [
+          "1.49",
+          "-",
+          "2.584",
+          "2",
+          "111.5",
+          "1.75",
+          "1.92",
+          "-5.5+",
+          "1.82"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "Setka Cup",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Vitalii Mukhin"
+          },
+          {
+            "name": "Konstantin Klimenko"
+          }
+        ],
+        "rates": [
+          "1.44",
+          "-",
+          "2.633",
+          "1.82",
+          "74.5",
+          "1.87",
+          "1.85",
+          "-5.5+",
+          "1.85"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Pavel Chyzh"
+          },
+          {
+            "name": "Denis Maltsev"
+          }
+        ],
+        "rates": [
+          "2.249",
+          "-",
+          "1.591",
+          "1.85",
+          "75.5",
+          "1.85",
+          "1.85",
+          "+3.5-",
+          "1.85"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Sergey Miroshnichenko"
+          },
+          {
+            "name": "Igor Torgachov"
+          }
+        ],
+        "rates": [
+          "1.196",
+          "-",
+          "4.225",
+          "1.83",
+          "71.5",
+          "1.86",
+          "1.83",
+          "-8.5+",
+          "1.87"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "Pavel Lavrinenko"
+          },
+          {
+            "name": "Alexey Nadporozhsky"
+          }
+        ],
+        "rates": [
+          "2.191",
+          "-",
+          "1.62",
+          "1.84",
+          "75.5",
+          "1.85",
+          "1.925",
+          "+3.5-",
+          "1.78"
+        ]
+      },
+      {
+        "game5": [
+          {
+            "name": "Andrey Kotik"
+          },
+          {
+            "name": "Dmitry Zenyuk"
+          }
+        ],
+        "rates": [
+          "4.65",
+          "-",
+          "1.078",
+          "1.75",
+          "67.5",
+          "1.75",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game6": [
+          {
+            "name": "Stefan Jakimenko"
+          },
+          {
+            "name": "Ihor Emets"
+          }
+        ],
+        "rates": [
+          "2.383",
+          "-",
+          "1.53",
+          "1.86",
+          "75.5",
+          "1.83",
+          "1.84",
+          "+4.5-",
+          "1.86"
+        ]
+      },
+      {
+        "game7": [
+          {
+            "name": "Mikhail Vivatenko"
+          },
+          {
+            "name": "Rostyslav Fylypiv"
+          }
+        ],
+        "rates": [
+          "2.084",
+          "-",
+          "1.686",
+          "1.833",
+          "79.5",
+          "1.833",
+          "1.83",
+          "+2.5-",
+          "1.87"
+        ]
+      },
+      {
+        "game8": [
+          {
+            "name": "Sergey Maluk"
+          },
+          {
+            "name": "Roman Zaporozhets"
+          }
+        ],
+        "rates": [
+          "1.86",
+          "-",
+          "1.86",
+          "1.81",
+          "75.5",
+          "1.88",
+          "1.89",
+          "-0.5+",
+          "1.81"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
     "Event": "Pro League. Czech Republic",
-    "Team1": "Lukas Jindrak",
-    "Team2": "Jan Kanera",
-    "Team3": "Lukas Gunter",
-    "Team4": "Jiri Jira",
-    "Team5": "Martin Huk",
-    "Team6": "Jiri Louda",
-    "Team7": "Radim Urbaniec",
-    "Team8": "David Stusek",
-    "Team9": "Tomas Beran 2000",
-    "Team10": "Jan Ruzicka",
-    "Team11": "Erik Mares",
-    "Team12": "Tomas Turek",
-    "Team13": "Frantisek Chaloupka",
-    "Team14": "Filip Theodor",
-    "Team15": "Oleg Vitrovyj",
-    "Team16": "Jiri Strouhal",
-    "Time1": "16/07 19:28",
-    "Time2": "16/07 19:30",
-    "Time3": "16/07 19:30",
-    "Time4": "16/07 19:30",
-    "Time5": "16/07 19:30",
-    "Time6": "16/07 20:00",
-    "Time7": "16/07 20:00",
-    "Time8": "16/07 20:00",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "1.8",
-    "Rate2": "-",
-    "Rate3": "1.909",
-    "Rate4": "1.833",
-    "Rate5": "76.5",
-    "Rate6": "1.833",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-",
-    "Rate10": "1.833",
-    "Rate11": "-",
-    "Rate12": "1.833",
-    "Rate13": "1.83",
-    "Rate14": "76.5",
-    "Rate15": "1.83",
-    "Rate16": "1.702",
-    "Rate17": "+1.5-",
-    "Rate18": "1.979",
-    "Rate19": "1.687",
-    "Rate20": "-",
-    "Rate21": "2.092",
-    "Rate22": "1.833",
-    "Rate23": "76.5",
-    "Rate24": "1.833",
-    "Rate25": "-",
-    "Rate26": "-",
-    "Rate27": "-",
-    "Rate28": "2.498",
-    "Rate29": "-",
-    "Rate30": "1.51",
-    "Rate31": "1.83",
-    "Rate32": "75.5",
-    "Rate33": "1.83",
-    "Rate34": "1.85",
-    "Rate35": "+4.5-",
-    "Rate36": "1.81",
-    "Rate37": "1.833",
-    "Rate38": "-",
-    "Rate39": "1.833",
-    "Rate40": "1.83",
-    "Rate41": "76.5",
-    "Rate42": "1.83",
-    "Rate43": "1.702",
-    "Rate44": "+1.5-",
-    "Rate45": "1.979",
-    "Rate46": "1.833",
-    "Rate47": "-",
-    "Rate48": "1.833",
-    "Rate49": "-",
-    "Rate50": "-",
-    "Rate51": "-",
-    "Rate52": "-",
-    "Rate53": "-",
-    "Rate54": "-",
-    "Rate55": "1.727",
-    "Rate56": "-",
-    "Rate57": "2",
-    "Rate58": "1.833",
-    "Rate59": "76.5",
-    "Rate60": "1.833",
-    "Rate61": "-",
-    "Rate62": "-",
-    "Rate63": "-",
-    "Rate64": "2.24",
-    "Rate65": "-",
-    "Rate66": "1.591",
-    "Rate67": "1.833",
-    "Rate68": "75.5",
-    "Rate69": "1.833",
-    "Rate70": "-",
-    "Rate71": "-",
-    "Rate72": "-"
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Gunar Krauter"
+          },
+          {
+            "name": "Daniel Tuma"
+          }
+        ],
+        "rates": [
+          "1.51",
+          "-",
+          "2.498",
+          "1.83",
+          "75.5",
+          "1.83",
+          "1.83",
+          "-4.5+",
+          "1.83"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Josef Fuchs"
+          },
+          {
+            "name": "Vladimir Krejci"
+          }
+        ],
+        "rates": [
+          "2.092",
+          "-",
+          "1.687",
+          "1.83",
+          "76.5",
+          "1.83",
+          "1.83",
+          "+2.5-",
+          "1.83"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Leos Havrda"
+          },
+          {
+            "name": "Petr Serak"
+          }
+        ],
+        "rates": [
+          "2.182",
+          "-",
+          "1.62",
+          "1.84",
+          "75.5",
+          "1.86",
+          "1.81",
+          "+3.5-",
+          "1.89"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "Lukas Malek"
+          },
+          {
+            "name": "Tomas Barta"
+          }
+        ],
+        "rates": [
+          "1.46",
+          "-",
+          "2.559",
+          "1.87",
+          "75.5",
+          "1.791",
+          "1.9",
+          "-5.5+",
+          "1.8"
+        ]
+      },
+      {
+        "game5": [
+          {
+            "name": "Radek Benes"
+          },
+          {
+            "name": "Jiri Skalicky"
+          }
+        ],
+        "rates": [
+          "1.454",
+          "-",
+          "2.627",
+          "1.83",
+          "75.5",
+          "1.83",
+          "1.881",
+          "-5.5+",
+          "1.782"
+        ]
+      },
+      {
+        "game6": [
+          {
+            "name": "David Szotek"
+          },
+          {
+            "name": "Borek Moravec"
+          }
+        ],
+        "rates": [
+          "1.687",
+          "-",
+          "2.092",
+          "1.83",
+          "76.5",
+          "1.83",
+          "1.85",
+          "-2.5+",
+          "1.81"
+        ]
+      },
+      {
+        "game7": [
+          {
+            "name": "Dmitry Parkhomenko"
+          },
+          {
+            "name": "David Horak"
+          }
+        ],
+        "rates": [
+          "1.63",
+          "-",
+          "2.163",
+          "1.82",
+          "75.5",
+          "1.84",
+          "1.782",
+          "-2.5+",
+          "1.881"
+        ]
+      },
+      {
+        "game8": [
+          {
+            "name": "Jiri Plachy"
+          },
+          {
+            "name": "Matej Nohejl"
+          }
+        ],
+        "rates": [
+          "2",
+          "-",
+          "1.727",
+          "1.83",
+          "76.5",
+          "1.83",
+          "1.83",
+          "+1.5-",
+          "1.83"
+        ]
+      },
+      {
+        "game9": [
+          {
+            "name": "Pavel Divis"
+          },
+          {
+            "name": "Petr Wejwoda"
+          }
+        ],
+        "rates": [
+          "1.8",
+          "-",
+          "1.909",
+          "1.83",
+          "76.5",
+          "1.83",
+          "1.913",
+          "-1.5+",
+          "1.754"
+        ]
+      },
+      {
+        "game10": [
+          {
+            "name": "Vladimir Kubat"
+          },
+          {
+            "name": "Jaroslav Strnad 1961"
+          }
+        ],
+        "rates": [
+          "1.833",
+          "-",
+          "1.833",
+          "1.833",
+          "76.5",
+          "1.833",
+          "1.979",
+          "-1.5+",
+          "1.702"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   },
   {
-    "Event": "Czech Republic. TT Star Series",
-    "Team1": "Tobias Hippler",
-    "Team2": "Antonin Gavlas",
-    "Time1": "16/07 19:30",
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "1",
-    "head8": "HANDICAP",
-    "head9": "2",
-    "Rate1": "3.11",
-    "Rate2": "-",
-    "Rate3": "1.296",
-    "Rate4": "1.83",
-    "Rate5": "72.5",
-    "Rate6": "1.83",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-"
+    "Event": "TT-Cup. Poland",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Karol Prokop"
+          },
+          {
+            "name": "Jacek Bednarz"
+          }
+        ],
+        "rates": [
+          "2.07",
+          "-",
+          "1.68",
+          "1.82",
+          "75.5",
+          "1.87",
+          "1.82",
+          "+2.5-",
+          "1.88"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Maciej Kolek"
+          },
+          {
+            "name": "Milosz Kukawka"
+          }
+        ],
+        "rates": [
+          "1.63",
+          "-",
+          "2.172",
+          "1.833",
+          "75.5",
+          "1.86",
+          "1.89",
+          "-3.5+",
+          "1.81"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Tomasz Witkowski"
+          },
+          {
+            "name": "Franciszek Jastrzebowski"
+          }
+        ],
+        "rates": [
+          "1.71",
+          "-",
+          "2.02",
+          "1.82",
+          "75.5",
+          "1.87",
+          "1.82",
+          "-1.5+",
+          "1.88"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "TT Cup. Estonia",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Stanislav Strogov"
+          },
+          {
+            "name": "Mart Luuk"
+          }
+        ],
+        "rates": [
+          "1.72",
+          "-",
+          "2.01",
+          "1.82",
+          "75.5",
+          "1.87",
+          "1.833",
+          "-1.5+",
+          "1.87"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
+  },
+  {
+    "Event": "TT-Cup. Czech Republic",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Jaroslav Brynych"
+          },
+          {
+            "name": "Pavel Cibik"
+          }
+        ],
+        "rates": [
+          "2.154",
+          "-",
+          "1.635",
+          "1.85",
+          "79.5",
+          "1.81",
+          "1.89",
+          "+2.5-",
+          "1.81"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "1",
+      "HANDICAP",
+      "2"
+    ]
   }
 ]

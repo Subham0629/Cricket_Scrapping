@@ -1,831 +1,1046 @@
 [
   {
-    "Event": "Vitality Blast",
-    "match": [
-      {
-        "Team1": "Lancashire Lightning",
-        "Team2": "Nottinghamshire Outlaws",
-        "Team3": "Worcestershire Rapids",
-        "Team4": "Derbyshire",
-        "Team5": "Surrey County",
-        "Team6": "Hampshire",
-        "Team7": "Northamptonshire Steelbacks",
-        "Team8": "Birmingham Bears",
-        "Team9": "Middlesex",
-        "Team10": "Gloucestershire County",
-        "Team11": "Somerset County",
-        "Team12": "Sussex Sharks"
-      },
-      {
-        "Time1": "17/07 23:00",
-        "Time2": "18/07 22:00",
-        "Time3": "18/07 23:00",
-        "Time4": "18/07 23:15",
-        "Time5": "18/07 23:30",
-        "Time6": "18/07 23:30"
-      }
-    ],
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.464",
-    "Rate2": "-",
-    "Rate3": "2.705",
-    "Rate4": "1.466",
-    "Rate5": "25",
-    "Rate6": "2.713",
-    "Rate7": "1.972",
-    "Rate8": "331.5",
-    "Rate9": "1.833",
-    "Rate10": "2.151",
-    "Rate11": "-",
-    "Rate12": "1.701",
-    "Rate13": "2.156",
-    "Rate14": "25",
-    "Rate15": "1.704",
-    "Rate16": "1.972",
-    "Rate17": "338.5",
-    "Rate18": "1.833",
-    "Rate19": "1.638",
-    "Rate20": "-",
-    "Rate21": "2.262",
-    "Rate22": "1.643",
-    "Rate23": "25",
-    "Rate24": "2.263",
-    "Rate25": "1.972",
-    "Rate26": "329.5",
-    "Rate27": "1.833",
-    "Rate28": "2.653",
-    "Rate29": "-",
-    "Rate30": "1.48",
-    "Rate31": "2.661",
-    "Rate32": "25",
-    "Rate33": "1.482",
-    "Rate34": "1.972",
-    "Rate35": "353.5",
-    "Rate36": "1.833",
-    "Rate37": "2.884",
-    "Rate38": "-",
-    "Rate39": "1.417",
-    "Rate40": "2.893",
-    "Rate41": "25",
-    "Rate42": "1.419",
-    "Rate43": "1.922",
-    "Rate44": "333.5",
-    "Rate45": "1.878",
-    "Rate46": "1.761",
-    "Rate47": "-",
-    "Rate48": "2.063",
-    "Rate49": "1.764",
-    "Rate50": "25",
-    "Rate51": "2.067",
-    "Rate52": "1.972",
-    "Rate53": "366.5",
-    "Rate54": "1.833"
-  },
-  {
     "Event": "Tamil Nadu Premier League",
-    "match": [
+    "matches": [
       {
-        "Team1": "Tiruppur Tamizhans",
-        "Team2": "Dindigul Dragons",
-        "Team3": "Salem Spartans",
-        "Team4": "Chepauk Super Gillies"
+        "game1": [
+          {
+            "name": "Trichy Grand Cholas"
+          },
+          {
+            "name": "Nellai Royal Kings"
+          }
+        ],
+        "rates": [
+          "2.05",
+          "-",
+          "1.75",
+          "2.054",
+          "25",
+          "1.753",
+          "-",
+          "-",
+          "-"
+        ]
       },
       {
-        "Time1": "17/07 19:15",
-        "Time2": "18/07 19:15"
+        "game2": [
+          {
+            "name": "Dindigul Dragons"
+          },
+          {
+            "name": "Lyca Kovai Kings"
+          }
+        ],
+        "rates": [
+          "1.852",
+          "-",
+          "1.972",
+          "1.848",
+          "26",
+          "1.978",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Tiruppur Tamizhans"
+          },
+          {
+            "name": "Salem Spartans"
+          }
+        ],
+        "rates": [
+          "1.88",
+          "-",
+          "1.88",
+          "1.884",
+          "25",
+          "1.884",
+          "-",
+          "-",
+          "-"
+        ]
       }
     ],
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "2.505",
-    "Rate2": "-",
-    "Rate3": "1.531",
-    "Rate4": "2.507",
-    "Rate5": "25",
-    "Rate6": "1.535",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-",
-    "Rate10": "2.25",
-    "Rate11": "-",
-    "Rate12": "1.6",
-    "Rate13": "2.255",
-    "Rate14": "25",
-    "Rate15": "1.603",
-    "Rate16": "-",
-    "Rate17": "-",
-    "Rate18": "-"
+    "head": [
+      "1",
+      "-",
+      "2",
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
     "Event": "Indian Premier League",
-    "match": [
+    "matches": [
       {
-        "Team1": "Kolkata Knight Riders",
-        "Team2": "Sunrisers Hyderabad",
-        "Team3": "Royal Challengers Bangalore",
-        "Team4": "Chennai Super Kings"
+        "game1": [
+          {
+            "name": "Kolkata Knight Riders"
+          },
+          {
+            "name": "Sunrisers Hyderabad"
+          }
+        ],
+        "rates": [
+          "1.861",
+          "-",
+          "1.983",
+          "1.865",
+          "25",
+          "1.986",
+          "-",
+          "-",
+          "-"
+        ]
       },
       {
-        "Time1": "29/03 19:30",
-        "Time2": "30/03 18:30"
+        "game2": [
+          {
+            "name": "Royal Challengers Bangalore"
+          },
+          {
+            "name": "Chennai Super Kings"
+          }
+        ],
+        "rates": [
+          "1.861",
+          "-",
+          "1.983",
+          "1.865",
+          "25",
+          "1.986",
+          "-",
+          "-",
+          "-"
+        ]
       }
     ],
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.861",
-    "Rate2": "-",
-    "Rate3": "1.983",
-    "Rate4": "1.865",
-    "Rate5": "25",
-    "Rate6": "1.986",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-",
-    "Rate10": "1.861",
-    "Rate11": "-",
-    "Rate12": "1.983",
-    "Rate13": "1.865",
-    "Rate14": "25",
-    "Rate15": "1.986",
-    "Rate16": "-",
-    "Rate17": "-",
-    "Rate18": "-"
-  },
-  {
-    "Event": "Asia Cup. Women",
-    "match": [
-      {
-        "Team1": "India (Women)",
-        "Team2": "Pakistan (Women)"
-      },
-      {
-        "Time1": "19/07 19:00"
-      }
-    ],
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.1",
-    "Rate2": "-",
-    "Rate3": "6.75",
-    "Rate4": "1.101",
-    "Rate5": "25",
-    "Rate6": "6.79",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-"
+    "head": [
+      "1",
+      "-",
+      "2",
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
     "Event": "India vs Bangladesh",
-    "match": [
+    "matches": [
       {
-        "Team1": "India",
-        "Team2": "Bangladesh"
-      },
-      {
-        "Time1": "19/09 09:30"
+        "game1": [
+          {
+            "name": "India"
+          },
+          {
+            "name": "Bangladesh"
+          }
+        ],
+        "rates": [
+          "1.09",
+          "-",
+          "6.1",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
       }
     ],
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.09",
-    "Rate2": "-",
-    "Rate3": "6.1",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-"
+    "head": [
+      "1",
+      "-",
+      "2",
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
     "Event": "European Series. T10",
-    "match": [
+    "matches": [
       {
-        "Team1": "Royal Tigers Budapest",
-        "Team2": "Budapest Zalmi",
-        "Team3": "Danubian Kangaroos",
-        "Team4": "Budapest Kings",
-        "Team5": "Budapest Zalmi",
-        "Team6": "Danubian Kangaroos",
-        "Team7": "Budapest Kings",
-        "Team8": "Budapest Zalmi"
+        "game1": [
+          {
+            "name": "Budapest Zalmi"
+          },
+          {
+            "name": "Dunabogdany"
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
       },
       {
-        "Time1": "17/07 14:30",
-        "Time2": "17/07 16:30",
-        "Time3": "17/07 18:30",
-        "Time4": "17/07 20:30"
-      }
-    ],
-    "head1": "1",
-    "head2": "X",
-    "head3": "2",
-    "head4": "O",
-    "head5": "TOTAL",
-    "head6": "U",
-    "head7": "O",
-    "head8": "(OVER) T1",
-    "head9": "U",
-    "Rate1": "-",
-    "Rate2": "-",
-    "Rate3": "-",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-",
-    "Rate10": "-",
-    "Rate11": "-",
-    "Rate12": "-",
-    "Rate13": "-",
-    "Rate14": "-",
-    "Rate15": "-",
-    "Rate16": "-",
-    "Rate17": "-",
-    "Rate18": "-",
-    "Rate19": "-",
-    "Rate20": "-",
-    "Rate21": "-",
-    "Rate22": "-",
-    "Rate23": "-",
-    "Rate24": "-",
-    "Rate25": "-",
-    "Rate26": "-",
-    "Rate27": "-",
-    "Rate28": "-",
-    "Rate29": "-",
-    "Rate30": "-",
-    "Rate31": "-",
-    "Rate32": "-",
-    "Rate33": "-",
-    "Rate34": "-",
-    "Rate35": "-",
-    "Rate36": "-"
-  },
-  {
-    "Event": "Ireland. Super 50. Women",
-    "match": [
-      {
-        "Team1": "Typhoons (Women)",
-        "Team2": "Dragons (Women)"
+        "game2": [
+          {
+            "name": "United Csalad Budapest"
+          },
+          {
+            "name": "Cobra Cricket Club"
+          }
+        ],
+        "rates": [
+          "2.145",
+          "25",
+          "1.693",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
       },
       {
-        "Time1": "17/07 15:15"
-      }
-    ],
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "2.25",
-    "Rate2": "-",
-    "Rate3": "1.55",
-    "Rate4": "2.256",
-    "Rate5": "50",
-    "Rate6": "1.553",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-"
-  },
-  {
-    "Event": "Finland. Premier League",
-    "match": [
-      {
-        "Team1": "SKK Rapids",
-        "Team2": "Empire CC"
+        "game3": [
+          {
+            "name": "Dunabogdany"
+          },
+          {
+            "name": "Royal Tigers Budapest"
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
       },
       {
-        "Time1": "17/07 20:00"
+        "game4": [
+          {
+            "name": "Cobra Cricket Club"
+          },
+          {
+            "name": "United Csalad Budapest"
+          }
+        ],
+        "rates": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
       }
     ],
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "4.25",
-    "Rate2": "-",
-    "Rate3": "1.18",
-    "Rate4": "4.27",
-    "Rate5": "25",
-    "Rate6": "1.182",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-"
+    "head": [
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U",
+      "O",
+      "(OVER) T1",
+      "U"
+    ]
   },
   {
-    "Event": "Dream11 Trinidad T10 Blast",
-    "match": [
+    "Event": "Netherlands. KNCB. Topklasse",
+    "matches": [
       {
-        "Team1": "Soca King",
-        "Team2": "Scarlet Ibis Scorchers",
-        "Team3": "Steelpan Strikers",
-        "Team4": "Leatherback Giants"
+        "game1": [
+          {
+            "name": "Amsterdamsche"
+          },
+          {
+            "name": "VRA"
+          }
+        ],
+        "rates": [
+          "6.5",
+          "-",
+          "1.08",
+          "6.54",
+          "50",
+          "1.081",
+          "-",
+          "-",
+          "-"
+        ]
       },
       {
-        "Time1": "17/07 21:30",
-        "Time2": "18/07 00:00"
-      }
-    ],
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "2.15",
-    "Rate2": "-",
-    "Rate3": "1.7",
-    "Rate4": "2.155",
-    "Rate5": "25",
-    "Rate6": "1.703",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-",
-    "Rate10": "1.7",
-    "Rate11": "-",
-    "Rate12": "2.1",
-    "Rate13": "1.703",
-    "Rate14": "25",
-    "Rate15": "2.105",
-    "Rate16": "-",
-    "Rate17": "-",
-    "Rate18": "-"
-  },
-  {
-    "Event": "England (Women) vs New Zealand (Women)",
-    "match": [
-      {
-        "Team1": "England (Women)",
-        "Team2": "New Zealand (Women)"
+        "game2": [
+          {
+            "name": "HCC"
+          },
+          {
+            "name": "V.O.C Rotterdam"
+          }
+        ],
+        "rates": [
+          "1.45",
+          "-",
+          "2.55",
+          "1.452",
+          "50",
+          "2.557",
+          "-",
+          "-",
+          "-"
+        ]
       },
       {
-        "Time1": "17/07 22:30"
+        "game3": [
+          {
+            "name": "VCC"
+          },
+          {
+            "name": "Hermes DVS"
+          }
+        ],
+        "rates": [
+          "1.3",
+          "-",
+          "3.2",
+          "1.302",
+          "50",
+          "3.21",
+          "-",
+          "-",
+          "-"
+        ]
       }
     ],
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.2",
-    "Rate2": "-",
-    "Rate3": "4.345",
-    "Rate4": "1.201",
-    "Rate5": "25",
-    "Rate6": "4.365",
-    "Rate7": "1.732",
-    "Rate8": "269.5",
-    "Rate9": "1.946"
-  },
-  {
-    "Event": "USA. Major League",
-    "match": [
-      {
-        "Team1": "Seattle Orcas",
-        "Team2": "Los Angeles Knight Riders"
-      },
-      {
-        "Time1": "18/07 00:30"
-      }
-    ],
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "2.2",
-    "Rate2": "-",
-    "Rate3": "1.703",
-    "Rate4": "2.199",
-    "Rate5": "25",
-    "Rate6": "1.705",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-"
-  },
-  {
-    "Event": "Ghazi Amanullah Khan Tournament",
-    "match": [
-      {
-        "Team1": "Maiwand Champions",
-        "Team2": "Mah-E-Par Stars"
-      },
-      {
-        "Time1": "18/07 10:00"
-      }
-    ],
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "2.05",
-    "Rate2": "-",
-    "Rate3": "1.75",
-    "Rate4": "2.054",
-    "Rate5": "50",
-    "Rate6": "1.753",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-"
-  },
-  {
-    "Event": "Sri Lanka. Premier League. 2024. Winner",
-    "match": [
-      {},
-      {
-        "Time1": "18/07 15:00"
-      }
-    ],
-    "head1": "JAFFNA KINGS",
-    "head2": "COLOMBO STRIKERS",
-    "head3": "GALLE MARVELS",
-    "head4": "KANDY FALCONS",
-    "head5": "TO WIN - YES",
-    "Rate1": "2.5",
-    "Rate2": "6.5",
-    "Rate3": "2.65",
-    "Rate4": "7",
-    "Rate5": "-"
-  },
-  {
-    "Event": "Sri-Lanka. Premier League",
-    "match": [
-      {
-        "Team1": "Galle Marvels",
-        "Team2": "Jaffna Kings",
-        "Team3": "Colombo Strikers",
-        "Team4": "Kandy Falcons"
-      },
-      {
-        "Time1": "18/07 15:00",
-        "Time2": "18/07 19:30"
-      }
-    ],
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "2.163",
-    "Rate2": "-",
-    "Rate3": "1.721",
-    "Rate4": "2.168",
-    "Rate5": "25",
-    "Rate6": "1.723",
-    "Rate7": "1.833",
-    "Rate8": "317.5",
-    "Rate9": "1.833",
-    "Rate10": "1.763",
-    "Rate11": "-",
-    "Rate12": "2.057",
-    "Rate13": "1.765",
-    "Rate14": "25",
-    "Rate15": "2.063",
-    "Rate16": "1.833",
-    "Rate17": "316.5",
-    "Rate18": "1.833"
+    "head": [
+      "1",
+      "-",
+      "2",
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
     "Event": "England vs West Indies",
-    "match": [
+    "matches": [
       {
-        "Team1": "England",
-        "Team2": "West Indies"
-      },
-      {
-        "Time1": "18/07 15:30"
+        "game1": [
+          {
+            "name": "England"
+          },
+          {
+            "name": "West Indies"
+          }
+        ],
+        "rates": [
+          "1.3",
+          "-",
+          "3.4",
+          "1.533",
+          "5.75",
+          "4",
+          "-",
+          "-",
+          "-"
+        ]
       }
     ],
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.05",
-    "Rate2": "-",
-    "Rate3": "9",
-    "Rate4": "1.125",
-    "Rate5": "12",
-    "Rate6": "11",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-"
+    "head": [
+      "1",
+      "-",
+      "2",
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
     "Event": "ICC Cricket World Cup. League 2",
-    "match": [
+    "matches": [
       {
-        "Team1": "Oman",
-        "Team2": "Namibia"
-      },
-      {
-        "Time1": "18/07 15:30"
+        "game1": [
+          {
+            "name": "Scotland"
+          },
+          {
+            "name": "Namibia"
+          }
+        ],
+        "rates": [
+          "1.45",
+          "-",
+          "2.755",
+          "1.45",
+          "50",
+          "2.757",
+          "-",
+          "-",
+          "-"
+        ]
       }
     ],
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "2.421",
-    "Rate2": "-",
-    "Rate3": "1.563",
-    "Rate4": "2.427",
-    "Rate5": "50",
-    "Rate6": "1.566",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-"
+    "head": [
+      "1",
+      "-",
+      "2",
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
-    "Event": "Pakistan A vs Bangladesh A",
-    "match": [
+    "Event": "Finland. Premier League",
+    "matches": [
       {
-        "Team1": "Pakistan A",
-        "Team2": "Bangladesh A"
-      },
-      {
-        "Time1": "19/07 07:00"
+        "game1": [
+          {
+            "name": "BTCC Thundercats"
+          },
+          {
+            "name": "TreCC Amperes"
+          }
+        ],
+        "rates": [
+          "1.2",
+          "-",
+          "4",
+          "1.202",
+          "25",
+          "4.015",
+          "-",
+          "-",
+          "-"
+        ]
       }
     ],
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.41",
-    "Rate2": "-",
-    "Rate3": "2.85",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-"
+    "head": [
+      "1",
+      "-",
+      "2",
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "Scotland. Eastern Premier League",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Carlton"
+          },
+          {
+            "name": "Arbroath United"
+          }
+        ],
+        "rates": [
+          "1.35",
+          "-",
+          "3",
+          "1.352",
+          "50",
+          "3.01",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Falkland"
+          },
+          {
+            "name": "Heriot's"
+          }
+        ],
+        "rates": [
+          "2.05",
+          "-",
+          "1.7",
+          "2.055",
+          "50",
+          "1.703",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Grange"
+          },
+          {
+            "name": "Meigle"
+          }
+        ],
+        "rates": [
+          "1.1",
+          "-",
+          "6.5",
+          "1.101",
+          "50",
+          "6.54",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "RH Corstorphine"
+          },
+          {
+            "name": "Watsonians"
+          }
+        ],
+        "rates": [
+          "1.07",
+          "-",
+          "8",
+          "1.071",
+          "50",
+          "8.05",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game5": [
+          {
+            "name": "Stewart's Melville"
+          },
+          {
+            "name": "Forfarshire"
+          }
+        ],
+        "rates": [
+          "5.5",
+          "-",
+          "1.12",
+          "5.53",
+          "50",
+          "1.121",
+          "-",
+          "-",
+          "-"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "-",
+      "2",
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "Asia Cup. Women",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Sri Lanka (Women)"
+          },
+          {
+            "name": "Bangladesh (Women)"
+          }
+        ],
+        "rates": [
+          "1.3",
+          "-",
+          "3.4",
+          "1.302",
+          "25",
+          "3.41",
+          "1.833",
+          "240.5",
+          "1.833"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "-",
+      "2",
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "Sri-Lanka. Premier League",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Jaffna Kings"
+          },
+          {
+            "name": "Kandy Falcons"
+          }
+        ],
+        "rates": [
+          "1.902",
+          "-",
+          "1.942",
+          "1.905",
+          "25",
+          "1.944",
+          "1.833",
+          "330.5",
+          "1.833"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "-",
+      "2",
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "Dream11 Trinidad T10 Blast",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "Scarlet Ibis Scorchers"
+          },
+          {
+            "name": "Soca King"
+          }
+        ],
+        "rates": [
+          "1.571",
+          "-",
+          "2.35",
+          "1.574",
+          "25",
+          "2.356",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game2": [
+          {
+            "name": "Steelpan Strikers"
+          },
+          {
+            "name": "Leatherback Giants"
+          }
+        ],
+        "rates": [
+          "1.8",
+          "-",
+          "1.95",
+          "1.803",
+          "25",
+          "1.954",
+          "-",
+          "-",
+          "-"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "-",
+      "2",
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "USA. Major League",
+    "matches": [
+      {
+        "game1": [
+          {
+            "name": "San Francisco Unicorns"
+          },
+          {
+            "name": "Seattle Orcas"
+          }
+        ],
+        "rates": [
+          "1.703",
+          "-",
+          "2.201",
+          "1.706",
+          "25",
+          "2.206",
+          "-",
+          "-",
+          "-"
+        ]
+      }
+    ],
+    "head": [
+      "1",
+      "-",
+      "2",
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U"
+    ]
+  },
+  {
+    "Event": "Sri Lanka. Premier League. 2024. Winner",
+    "matches": [],
+    "head": [
+      "JAFFNA KINGS",
+      "GALLE MARVELS",
+      "KANDY FALCONS",
+      "TO WIN - YES",
+      "TO WIN - YES"
+    ]
   },
   {
     "Event": "The Hundred. 2024. Women",
-    "match": [
+    "matches": [
       {
-        "Team1": "Oval Invincible (Women)",
-        "Team2": "Birmingham Phoenix (Women)",
-        "Team3": "Southern Brave (Women)",
-        "Team4": "London Spirit (Women)",
-        "Team5": "Manchester Originals (Women)",
-        "Team6": "Welsh Fire (Women)",
-        "Team7": "Northern Superchargers (Women)",
-        "Team8": "Trent Rockets (Women)"
+        "game1": [
+          {
+            "name": "Oval Invincible (Women)"
+          },
+          {
+            "name": "Birmingham Phoenix (Women)"
+          }
+        ],
+        "rates": [
+          "1.85",
+          "-",
+          "1.95",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
       },
       {
-        "Time1": "23/07 20:15",
-        "Time2": "24/07 20:30",
-        "Time3": "25/07 20:30",
-        "Time4": "26/07 20:30"
+        "game2": [
+          {
+            "name": "Southern Brave (Women)"
+          },
+          {
+            "name": "London Spirit (Women)"
+          }
+        ],
+        "rates": [
+          "1.75",
+          "-",
+          "2.1",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Manchester Originals (Women)"
+          },
+          {
+            "name": "Welsh Fire (Women)"
+          }
+        ],
+        "rates": [
+          "1.65",
+          "-",
+          "2.25",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "Northern Superchargers (Women)"
+          },
+          {
+            "name": "Trent Rockets (Women)"
+          }
+        ],
+        "rates": [
+          "1.85",
+          "-",
+          "1.95",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
       }
     ],
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.81",
-    "Rate2": "-",
-    "Rate3": "1.89",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-",
-    "Rate10": "1.66",
-    "Rate11": "-",
-    "Rate12": "2.09",
-    "Rate13": "-",
-    "Rate14": "-",
-    "Rate15": "-",
-    "Rate16": "-",
-    "Rate17": "-",
-    "Rate18": "-",
-    "Rate19": "1.81",
-    "Rate20": "-",
-    "Rate21": "1.89",
-    "Rate22": "-",
-    "Rate23": "-",
-    "Rate24": "-",
-    "Rate25": "-",
-    "Rate26": "-",
-    "Rate27": "-",
-    "Rate28": "2.17",
-    "Rate29": "-",
-    "Rate30": "1.61",
-    "Rate31": "-",
-    "Rate32": "-",
-    "Rate33": "-",
-    "Rate34": "-",
-    "Rate35": "-",
-    "Rate36": "-"
+    "head": [
+      "1",
+      "-",
+      "2",
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
     "Event": "The Hundred. 2024",
-    "match": [
+    "matches": [
       {
-        "Team1": "Oval Invincible",
-        "Team2": "Birmingham Phoenix",
-        "Team3": "Southern Brave",
-        "Team4": "London Spirit",
-        "Team5": "Manchester Originals",
-        "Team6": "Welsh Fire",
-        "Team7": "Northern Superchargers",
-        "Team8": "Trent Rockets"
+        "game1": [
+          {
+            "name": "Oval Invincible"
+          },
+          {
+            "name": "Birmingham Phoenix"
+          }
+        ],
+        "rates": [
+          "1.7",
+          "-",
+          "2.15",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
       },
       {
-        "Time1": "23/07 23:00",
-        "Time2": "24/07 23:00",
-        "Time3": "26/07 00:00",
-        "Time4": "26/07 23:00"
+        "game2": [
+          {
+            "name": "Southern Brave"
+          },
+          {
+            "name": "London Spirit"
+          }
+        ],
+        "rates": [
+          "1.88",
+          "-",
+          "1.88",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "Manchester Originals"
+          },
+          {
+            "name": "Welsh Fire"
+          }
+        ],
+        "rates": [
+          "1.666",
+          "-",
+          "2.16",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game4": [
+          {
+            "name": "Northern Superchargers"
+          },
+          {
+            "name": "Trent Rockets"
+          }
+        ],
+        "rates": [
+          "1.9",
+          "-",
+          "1.86",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
       }
     ],
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.77",
-    "Rate2": "-",
-    "Rate3": "2.01",
-    "Rate4": "-",
-    "Rate5": "-",
-    "Rate6": "-",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-",
-    "Rate10": "1.88",
-    "Rate11": "-",
-    "Rate12": "1.88",
-    "Rate13": "-",
-    "Rate14": "-",
-    "Rate15": "-",
-    "Rate16": "-",
-    "Rate17": "-",
-    "Rate18": "-",
-    "Rate19": "1.666",
-    "Rate20": "-",
-    "Rate21": "2.16",
-    "Rate22": "-",
-    "Rate23": "-",
-    "Rate24": "-",
-    "Rate25": "-",
-    "Rate26": "-",
-    "Rate27": "-",
-    "Rate28": "1.93",
-    "Rate29": "-",
-    "Rate30": "1.833",
-    "Rate31": "-",
-    "Rate32": "-",
-    "Rate33": "-",
-    "Rate34": "-",
-    "Rate35": "-",
-    "Rate36": "-"
+    "head": [
+      "1",
+      "-",
+      "2",
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   },
   {
     "Event": "Caribbean Premier League",
-    "match": [
+    "matches": [
       {
-        "Team1": "Antigua & Barbuda Falcons",
-        "Team2": "St Kitts and Nevis Patriots",
-        "Team3": "Antigua & Barbuda Falcons",
-        "Team4": "Guyana Amazon Warriors",
-        "Team5": "St Kitts and Nevis Patriots",
-        "Team6": "Trinbago Knight Riders"
+        "game1": [
+          {
+            "name": "Antigua & Barbuda Falcons"
+          },
+          {
+            "name": "St Kitts and Nevis Patriots"
+          }
+        ],
+        "rates": [
+          "1.78",
+          "-",
+          "1.93",
+          "1.783",
+          "25",
+          "1.934",
+          "-",
+          "-",
+          "-"
+        ]
       },
       {
-        "Time1": "30/08 04:30",
-        "Time2": "31/08 04:30",
-        "Time3": "01/09 04:30"
+        "game2": [
+          {
+            "name": "Antigua & Barbuda Falcons"
+          },
+          {
+            "name": "Guyana Amazon Warriors"
+          }
+        ],
+        "rates": [
+          "2.1",
+          "-",
+          "1.66",
+          "2.105",
+          "25",
+          "1.663",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "game3": [
+          {
+            "name": "St Kitts and Nevis Patriots"
+          },
+          {
+            "name": "Trinbago Knight Riders"
+          }
+        ],
+        "rates": [
+          "2.4",
+          "-",
+          "1.51",
+          "2.406",
+          "25",
+          "1.512",
+          "-",
+          "-",
+          "-"
+        ]
       }
     ],
-    "head1": "1",
-    "head2": "-",
-    "head3": "2",
-    "head4": "1",
-    "head5": "X",
-    "head6": "2",
-    "head7": "O",
-    "head8": "TOTAL",
-    "head9": "U",
-    "Rate1": "1.78",
-    "Rate2": "-",
-    "Rate3": "1.93",
-    "Rate4": "1.783",
-    "Rate5": "25",
-    "Rate6": "1.934",
-    "Rate7": "-",
-    "Rate8": "-",
-    "Rate9": "-",
-    "Rate10": "2.1",
-    "Rate11": "-",
-    "Rate12": "1.66",
-    "Rate13": "2.105",
-    "Rate14": "25",
-    "Rate15": "1.663",
-    "Rate16": "-",
-    "Rate17": "-",
-    "Rate18": "-",
-    "Rate19": "2.4",
-    "Rate20": "-",
-    "Rate21": "1.51",
-    "Rate22": "2.406",
-    "Rate23": "25",
-    "Rate24": "1.512",
-    "Rate25": "-",
-    "Rate26": "-",
-    "Rate27": "-"
+    "head": [
+      "1",
+      "-",
+      "2",
+      "1",
+      "X",
+      "2",
+      "O",
+      "TOTAL",
+      "U"
+    ]
   }
 ]
